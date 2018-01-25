@@ -1,0 +1,32 @@
+- name: Home
+  path: index.html
+  section_id: home
+- name: Numerical cognition
+  path: numerical_cognition.html
+  section_id: numerical_cognition
+  children:
+    - name: Discrete Semantic System
+      path: discrete_semantic_system.html
+    - name: Can preschoolers understand zero?
+      path: zero_in_preschoolers.html
+    - name: The Give a number task revisited
+      path: the_give_a_number_task_revisited.html
+    - name: Number notation effect
+      path: number_notation_effect.html
+    - name: Subitizing
+      path: subitizing.html
+    - name: Negative numbers
+      path: negative_numbers.html
+    - name: Williams syndrome
+      path: williams_syndrome.html
+- name: Methodological works
+  path: methods.html
+  section_id: methods
+  children:
+    - name: CogStat
+      path: cogstat.html
+    - name: AlgoTaurus
+      path: algotaurus.html
+- name: About us
+  path: about.html
+  section_id: about

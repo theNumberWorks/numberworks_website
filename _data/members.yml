@@ -1,0 +1,54 @@
+- avatar: images/members/EdinaFintor.jpeg
+  name: Edina Fintor
+  position: 
+  socials:
+  desc:
+- avatar: images/members/LillaHodossy.jpg
+  name: Lilla Hodossy
+  position: 
+  socials:
+  desc:
+- avatar: images/members/OrsolyaKis.jpg
+  name: Orsolya Kis
+  position: PhD student (BME)
+  socials:
+  desc:
+- avatar: images/members/female.png
+  name: Orsolya Kis
+  position:
+  socials:
+  desc:
+- avatar: images/members/PetiaKojouharova.jpg
+  name: Petia Kojouharova
+  position: PhD student (ELTE)
+  socials:
+    - link: https://sites.google.com/site/petiakojouharova/
+      icon: globe
+  desc:
+- avatar: images/members/AttilaKrajcsi.jpg
+  name: Attila Krajcsi
+  position: Lab leader
+  socials:
+    - link: https://sites.google.com/site/krajcsi/english
+      icon: globe
+    - link: mailto:krajcsi@gmail.com
+      icon: envelope
+  desc:
+- avatar: images/members/AkosLaczko.jpg
+  name: Ákos Laczkó
+  position: PhD student (ELTE)
+  socials:
+  desc:
+- avatar: images/members/GaborLengyel.jpg
+  name: Gábor Lengyel
+  position: PhD student (CEU)
+  socials:
+    - link: http://www.visionlab-ceu.org/gaborlengyel
+      icon: globe
+  desc:
+- avatar: images/members/EszterSzabo.jpg
+  name: Eszter Szabó
+  position: PhD student (CEU)
+  socials:
+  desc:
+
