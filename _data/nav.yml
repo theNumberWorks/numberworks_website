@@ -29,4 +29,11 @@
       path: algotaurus.html
 - name: About us
   path: about.html
+  children:
+    - name: Lab members
+      path: members.html
+    - name: Events
+      path: events.html
+    - name: Contact us
+      path: contact.html
   section_id: about
