@@ -40,7 +40,7 @@ Find our Hungarian webpage [here](https://sites.google.com/site/matematikaimegis
     </div>
     <div class='medium-6 columns'>
         <h3><a href="contact.html">Contact us</a></h3>
-        <p>Find out where we are and how to <a href="about.html">contact us</a></p>.
+        <p>Find out where we are and how to <a href="contact.html">contact us</a></p>.
     </div>
   </div>
   <div class='spacing'></div>
