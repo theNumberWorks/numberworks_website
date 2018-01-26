@@ -16,7 +16,7 @@ Find a list of topics we have worked and we are working on. (Note that all illus
     </div>
     <div class='medium-6 columns'>
         <h3><a href="cogstat.html">CogStat</a></h3>
-        <p>CogStat is a new type of data analysis and statistical software package. It compiles the analyses automatically, which makes the analysis faster, more precise and more coherent across studies. This is an essential and useful feature either for beginners or professionals, and it is a great opportunity for methodologist to find more standardized best practices for data analysis.<br><br>
+        <p>CogStat is a new type of data analysis and statistical software package. It compiles the analyses automatically, which makes the analysis faster, more precise and more coherent across studies. This is an essential and useful feature either for beginners or professionals, and it is a great opportunity for methodologists to find more standardized best practices for data analysis.<br><br>
 
 <a href="cogstat.html">Read more</a></p>
     </div>

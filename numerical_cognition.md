@@ -113,7 +113,7 @@ Still, it is possible that an entirely different system is responsible for symbo
     </div>
     <div class='medium-6 columns'>
         <h3><a href="williams_syndrome.html">Numerical abilities in Williams syndrome</a></h3>
-        <p>It was already known that mathematical abilities are impaired in Williams Syndrome. Looking closer at this impairment we found a surprising dissociation. While a typical person living with Williams Syndrome can easily tell what is 6x8, they have problem deciding whether 9 or 2 is the bigger.<br><br>
+        <p>It was already known that mathematical abilities are impaired in Williams Syndrome. Looking closer at this impairment we found a surprising dissociation. While a typical person living with Williams Syndrome can easily tell what 6x8 is, they have problem deciding whether 9 or 2 is the bigger.<br><br>
 
 <a href="williams_syndrome.html">Read more</a></p>
     </div>
