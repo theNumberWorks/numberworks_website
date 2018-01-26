@@ -12,3 +12,4 @@ If you are a student who wants to learn computer programming, or you teach compu
 
 See more details and download the software from its [GitHub page](https://github.com/AlgoTaurus/algotaurus).
 
+![AlgoTaurus](https://github.com/AlgoTaurus/algotaurus/raw/master/screenshot.png)
