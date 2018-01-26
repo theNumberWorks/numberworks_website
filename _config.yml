@@ -3,7 +3,7 @@ title: NumberWorks Lab
 email: krajcsi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Numerical cognition research and methodological works lab at ELTE, Budapest, Hungary.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/numberworks_website/" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Build settings
