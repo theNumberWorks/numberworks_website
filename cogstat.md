@@ -4,9 +4,7 @@ title: CogStat
 section_id: methods
 ---
 
-[CogStat](http://www.cogstat.org) is a free and open source data analysis and statistical analyis software which aims to make data analysis more efficient.
-
-CogStat selects the hypothesis tests automatically, creates the graphes automatically, displays the charts automatically, displays the numerical results in APA format, and it knows a lot of smart things.
+[CogStat](http://www.cogstat.org) is a free and open source data analysis and statistical analyis software which aims to make data analysis more efficient. CogStat selects the hypothesis tests automatically, creates the graphes automatically, displays the charts automatically, displays the numerical results in APA format, and it knows a lot of smart things.
 
 Find more information on [its website](http://www.cogstat.org), in the [Quick start tutorial](https://github.com/cogstat/cogstat/wiki/Quick-Start-Tutorial), in a more detailed explanation about [how it differs from other software packages](https://github.com/cogstat/cogstat/wiki/How-is-CogStat-different%3F), or in the following slideshow:
 
