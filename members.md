@@ -4,7 +4,7 @@ title: Lab members
 section_id: about
 ---
 
-<div class='full'> 
+<div class='full'>
   <div class='row'>
     {% for member in site.data.members %}
       <div class='small-4 medium-3 large-3 columns'>
