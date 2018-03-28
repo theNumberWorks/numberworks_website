@@ -2,11 +2,15 @@
   name: Edina Fintor
   position: 
   socials:
+    - link: http://www.psych.rwth-aachen.de/cms/PSY/Das-Institut/Kognitions-und-Experimentalpsychologie/Team/~jrpf/Edina-Fintor/lidx/1/
+      icon: globe
   desc:
 - avatar: images/members/LillaHodossy.jpg
   name: Lilla Hodossy
   position: 
   socials:
+    - link: http://www.pc.rhul.ac.uk/sites/lab/index.php/lab-members/lilla-hodossy/
+      icon: globe
   desc:
 - avatar: images/members/OrsolyaKis.jpg
   name: Orsolya Kis
@@ -29,7 +33,7 @@
   name: Attila Krajcsi
   position: Lab leader
   socials:
-    - link: https://sites.google.com/site/krajcsi/english
+    - link: http://www.attilakrajcsi.hu/
       icon: globe
     - link: mailto:krajcsi@gmail.com
       icon: envelope
@@ -50,5 +54,7 @@
   name: Eszter Szabó
   position: PhD student (CEU)
   socials:
+    - link: https://cognitivescience.ceu.edu/people/eszter-szabo
+      icon: globe
   desc:
 
