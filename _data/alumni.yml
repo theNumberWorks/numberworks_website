@@ -1,0 +1,21 @@
+- avatar: images/members/JanosIgacs.jpg
+  name: János Igács
+  position:
+  socials:
+    - link: https://igacsjanos.weebly.com/
+      icon: globe
+  desc:
+- avatar: images/members/KarolinaJanacsek.jpg
+  name: Karolina Janacsek
+  position:
+  socials:
+    - link: https://sites.google.com/view/karolinajanacsek/home
+      icon: globe
+  desc:
+- avatar: images/members/ZsoltPalatinus.jpg
+  name: Zsolt Palatinus
+  position: 
+  socials:
+    - link: http://zpalatinus.com/
+      icon: globe
+  desc:
