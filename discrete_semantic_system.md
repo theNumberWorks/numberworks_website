@@ -65,7 +65,8 @@ The classic ANS model proposes that distance and size effects are simply two way
 ### 5. Numbers interfere with discrete properties
 The ANS model can explain several numerical interferences (e.g., the interference of the numbers with the location of the response button in a numerical task, termed the SNARC effect), suggesting that the analogue (continuous) number representation interferes with other analogue representations, e.g., the space in the case of the SNARC effect. We were looking for interference between number, and a discrete property, the parity, where the parity is most probably not stored on an analogue representation. We found that numbers interfere with parity, questioning the current analogue explanations.
 
-<i class='fa fa-file-text'></i> Attila Krajcsi, Gábor Lengyel, Ákos Laczkó (in press). Interference between number magnitude and parity: Discrete representation in number processing. Experimental Psychology. (Published version is coming soon.)
+<i class='fa fa-file-text'></i> Attila Krajcsi, Gábor Lengyel, Ákos Laczkó (2018). Interference between number magnitude and parity: Discrete representation in number processing. Experimental Psychology. 65(2), 71–83. [https://doi.org/10.1027/1618-3169/a000394](https://doi.org/10.1027/1618-3169/a000394)
+
 
 <i class='fa fa-table'></i> Find the raw data of this study at [osf.io](https://osf.io/g7t2q/).
 
