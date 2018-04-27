@@ -67,7 +67,7 @@ The ANS model can explain several numerical interferences (e.g., the interferenc
 
 <i class='fa fa-file-text'></i> Attila Krajcsi, Gábor Lengyel, Ákos Laczkó (2018). Interference between number magnitude and parity: Discrete representation in number processing. Experimental Psychology. 65(2), 71–83. [https://doi.org/10.1027/1618-3169/a000394](https://doi.org/10.1027/1618-3169/a000394)
 
-In this work we also introduced a new method to be able to discover heterogenous interferences, i.e., where the direction of the interference effect is not uniform in the sample. Find more details about the method [here](heterogeneous_interference.html).
+In this work we also introduced a new method to be able to discover heterogenous interferences, i.e., where the direction of the interference effect is not uniform in the sample. Find more details about the dual index method [here](heterogeneous_interference.html).
 
 <i class='fa fa-table'></i> Find the raw data of this study at [osf.io](https://osf.io/g7t2q/).
 
