@@ -47,7 +47,7 @@ Find a list of topics we have worked and we are working on. (Note that all illus
     </div>
     <div class='medium-6 columns'>
         <h3><a href="heterogeneous_interference.html">Revealing heterogeneous interference effects</a></h3>
-        <p>When the participants show interference effect of two properties, but the direction of the interference differ among the participants, usual calculation methods cannot reveal the interference effect. We introduced a new method with which these heterogenenous interference effects can be uncovered.<br><br>
+        <p>When the participants show interference effect for two properties, but the direction of the interference is not uniform, usual calculation methods cannot reveal the interference. We introduced a new method with which these heterogeneous interference effects can be uncovered.<br><br>
 
 <a href="heterogeneous_interference.html">Read more</a></p>
     </div>

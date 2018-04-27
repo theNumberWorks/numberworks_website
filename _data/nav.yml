@@ -27,6 +27,8 @@
       path: cogstat.html
     - name: AlgoTaurus
       path: algotaurus.html
+    - name: Heterogenous interference
+      path: heterogenenous_interference.html
 - name: About us
   path: about.html
   children:
