@@ -41,13 +41,13 @@ Find a list of topics we have worked and we are working on. (Note that all illus
 
   <div class='row'>
     <div class='medium-6 columns'>
-      <img class="fadeinleft" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Studies_of_Water_passing_Obstacles_and_falling.jpg/333px-Studies_of_Water_passing_Obstacles_and_falling.jpg" />
-      <br><small><a href="https://commons.wikimedia.org/wiki/File:Studies_of_Water_passing_Obstacles_and_falling.jpg">Source</a></small>
+      <img class="fadeinleft" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ma_Yuan_-_Water_Album_-_The_Yellow_River_Breaches_its_Course.jpg/640px-Ma_Yuan_-_Water_Album_-_The_Yellow_River_Breaches_its_Course.jpg" />
+      <br><small><a href="https://commons.wikimedia.org/wiki/File:Ma_Yuan_-_Water_Album_-_The_Yellow_River_Breaches_its_Course.jpg">Source</a></small>
       <div class='three spacing'></div>
     </div>
     <div class='medium-6 columns'>
         <h3><a href="heterogeneous_interference.html">Revealing heterogeneous interference effects</a></h3>
-        <p>When the participants show interference effect for two properties, but the direction of the interference is not uniform, usual calculation methods cannot reveal the interference. We introduced a new method with which these heterogeneous interference effects can be uncovered.<br><br>
+        <p>When the participants show interference effect for two properties, but the direction of the interference is not uniform, usual calculation methods cannot reveal the effet. We introduced a new method with which these heterogeneous interference effects can be uncovered.<br><br>
 
 <a href="heterogeneous_interference.html">Read more</a></p>
     </div>
