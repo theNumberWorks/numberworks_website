@@ -12,7 +12,6 @@ Find a list of topics we have worked and we are working on. (Note that all illus
     <div class='medium-6 columns'>
       <img class="fadeinleft" alt="" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Racknitz_-_The_Turk_3.jpg" />
       <br><small><a href="https://commons.wikimedia.org/wiki/File:Racknitz_-_The_Turk_3.jpg">Source</a></small>
-      <div class='three spacing'></div>
     </div>
     <div class='medium-6 columns'>
         <h3><a href="cogstat.html">CogStat</a></h3>
@@ -39,7 +38,6 @@ Find a list of topics we have worked and we are working on. (Note that all illus
     <div class='medium-6 columns'>
       <img class="fadeinleft" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ma_Yuan_-_Water_Album_-_The_Yellow_River_Breaches_its_Course.jpg/640px-Ma_Yuan_-_Water_Album_-_The_Yellow_River_Breaches_its_Course.jpg" />
       <br><small><a href="https://commons.wikimedia.org/wiki/File:Ma_Yuan_-_Water_Album_-_The_Yellow_River_Breaches_its_Course.jpg">Source</a></small>
-      <div class='three spacing'></div>
     </div>
     <div class='medium-6 columns'>
         <h3><a href="heterogeneous_interference.html">Revealing heterogeneous interference effects</a></h3>
