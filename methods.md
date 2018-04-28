@@ -19,7 +19,7 @@ Find a list of topics we have worked and we are working on. (Note that all illus
         <a href="cogstat.html">Read more</a></p>
     </div>
   </div>
-  <div class='spacing'></div>
+  <div class='three spacing'></div>
 
 
   <div class='row'>
@@ -33,7 +33,7 @@ Find a list of topics we have worked and we are working on. (Note that all illus
       <br><small><a href="https://commons.wikimedia.org/wiki/File:Paphos_Haus_des_Dionysos_-_Mosaik_Theseus_7_Labyrinth.jpg">Source</a></small>
     </div>
   </div>
-  <div class='spacing'></div>
+  <div class='three spacing'></div>
 
 
   <div class='row'>
@@ -47,7 +47,7 @@ Find a list of topics we have worked and we are working on. (Note that all illus
         <a href="heterogeneous_interference.html">Read more</a></p>
     </div>
   </div>
-  <div class='spacing'></div>
+  <div class='three spacing'></div>
 
 
   <div class='row'>
@@ -61,6 +61,6 @@ Find a list of topics we have worked and we are working on. (Note that all illus
       <br><small><a href="https://commons.wikimedia.org/wiki/File:Etruscan_Painting_1.jpg">Source</a></small>
     </div>
   </div>
-  <div class='spacing'></div>
+  <div class='three spacing'></div>
 
 </div>
