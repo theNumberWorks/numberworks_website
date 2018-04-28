@@ -27,8 +27,8 @@
       path: cogstat.html
     - name: AlgoTaurus
       path: algotaurus.html
-    - name: Heterogenous interference
-      path: heterogenenous_interference.html
+    - name: Heterogeneous interference
+      path: heterogeneous_interference.html
     - name: Data analysis symposium
       path: methods.html#symposium
 - name: About us
