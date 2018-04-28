@@ -29,6 +29,8 @@
       path: algotaurus.html
     - name: Heterogenous interference
       path: heterogenenous_interference.html
+    - name: Data analysis symposium
+      path: http://www.cogstat.org/best_practices_symposium/
 - name: About us
   path: about.html
   children:
