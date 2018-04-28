@@ -30,7 +30,7 @@
     - name: Heterogenous interference
       path: heterogenenous_interference.html
     - name: Data analysis symposium
-      path: http://www.cogstat.org/best_practices_symposium/
+      path: methods.html#symposium
 - name: About us
   path: about.html
   children:
