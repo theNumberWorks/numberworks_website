@@ -57,7 +57,7 @@ Find a list of topics we have worked and we are working on. (Note that all illus
 
   <div class='row'>
     <div class='medium-6 columns'>
-        <h3><a href="http://www.cogstat.org/best_practices_symposium/">Data Analysis Symposium</a></h3>
+        <h3 id="symposium"><a href="http://www.cogstat.org/best_practices_symposium/">Data Analysis Symposium</a></h3>
         <p>We started to organize the Best Practices in Data Analyses and Statistics Symposium to popularize either new or old solutions, to familiarize researchers with these methods, and to make these methods more accessible. In addition, the symposium is a great opportunity to discuss and evaluate various methods to improve research practice.<br><br>
 
 <a href="http://www.cogstat.org/best_practices_symposium/">Read more</a></p>
