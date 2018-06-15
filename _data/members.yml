@@ -50,16 +50,16 @@
     - link: http://www.visionlab-ceu.org/gaborlengyel
       icon: globe
   desc:
+- avatar: images/members/SaraPosta.jpg
+  name: Sára Posta
+  position: MA student
+  socials:
+  desc:
 - avatar: images/members/EszterSzabo.jpg
   name: Eszter Szabó
   position: PhD student (CEU)
   socials:
     - link: https://cognitivescience.ceu.edu/people/eszter-szabo
       icon: globe
-  desc:
-- avatar: images/members/SaraPosta.jpg
-  name: Sára Posta
-  position: MA student
-  socials:
   desc:
 
