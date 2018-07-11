@@ -46,7 +46,7 @@ The same question was also investigated with Indo-Arabic numbers, and we found t
 
 <i class='fa fa-table'></i> Find some of the analyses at [osf.io](https://osf.io/qjymb/).
 
-<i class='fa fa-file-text'></i> [Contact us](mailto:krajcsi+ANS_site@gmail.com?subject=Indo-Arabic%20distance%20effect%20manuscript%20request) for the preprint version of the manuscript.
+<i class='fa fa-file-text'></i> Kojouharova, P., & Krajcsi, A. (in press). The Indo-Arabic distance effect originates in the response statistics of the task. Psychological Research. https://doi.org/10.1007/s00426-018-1052-1
 
 ### 3. ANS model describes non-symbolic comparison correctly, but it has systematic troubles with symbolic comparison
 Formerly, it has been demonstrated that the ANS model describes both symbolic and nonsymbolic comparison correctly. In former studies usually goodness of fit was investigated. However, among others, our DSS model can predict a very similar performance pattern which model would result similar good goodness of fit. To overcome this limitation, we extensively analyzed non-symbolic dot comparison and symbolic Indo-Arabic comparison task performance, and beyond goodness of fit, several other properties were investigated. We consistently found that while the ANS model can describe non-symbolic comparison relatively well, the ANS model gives a systematically biased and incorrect description in symbolic comparison.
