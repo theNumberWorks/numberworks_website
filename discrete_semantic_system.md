@@ -44,7 +44,7 @@ In the classic ANS model, the distance effect of a comparison task is the conseq
 
 The same question was also investigated with Indo-Arabic numbers, and we found that the Indo-Arabic distance effect is also modified immediately in a session by the association statistics of the numbers and larger-smaller categories.
 
-<i class='fa fa-file-text'></i> Kojouharova, P., & Krajcsi, A. (in press). The Indo-Arabic distance effect originates in the response statistics of the task. Psychological Research. [https://doi.org/10.1007/s00426-018-1052-1](https://doi.org/10.1007/s00426-018-1052-1)
+<i class='fa fa-file-text'></i> Kojouharova, P., & Krajcsi, A. (2018). The Indo-Arabic distance effect originates in the response statistics of the task. Psychological Research. [https://doi.org/10.1007/s00426-018-1052-1](https://doi.org/10.1007/s00426-018-1052-1)
 
 <i class='fa fa-table'></i> Find some of the analyses at [osf.io](https://osf.io/qjymb/).
 
