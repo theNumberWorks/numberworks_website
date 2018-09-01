@@ -1,3 +1,9 @@
+---
+layout: page
+title: Heterogeneous interference
+section_id: methods
+---
+
 Measuring interference effects is an important tool to investigate the processing of various stimulus properties.
 
 Unfortunately, some interference effects are invisible to the methods used in the literature. Usually, a difference index is calculated from the congruent and incongruent conditions, and this index is tested against zero. However, if the direction of the interference is heterogeneous in that sample, i.e., while most participants show interference, but the direction of the interference effects differs, then the mean value of this index is zero.
