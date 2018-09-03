@@ -65,8 +65,8 @@ Find a list of topics we have worked and we are working on. (Note that all illus
 
   <div class='row'>
     <div class='medium-6 columns'>
-      <img class="fadeinleft" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/1750_Trepanationsbesteck_anagoria.JPG/203px-1750_Trepanationsbesteck_anagoria.JPG" />
-      <br><small><a href="https://commons.wikimedia.org/wiki/File:1750_Trepanationsbesteck_anagoria.JPG">Source</a></small>
+      <img class="fadeinleft" alt="" src="https://upload.wikimedia.org/wikipedia/en/4/4b/Dr_John_Clarke_trepanning_a_skull_operation.jpg" />
+      <br><small><a href="https://en.wikipedia.org/wiki/File:Dr_John_Clarke_trepanning_a_skull_operation.jpg">Source</a></small>
     </div>
     <div class='medium-6 columns'>
         <h3><a href="neuropsychology.html">Neuropsychology</a></h3>
