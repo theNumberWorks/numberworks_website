@@ -65,13 +65,13 @@ Find a list of topics we have worked and we are working on. (Note that all illus
 
   <div class='row'>
     <div class='medium-6 columns'>
-      <img class="fadeinleft" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/1750_Trepanationsbesteck_anagoria.JPG/406px-1750_Trepanationsbesteck_anagoria.JPG" />
+      <img class="fadeinleft" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/1750_Trepanationsbesteck_anagoria.JPG/203px-1750_Trepanationsbesteck_anagoria.JPG" />
       <br><small><a href="https://commons.wikimedia.org/wiki/File:1750_Trepanationsbesteck_anagoria.JPG">Source</a></small>
     </div>
     <div class='medium-6 columns'>
         <h3><a href="neuropsychology.html">Neuropsychology</a></h3>
         <p>Coming soon...<br><br>
-        <!-- <a href="neuropsychology.html">Read more</a></p> -->
+        <a href="neuropsychology.html">Read more</a></p>
     </div>
   </div>
   <div class='three spacing'></div>
