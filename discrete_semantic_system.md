@@ -34,6 +34,8 @@ In a follow-up work, we investigated whether the size effect can be changed in I
 
 <i class='fa fa-file-text'></i> [Contact us](mailto:krajcsi+ANS_site@gmail.com?subject=Indo-Arabic%20size%20effect%20manuscript%20request) for the preprint version of the manuscript.
 
+<i class='fa fa-table'></i> Find the raw data of this study at [osf.io](https://osf.io/2hrms/).
+
 ### 2. Symbolic numerical distance effect is an association effect
 
 In the classic ANS model, the distance effect of a comparison task is the consequence of the ratios of the numbers (Weber's law). In the DSS model, the distance effect might come from alternative sources, for example, it might be the consequence of some associations: larger numbers are relatively strongly associated with the concept 'large', while small numbers are relatively strongly associated with the concept 'small'. In this explanation, close numbers are hard to compare because they have similar associations to the 'large' or 'small' nodes. In an approach to contrast the two explanations, new symbols were taught, but some numbers were left out (i.e., only numbers between 1 and 3, and 7 and 9 were learned and practiced). It was found that around the 'gap' the distance effect showed a distance of 1 as predicted by the association explanation, and not by a distance of 4, as predicted by the values of those numbers, as supposed by the ANS model.
