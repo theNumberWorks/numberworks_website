@@ -13,6 +13,6 @@ In the current version of the task, (a) the **numbers are asked up to 5** (becau
 2. Within a child, **number knowledge decreases gradually as the numbers increase, instead of a sudden performance drop at a single value**, therefore, the titration method together with the usual noise of the measurement may fail to measure the number knowledge reliably.
 Based on these results we suggest that the Give a number task should be modified. First, numbers should be asked for values larger than 5. Second, instead of the titration method, all numbers should be asked. However, it is still open that after conducting the task, how an index should be created to reflect number knowledge validly.
 
-<i class='fa fa-file-text'></i> [Email us](mailto:krajcsi+lab_site@gmail.com?subject=Give_a_number%20manuscript%20request), if you want to read the preprint version of the manuscript.
+<i class='fa fa-file-text'></i> Read the [preprint version](https://osf.io/2kh9s) of the manuscript.
 
 <i class='fa fa-table'></i> Find the raw data of this study at [osf.io](https://osf.io/z28hd/).
