@@ -6,6 +6,7 @@ title: Methods in Numerical Cognition Workshop
 # Methods in Numerical Cognition Workshop
 
 Date: 2019 January
+
 Venue: Budapest, Hungary (address, etc. TBA)
 
 # About the workshop
