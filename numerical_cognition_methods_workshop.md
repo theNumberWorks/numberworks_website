@@ -29,4 +29,6 @@ Deadline for the abstract submission is 20 November 2018
 
 ## More information
 
-For more information contact [Attila Krajcsi](krajcsi@gmail.com) or [Bert Reynvoet](bert.reynvoet@kuleuven.be).
+For more information contact [Attila Krajcsi](mailto:krajcsi@gmail.com) or [Bert Reynvoet](mailto:bert.reynvoet@kuleuven.be).
+
+The Workshop web page is hosted by the [NumberWorks](https://www.thenumberworks.org/) lab.
