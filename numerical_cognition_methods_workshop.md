@@ -5,9 +5,11 @@ title: Methods in Numerical Cognition Workshop
 
 # Methods in Numerical Cognition Workshop
 
-Date: 2019 January
+**Date** 2019 January (exact day TBA)
 
-Venue: Budapest, Hungary (address, etc. TBA)
+**Venue** Eötvös Loránd University, [Faculty of Education and Psychology](https://www.ppk.elte.hu/en), [Budapest, Hungary, Kazinczy street, 23-27](https://www.google.hu/maps/@47.4981147,19.0627044,3a,75y,23.51h,86.1t/data=!3m6!1e1!3m4!1sgm__OBazQlCGeiJqLtIDbw!2e0!7i13312!8i6656) (room TBA)
+
+**Website** [https://www.thenumberworks.org/numerical_cognition_methods_workshop](https://www.thenumberworks.org/numerical_cognition_methods_workshop)
 
 ## About the workshop
 Researchers working in the field of numerical cognition often have a hard time to find the ideal methods that fits the research aim best and also pleases the reviewers. Some methods are less known, some of them are debated, and consequences of some methods are not studied yet. For example, how should the subitizing range be calculated, how should the visual features of non-symbolic stimuli be controlled, how should the counting knowledge of preschoolers be measured?
@@ -25,10 +27,12 @@ The details of this interactive numerical cognition methodological website will 
 ## Submit your abstract
 Submit your abstract by filling this [form](https://goo.gl/forms/iSsmlsIYAokIVl8o2).
 
-Deadline for the abstract submission is 20 November 2018
+Deadline for the abstract submission is 20 November 2018.
 
 ## More information
 
-For more information contact [Attila Krajcsi](mailto:krajcsi@gmail.com) or [Bert Reynvoet](mailto:bert.reynvoet@kuleuven.be).
+For more information contact [Attila Krajcsi](mailto:krajcsi.attila@ppk.elte.hu) or [Bert Reynvoet](mailto:bert.reynvoet@kuleuven.be).
+
+The workshop is supported by the [Faculty of Education and Psychology, Eötvös Loránd University](https://www.ppk.elte.hu/en).
 
 The Workshop web page is hosted by the [NumberWorks](https://www.thenumberworks.org/) lab.
