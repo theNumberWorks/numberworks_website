@@ -27,7 +27,13 @@ The details of this interactive numerical cognition methodological website will 
 ## Submit your abstract
 Submit your abstract by filling this [form](https://goo.gl/forms/iSsmlsIYAokIVl8o2).
 
-Deadline for the abstract submission is 20 November 2018.
+Deadline for the abstract submission is November 20, 2018.
+
+## Program
+
+Come back for the program after the submission deadline, November 20, 2018.
+
+We will ask the presenters to upload their slides to the appropriate OSF Meetings page.
 
 ## More information
 
