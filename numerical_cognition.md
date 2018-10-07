@@ -26,7 +26,7 @@ Still, it is possible that an entirely different system is responsible for symbo
 
   <div class='row'>
     <div class='medium-6 columns'>
-        <h3><a href="numerical_cognition_methods_workshop.html">Methods in Numerical Cognition Workshop</a></h3>
+        <h3 id="workshop"><a href="numerical_cognition_methods_workshop.html">Methods in Numerical Cognition Workshop</a></h3>
         <p>Researchers working in the field of numerical cognition often have a hard time to find the ideal methods that fits the research aim best and also pleases the reviewers. Some methods are less known, some of them are debated, and consequences of some methods are not studied yet. For example, how should the subitizing range be calculated, how should the visual features of non-symbolic stimuli be controlled, how should the counting knowledge of preschoolers be measured?<br><br>
         <a href="numerical_cognition_methods_workshop.html">Read more</a></p>
     </div>
@@ -44,7 +44,7 @@ Still, it is possible that an entirely different system is responsible for symbo
       <br><small><a href="https://commons.wikimedia.org/wiki/File:Table_of_Geometry,_Cyclopaedia,_Volume_1.jpg">More about the illustration</a></small>
     </div>
     <div class='medium-6 columns'>
-        <h3><a href="">Numerical cogniton methods database</a></h3>
+        <h3 id="database"><a href="">Numerical cogniton methods database</a></h3>
         <p>Coming soon...<br><br>
         <a href="">Read more</a></p>
     </div>
