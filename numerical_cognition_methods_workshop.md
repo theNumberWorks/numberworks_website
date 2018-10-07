@@ -37,6 +37,8 @@ We will ask the presenters to upload their slides to the appropriate OSF Meeting
 
 ## More information
 
+There is no registration fee for the workshop.
+
 For more information contact [Attila Krajcsi](mailto:krajcsi.attila@ppk.elte.hu) or [Bert Reynvoet](mailto:bert.reynvoet@kuleuven.be).
 
 If you are coming to Budapest, you might consider attending the [Budapest CEU Conference on Cognitive Development](http://bcccd.org/) (January 3-5, 2019) or the [Best Practices in Data Analysis and Statistics Symposium](https://www.cogstat.org/best_practices_symposium/) (January 9, 2019), too.
