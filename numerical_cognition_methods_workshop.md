@@ -46,3 +46,5 @@ If you are coming to Budapest, you might consider attending the [Budapest CEU Co
 The workshop is supported by the [Faculty of Education and Psychology, Eötvös Loránd University](https://www.ppk.elte.hu/en).
 
 The Workshop web page is hosted by the [NumberWorks](https://www.thenumberworks.org/) lab.
+
+<div class='four spacing'></div>
