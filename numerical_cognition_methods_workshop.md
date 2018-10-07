@@ -5,7 +5,7 @@ title: Methods in Numerical Cognition Workshop
 
 # Methods in Numerical Cognition Workshop
 
-**Date** 2019 January (exact day TBA)
+**Date** January 7, 2019
 
 **Venue** Eötvös Loránd University, [Faculty of Education and Psychology](https://www.ppk.elte.hu/en), [Budapest, Hungary, Kazinczy street, 23-27](https://www.google.hu/maps/place/E%C3%B6tv%C3%B6s+Lor%C3%A1nd+University+Faculty+of+Education+and+Psychology/@47.4974725,19.0570867,15.36z/data=!4m5!3m4!1s0x0:0x1e0c4e20afde6337!8m2!3d47.4982569!4d19.0626694) (room TBA)
 
@@ -32,6 +32,8 @@ Deadline for the abstract submission is 20 November 2018.
 ## More information
 
 For more information contact [Attila Krajcsi](mailto:krajcsi.attila@ppk.elte.hu) or [Bert Reynvoet](mailto:bert.reynvoet@kuleuven.be).
+
+If you are coming to Budapest, you might consider attending the [Budapest CEU Conference on Cognitive Development](http://bcccd.org/) (January 3-5, 2019) or the [Best Practices in Data Analysis and Statistics Symposium](https://www.cogstat.org/best_practices_symposium/) (January 9, 2019), too.
 
 The workshop is supported by the [Faculty of Education and Psychology, Eötvös Loránd University](https://www.ppk.elte.hu/en).
 
