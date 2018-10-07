@@ -25,9 +25,9 @@ During the workshop we launch a new interactive database-website that collects m
 The details of this interactive numerical cognition methodological website will be introduced as part of the program and workshop participants can discuss the details of the functioning of this database, too. Also, participants will be able to start uploading method summaries, and to start evaluating uploaded methods. For three months, the website will be available only for the participants of the workshop.
 
 ## Submit your abstract
-Submit your abstract by filling this [form](https://goo.gl/forms/iSsmlsIYAokIVl8o2).
+__Submission__ Submit your abstract by filling this [form](https://goo.gl/forms/iSsmlsIYAokIVl8o2).
 
-Deadline for the abstract submission is November 20, 2018.
+__Deadline__ The deadline for the abstract submission is November 20, 2018.
 
 ## Program
 
