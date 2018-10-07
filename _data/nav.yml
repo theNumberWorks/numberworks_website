@@ -8,9 +8,9 @@
     - name: Discrete Semantic System
       path: discrete_semantic_system.html
     - name: Methods in Numerical Cognition Workshop
-      path: numerical_cognition#workshop.html
+      path: numerical_cognition.html#workshop.html
     - name: Numerical cogniton methods database
-      path: numerical_cognition#database.html
+      path: numerical_cognition.html#database.html
     - name: Can preschoolers understand zero?
       path: zero_in_preschoolers.html
     - name: The Give a number task revisited
