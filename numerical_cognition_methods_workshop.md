@@ -5,11 +5,11 @@ title: Methods in Numerical Cognition Workshop
 
 # Methods in Numerical Cognition Workshop
 
-**Date** January 7, 2019
+__Date__ January 7, 2019
 
-**Venue** Eötvös Loránd University, [Faculty of Education and Psychology](https://www.ppk.elte.hu/en), [Budapest, Hungary, Kazinczy street, 23-27](https://www.google.hu/maps/place/E%C3%B6tv%C3%B6s+Lor%C3%A1nd+University+Faculty+of+Education+and+Psychology/@47.4974725,19.0570867,15.36z/data=!4m5!3m4!1s0x0:0x1e0c4e20afde6337!8m2!3d47.4982569!4d19.0626694) (room TBA)
+__Venue__ Eötvös Loránd University, [Faculty of Education and Psychology](https://www.ppk.elte.hu/en), [Budapest, Hungary, Kazinczy street, 23-27](https://www.google.hu/maps/place/E%C3%B6tv%C3%B6s+Lor%C3%A1nd+University+Faculty+of+Education+and+Psychology/@47.4974725,19.0570867,15.36z/data=!4m5!3m4!1s0x0:0x1e0c4e20afde6337!8m2!3d47.4982569!4d19.0626694) (room TBA)
 
-**Website** [https://www.thenumberworks.org/numerical_cognition_methods_workshop](https://www.thenumberworks.org/numerical_cognition_methods_workshop)
+__Website__ [https://www.thenumberworks.org/numerical_cognition_methods_workshop](https://www.thenumberworks.org/numerical_cognition_methods_workshop)
 
 ## About the workshop
 Researchers working in the field of numerical cognition often have a hard time to find the ideal methods that fits the research aim best and also pleases the reviewers. Some methods are less known, some of them are debated, and consequences of some methods are not studied yet. For example, how should the subitizing range be calculated, how should the visual features of non-symbolic stimuli be controlled, how should the counting knowledge of preschoolers be measured?
@@ -31,20 +31,20 @@ Deadline for the abstract submission is November 20, 2018.
 
 ## Program
 
-Come back for the program after the submission deadline, November 20, 2018.
+__Program__ Come back for the program after the submission deadline, November 20, 2018.
 
-We will ask the presenters to upload their slides to the appropriate OSF Meetings page.
+__Slides__ We will ask the presenters to upload their slides to the appropriate OSF Meetings page.
 
 ## More information
 
-There is no registration fee for the workshop.
+__Registration fee__ There is no registration fee for the workshop.
 
-For more information contact [Attila Krajcsi](mailto:krajcsi.attila@ppk.elte.hu) or [Bert Reynvoet](mailto:bert.reynvoet@kuleuven.be).
+__Contact__ For more information contact [Attila Krajcsi](mailto:krajcsi.attila@ppk.elte.hu) or [Bert Reynvoet](mailto:bert.reynvoet@kuleuven.be).
 
-If you are coming to Budapest, you might consider attending the [Budapest CEU Conference on Cognitive Development](http://bcccd.org/) (January 3-5, 2019) or the [Best Practices in Data Analysis and Statistics Symposium](https://www.cogstat.org/best_practices_symposium/) (January 9, 2019), too.
+__Other events__ If you are coming to Budapest, you might consider attending the [Budapest CEU Conference on Cognitive Development](http://bcccd.org/) (January 3-5, 2019) or the [Best Practices in Data Analysis and Statistics Symposium](https://www.cogstat.org/best_practices_symposium/) (January 9, 2019), too.
 
-The workshop is supported by the [Faculty of Education and Psychology, Eötvös Loránd University](https://www.ppk.elte.hu/en).
+__Supporter__ The workshop is supported by the [Faculty of Education and Psychology, Eötvös Loránd University](https://www.ppk.elte.hu/en).
 
-The Workshop web page is hosted by the [NumberWorks](https://www.thenumberworks.org/) lab.
+__Web hosting__ The Workshop web page is hosted by the [NumberWorks](https://www.thenumberworks.org/) lab.
 
 <div class='four spacing'></div>
