@@ -26,6 +26,34 @@ Still, it is possible that an entirely different system is responsible for symbo
 
   <div class='row'>
     <div class='medium-6 columns'>
+        <h3><a href="numerical_cognition_methods_workshop.html">Methods in Numerical Cognition Workshop</a></h3>
+        <p>Researchers working in the field of numerical cognition often have a hard time to find the ideal methods that fits the research aim best and also pleases the reviewers. Some methods are less known, some of them are debated, and consequences of some methods are not studied yet. For example, how should the subitizing range be calculated, how should the visual features of non-symbolic stimuli be controlled, how should the counting knowledge of preschoolers be measured?<br><br>
+        <a href="numerical_cognition_methods_workshop.html">Read more</a></p>
+    </div>
+    <div class='medium-6 columns'>
+      <img class="fadeinright" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Sanzio_01_Euclid.jpg/408px-Sanzio_01_Euclid.jpg" />
+      <br><small><a href="https://en.wikipedia.org/wiki/File:Sanzio_01_Euclid.jpg">More about the illustration</a></small>
+    </div>
+  </div>
+  <div class='three spacing'></div>
+
+
+  <div class='row'>
+    <div class='medium-6 columns'>
+      <img class="fadeinleft" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Table_of_Geometry%2C_Cyclopaedia%2C_Volume_1.jpg/547px-Table_of_Geometry%2C_Cyclopaedia%2C_Volume_1.jpg" />
+      <br><small><a href="https://commons.wikimedia.org/wiki/File:Table_of_Geometry,_Cyclopaedia,_Volume_1.jpg">More about the illustration</a></small>
+    </div>
+    <div class='medium-6 columns'>
+        <h3><a href="">Numerical cogniton methods database</a></h3>
+        <p>Coming soon...<br><br>
+        <a href="">Read more</a></p>
+    </div>
+  </div>
+  <div class='three spacing'></div>
+
+
+  <div class='row'>
+    <div class='medium-6 columns'>
         <h3><a href="zero_in_preschoolers.html">Do preschoolers understand zero?</a></h3>
         <p>Zero is believed to be hard to understand, and it is a relatively late concept in the history of mathematics. Former studies have investigated whether preschoolers can handle zero and their results are inconclusive. We tried to find the cause of these contradictions, and found that preschoolers can handle zero, but they are not sure if it is a number. These results have both theoretical and education consequences.<br><br>
         <a href="zero_in_preschoolers.html">Read more</a></p>
