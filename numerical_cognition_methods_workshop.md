@@ -3,9 +3,11 @@ layout: hosted_page
 title: Methods in Numerical Cognition Workshop
 ---
 
-body {
-    background-color: green;
-}
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
 
 # Methods in Numerical Cognition Workshop
 
