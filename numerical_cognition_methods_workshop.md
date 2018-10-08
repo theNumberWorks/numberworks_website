@@ -3,6 +3,10 @@ layout: hosted_page
 title: Methods in Numerical Cognition Workshop
 ---
 
+body {
+    background-color: green;
+}
+
 # Methods in Numerical Cognition Workshop
 
 __Date__ January 7, 2019
