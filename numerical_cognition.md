@@ -27,7 +27,7 @@ Still, it is possible that an entirely different system is responsible for symbo
   <div class='row'>
     <div class='medium-6 columns'>
         <h3 id="workshop"><a href="numerical_cognition_methods_workshop.html">Methods in Numerical Cognition Workshop</a></h3>
-        <p>Researchers working in the field of numerical cognition often have a hard time to find the ideal methods that fits the research aim best and also pleases the reviewers. Some methods are less known, some of them are debated, and consequences of some methods are not studied yet. For example, how should the subitizing range be calculated, how should the visual features of non-symbolic stimuli be controlled, how should the counting knowledge of preschoolers be measured?<br><br>
+        <p>Researchers working in the field of numerical cognition often have a hard time to find the ideal methods that fit the research aim best and also please the reviewers. Some methods are less known, some of them are debated, and consequences of some methods are not studied yet. For example, how should the subitizing range be calculated, how should the visual features of non-symbolic stimuli be controlled, how should the counting knowledge of preschoolers be measured?<br><br>
         <a href="numerical_cognition_methods_workshop.html">Read more</a></p>
     </div>
     <div class='medium-6 columns'>

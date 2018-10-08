@@ -12,7 +12,7 @@ __Venue__ Eötvös Loránd University, [Faculty of Education and Psychology](htt
 __Website__ [https://www.thenumberworks.org/numerical_cognition_methods_workshop](https://www.thenumberworks.org/numerical_cognition_methods_workshop)
 
 ## About the workshop
-Researchers working in the field of numerical cognition often have a hard time to find the ideal methods that fits the research aim best and also pleases the reviewers. Some methods are less known, some of them are debated, and consequences of some methods are not studied yet. For example, how should the subitizing range be calculated, how should the visual features of non-symbolic stimuli be controlled, how should the counting knowledge of preschoolers be measured?
+Researchers working in the field of numerical cognition often have a hard time to find the ideal methods that fit the research aim best and also please the reviewers. Some methods are less known, some of them are debated, and consequences of some methods are not studied yet. For example, how should the subitizing range be calculated, how should the visual features of non-symbolic stimuli be controlled, how should the counting knowledge of preschoolers be measured?
 
 The Methods in Numerical Cognition Workshop aims to be a forum for presenting and discussing any methods related to numerical cognition, including paradigms, tests, analyses methods, etc. The main aim of the workshop is to discuss these methods in details.
 
