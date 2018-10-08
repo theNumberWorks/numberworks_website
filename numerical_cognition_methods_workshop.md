@@ -7,7 +7,7 @@ title: Methods in Numerical Cognition Workshop
 
 __Date__ January 7, 2019
 
-__Venue__ Eötvös Loránd University, [Faculty of Education and Psychology](https://www.ppk.elte.hu/en), [Budapest, Hungary, Kazinczy street, 23-27](https://www.google.hu/maps/place/E%C3%B6tv%C3%B6s+Lor%C3%A1nd+University+Faculty+of+Education+and+Psychology/@47.4974725,19.0570867,15.36z/data=!4m5!3m4!1s0x0:0x1e0c4e20afde6337!8m2!3d47.4982569!4d19.0626694) (room TBA)
+__Venue__ Eötvös Loránd University, [Faculty of Education and Psychology](https://www.ppk.elte.hu/en), [Budapest, Hungary, Kazinczy street, 23-27](https://www.google.hu/maps/place/E%C3%B6tv%C3%B6s+Lor%C3%A1nd+University+Faculty+of+Education+and+Psychology/@47.4974725,19.0570867,15.36z/data=!4m5!3m4!1s0x0:0x1e0c4e20afde6337!8m2!3d47.4982569!4d19.0626694), Room 4 on ground floor
 
 __Website__ [https://www.thenumberworks.org/numerical_cognition_methods_workshop](https://www.thenumberworks.org/numerical_cognition_methods_workshop)
 
