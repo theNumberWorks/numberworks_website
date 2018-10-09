@@ -20,13 +20,13 @@ Researchers working in the field of numerical cognition often have a hard time t
 
 The Methods in Numerical Cognition Workshop aims to be a forum for presenting and discussing any methods related to numerical cognition, including paradigms, tests, analyses methods, etc. The main aim of the workshop is to discuss these methods in details.
 
-In line with the aim of the workshop, the talks can be 10-15 minutes long (the time will depend on the number of submitted talks and will be announced when the final program is available), and the discussion of the talks are practically unlimited (within a reasonable limit).
+In line with the aim of the workshop, the talks can be 10-15 minutes long (the time will depend on the number of submitted talks and will be announced when the final program is available), and the discussion of the talks is practically unlimited (within a reasonable limit).
 
 But there is more.
 
 During the workshop we launch a new interactive database-website that collects methods in numerical cognition, and where researchers can share their experience and opinion about these methods. This database can be considered as an online handbook, but it can be continuously updated. Also, it is a review system with much more transparent methods than most of the current peer-review options.
 
-The details of this interactive numerical cognition methodological website will be introduced as part of the program and workshop participants can discuss the details of the functioning of this database, too. Also, participants will be able to start uploading method summaries, and to start evaluating uploaded methods. For three months, the website will be available only for the participants of the workshop.
+The details of this interactive numerical cognition methodological website will be introduced as a part of the program, and workshop participants can discuss the details of the functioning of this database, too. Also, participants will be able to start uploading method summaries, and to start evaluating uploaded methods. For three months, the website will be available only for the participants of the workshop.
 
 ## Submit your abstract
 __Submission__ Submit your abstract by filling this [form](https://goo.gl/forms/iSsmlsIYAokIVl8o2).
