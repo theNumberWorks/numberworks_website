@@ -43,6 +43,8 @@ __Slides__ We will ask the presenters to upload their slides to the [OSF Meeting
 
 __Registration fee__ There is no registration fee for the workshop.
 
+__Register as a participant__ If you don't want to present your work, but would like to participate in the workshop, we recommend to register after the program is available. Still, if you are absolutely sure that you want to join the workshop even without knwoing the specific list of talks, register with [this form](https://goo.gl/forms/iSsmlsIYAokIVl8o2), and leave the abstract submission part empty.
+
 __Contact__ For more information contact [Attila Krajcsi](mailto:krajcsi.attila@ppk.elte.hu) or [Bert Reynvoet](mailto:bert.reynvoet@kuleuven.be).
 
 __Other events__ If you are coming to Budapest, you might consider attending the [Budapest CEU Conference on Cognitive Development](http://bcccd.org/) (January 3-5, 2019) or the [Best Practices in Data Analysis and Statistics Symposium](https://www.cogstat.org/best_practices_symposium/) (January 9, 2019), too.
