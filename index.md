@@ -11,7 +11,7 @@ section_id: home
       <div class='three spacing'></div>
     </div>
     <div class='medium-6 columns'>
-        <h3><a href="numerical_cognition.html">Numerical cognition work</a></h3>
+        <h3><a href="numerical_cognition.html">Numerical cognition works</a></h3>
         <p>One of our main interests is how people understand numbers and math. We conduct various experiments to find out how numerical abilities develop, how they are impaired,  how numbers are processed by the brain, and how to design efficient math classes. <br><br><a href="numerical_cognition.html">Find out more about our numerical cognition works</a></p>
     </div>
   </div>
