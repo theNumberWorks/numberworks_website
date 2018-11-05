@@ -49,7 +49,7 @@ __Contact__ For more information contact [Attila Krajcsi](mailto:krajcsi.attila@
 
 __Other events__ If you are coming to Budapest, you might consider attending the [Budapest CEU Conference on Cognitive Development](http://bcccd.org/) (January 3-5, 2019) or the [Best Practices in Data Analysis and Statistics Symposium](https://www.cogstat.org/best_practices_symposium/) (January 9, 2019), too.
 
-__Supporter__ The workshop is supported by the [Faculty of Education and Psychology, Eötvös Loránd University](https://www.ppk.elte.hu/en).
+__Supporter__ The workshop is supported by the [Faculty of Education and Psychology, Eötvös Loránd University](https://www.ppk.elte.hu/en). We thank Fanni Tolmár for her help in organizing the event.
 
 __Web hosting__ The Workshop web page is hosted by the [NumberWorks](https://www.thenumberworks.org/) lab.
 
