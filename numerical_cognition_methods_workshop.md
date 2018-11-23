@@ -35,9 +35,7 @@ __Deadline__ The deadline for the abstract submission is November 20, 2018.
 
 ## Program
 
-__Program__ Come back for the program after the submission deadline, November 20, 2018.
-
-__Slides__ We will ask the presenters to upload their slides to the [OSF Meetings page of the workshop](https://osf.io/view/MNCW2019/).
+__Program__ Find the [program, the abstracts and the slides here](numerical_cognition_methods_workshop_program).
 
 ## More information
 
