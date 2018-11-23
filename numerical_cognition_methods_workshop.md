@@ -16,6 +16,7 @@ __Venue__ Eötvös Loránd University, [Faculty of Education and Psychology](htt
 __Website__ [https://www.thenumberworks.org/numerical_cognition_methods_workshop](https://www.thenumberworks.org/numerical_cognition_methods_workshop)
 
 ## About the workshop
+
 Researchers working in the field of numerical cognition often have a hard time to find the ideal methods that fit the research aim best and also please the reviewers. Some methods are less known, some of them are debated, and consequences of some methods are not studied yet. For example, how should the subitizing range be calculated, how should the visual features of non-symbolic stimuli be controlled, how should the counting knowledge of preschoolers be measured?
 
 The Methods in Numerical Cognition Workshop aims to be a forum for presenting and discussing any methods related to numerical cognition, including paradigms, tests, analyses methods, etc. The main aim of the workshop is to discuss these methods in details.
@@ -28,20 +29,17 @@ During the workshop we launch a new interactive database-website that collects m
 
 The details of this interactive numerical cognition methodological website will be introduced as a part of the program, and workshop participants can discuss the details of the functioning of this database, too. Also, participants will be able to start uploading method summaries, and to start evaluating uploaded methods. For three months, the website will be available only for the participants of the workshop.
 
-## Submit your abstract
-__Submission__ Submit your abstract by filling this [form](https://goo.gl/forms/iSsmlsIYAokIVl8o2).
-
-__Deadline__ The deadline for the abstract submission is November 20, 2018.
-
 ## Program
 
 __Program__ Find the [program, the abstracts and the slides here](numerical_cognition_methods_workshop_program).
 
-## More information
+## Registration
 
 __Registration fee__ There is no registration fee for the workshop.
 
-__Register as a participant__ If you don't want to present your work, but would like to participate in the workshop, we recommend to register after the program is available. Still, if you are absolutely sure that you want to join the workshop even without knwoing the specific list of talks, register with [this form](https://goo.gl/forms/iSsmlsIYAokIVl8o2), and leave the abstract submission part empty.
+__Register as a participant__ Register by filing [this form](https://goo.gl/forms/iSsmlsIYAokIVl8o2), and leave the abstract submission part empty.
+
+## More information
 
 __Contact__ For more information contact [Attila Krajcsi](mailto:krajcsi.attila@ppk.elte.hu) or [Bert Reynvoet](mailto:bert.reynvoet@kuleuven.be).
 
@@ -50,5 +48,14 @@ __Other events__ If you are coming to Budapest, you might consider attending the
 __Supporter__ The workshop is supported by the [Faculty of Education and Psychology, Eötvös Loránd University](https://www.ppk.elte.hu/en). We thank Fanni Tolmár for her help in organizing the event.
 
 __Web hosting__ The Workshop web page is hosted by the [NumberWorks](https://www.thenumberworks.org/) lab.
+
+## Submit your abstract
+
+*__Submission is closed now.__*
+
+__Submission__ Submit your abstract by filling this [form](https://goo.gl/forms/iSsmlsIYAokIVl8o2).
+
+__Deadline__ The deadline for the abstract submission is November 20, 2018.
+
 
 <div class='four spacing'></div>

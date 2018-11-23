@@ -4,7 +4,7 @@ title: Methods in Numerical Cognition Workshop
 ---
 
 <style>
-body {color: #777;}
+body {color: #777; margin-bottom: 0.0}
 </style>
 
 # [Methods in Numerical Cognition Workshop](numerical_cognition_methods_workshop)
@@ -31,6 +31,8 @@ Katalin É. Kiss, Tamás Zétényi
 
 MTA Linguistics Institute, BME Ergonomics
 
+<br>
+
 __The development of quantification in propositional attitude contexts: false belief and number in kindergarteners and grade schoolers__
 
 Zoltán Jakab 1, Szabolcs Kiss 2
@@ -49,6 +51,8 @@ Tali Leibovich-Raveh 1, Daniel Jacob Lewis 2, Saja Al-Rubaiey Kadhim 2, Daniel A
 1 University of Haifa
 
 2 University of Western Ontario
+
+<br>
 
 __Chicks spontaneously represent the absence of objects__
 
@@ -70,6 +74,8 @@ Naama Katzin, Avishai Henik, Moti Salti
 
 Ben Gurion University of the Negev
 
+<br>
+
 __Designing non-symbolic stimuli: An extent to Dehaene’s (2005) method to control for non-numerical visual cues__
 
 Mathieu Guillaume 1, Christine Schiltz 2, Amandine Van Rinsveld 1
@@ -78,11 +84,15 @@ Mathieu Guillaume 1, Christine Schiltz 2, Amandine Van Rinsveld 1
 
 2 University of Luxembourg
 
+<br>
+
 __Introducing CUSTOM: a Customized Ultraprecise Standardization Oriented Multipurpose algorithm for generating non-symbolic number stimuli__
 
 Damiano De Marco, Simone Cutini
 
 Department of Developmental Psychology, University of Padova
+
+<br>
 
 __Measuring congruence effects in nonsymbolic number comparison: the importance of the degree of congruence__
 
@@ -104,6 +114,8 @@ Petia Kojouharova 1, 2, 3, Gábor Lengyel 4, Attila Krajcsi 3
 
 4 Central European University
 
+<br>
+
 __Audiovisual approach for measuring symbolic and non-symbolic number processing__
 
 Mila Marinova 1, 2, Delphine Sasanguie 1, 2, Bert Reynvoet 1, 2
@@ -111,6 +123,8 @@ Mila Marinova 1, 2, Delphine Sasanguie 1, 2, Bert Reynvoet 1, 2
 1 Brain and Cognition, Faculty of Psychology and Educational Sciences, KU Leuven, 3000 Leuven, Belgium
 
 2 Faculty of Psychology and Educational Sciences, KU Leuven @Kulak, 8500 Kortrijk, Belgium
+
+<br>
 
 __Same or different? The ERP signatures of uni- and crossmodal integration of number words and Arabic digits.__
 
@@ -120,6 +134,8 @@ Ferenc Kemény 1, Sabrina Finke 1, Anna Steiner 1, Chiara Banfi 1, Corinna M. Pe
 
 2 Department of Psychology, University of York
 
+<br>
+
 __Understanding the Role of Language in Multiple Magnitude Representation Mechanisms: An fMRI Investigation__
 
 Sarit Ashkenazi 1, Yarden Gliksman 2, Avishai Henik 2
@@ -128,7 +144,10 @@ Sarit Ashkenazi 1, Yarden Gliksman 2, Avishai Henik 2
 
 2 Department of Psychology and Zlotowski Center for Neuroscience, Ben-Gurion University of the Negev, Israel
 
+<br>
+
 __What do numerical estimation tasks measure? Insights from calibration paradigms__
+
 Darren J. Yeo 1, 2 and Gavin R. Price 1
 
 1 Department of Psychology & Human Development, Peabody College, Vanderbilt University, United States
@@ -143,11 +162,15 @@ Carrie Georges
 
 University of Luxembourg
 
+<br>
+
 __Prevalence of Spatial-Numerical Associations: Bootstrapping approaches__
 
 Krzysztof Cipora
 
 Department of Psychology, University of Tuebingen, Germany; LEAD Graduate School & Research Network, University of Tuebingen, Germany
+
+<br>
 
 __Measuring interference effects in numerical cognition__
 
@@ -156,6 +179,8 @@ Gábor Lengyel 1, Attila Krajcsi 2
 1 Central European University
 
 2 Eötvös Loránd University
+
+<br>
 
 __A novel number-space mapping task: the direction, order and space (DOS) task__
 
