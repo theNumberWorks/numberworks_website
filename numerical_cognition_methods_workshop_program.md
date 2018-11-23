@@ -24,7 +24,7 @@ Attila Krajcsi 1, Bert Reynvoet 2
 
 2 KU Leuven, Brain and Cognition, Belgium
 
-### Development
+## Development
 
 __Testing intuitive multiplication__
 
@@ -44,7 +44,7 @@ Zoltán Jakab 1, Szabolcs Kiss 2
 
 <br>
 
-### Enumerating objects
+## Enumerating objects
 
 __New Method for Calculating Individual Subitizing Range__
 
