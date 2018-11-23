@@ -4,7 +4,8 @@ title: Methods in Numerical Cognition Workshop
 ---
 
 <style>
-body {color: #777; margin-bottom: 0.0}
+body {color: #777;}
+p {margin-bottom: 0.0;}
 </style>
 
 # [Methods in Numerical Cognition Workshop](numerical_cognition_methods_workshop)
