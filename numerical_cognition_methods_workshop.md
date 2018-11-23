@@ -31,7 +31,7 @@ The details of this interactive numerical cognition methodological website will 
 
 ## Program
 
-__Program__ Find the [program, the abstracts and the slides here](numerical_cognition_methods_workshop_program).
+__Program__ Find the [program, the abstracts and the slides here](Methods%20in%20Numerical%20Cognition%20Workshop%20-%20Program.pdf).
 
 ## Registration
 
