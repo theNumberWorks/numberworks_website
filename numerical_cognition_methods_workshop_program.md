@@ -24,7 +24,7 @@ Attila Krajcsi 1, Bert Reynvoet 2
 
 2 KU Leuven, Brain and Cognition, Belgium
 
-## Development
+### Development
 
 __Testing intuitive multiplication__
 
@@ -42,8 +42,9 @@ Zoltán Jakab 1, Szabolcs Kiss 2
 
 2 University of Pécs
 
+<br>
 
-## Enumerating objects
+### Enumerating objects
 
 __New Method for Calculating Individual Subitizing Range__
 
@@ -66,6 +67,8 @@ Eszter Szabó 1, Cinzia Chiandetti 2, Elisabetta Versace 3, Ernő Téglás 1, Ge
 3 Queen Mary University of London
 
 4 University of Trento
+
+<br>
 
 ## Visual features of nonsymbolic stimuli
 
@@ -100,6 +103,8 @@ __Measuring congruence effects in nonsymbolic number comparison: the importance 
 Nicholas K. DeWind, Elizabeth M. Brannon
 
 University of Pennsylvania, Department of Psychology
+
+<br>
 
 ## Symbolic and nonsymbolic processing
 
@@ -154,6 +159,8 @@ Darren J. Yeo 1, 2 and Gavin R. Price 1
 1 Department of Psychology & Human Development, Peabody College, Vanderbilt University, United States
 
 2 Division of Psychology, School of Social Sciences, Nanyang Technological University, Singapore
+
+<br>
 
 ## Interferences and associations
 
