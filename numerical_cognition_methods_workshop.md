@@ -33,9 +33,9 @@ The details of this interactive numerical cognition methodological website will 
 
 __Talks__ Find the [order of the talks and the abstracts](Methods%20in%20Numerical%20Cognition%20Workshop%20-%20Program.pdf).
 
-__Slides__ We will ask the presenters to upload their slides to the OSF Meetings page of the workshop.
+__Slides__ We will ask the presenters to upload their slides to the [OSF Meetings page of the workshop](https://osf.io/view/MNCW2019/).
 
-Because the talks have a limited time (10 minutes) but not the discussion, it is not possible to tell the exact starting time of the specific talks. The workshop starts at 10am, and we estimate to finish it by 7pm, but exact timing depends on the discussions of the talks. Time of the breaks are approximations, we will start the break at the nearest planned time when a discussion ends.
+__Schedule__ Because the talks have a limited time (10 minutes) but not the discussion, it is not possible to tell the exact starting time of the specific talks. The workshop starts at 10am, and we estimate to finish it by 7pm, but exact timing depends on the discussions of the talks. Time of the breaks are approximations, we will start the break at the nearest planned time when a discussion ends.
 
 10:00 Opening
 
@@ -82,6 +82,5 @@ __Web hosting__ The Workshop web page is hosted by the [NumberWorks](https://www
 __Submission__ Submit your abstract by filling this [form](https://goo.gl/forms/iSsmlsIYAokIVl8o2).
 
 __Deadline__ The deadline for the abstract submission is November 20, 2018.
-
 
 <div class='four spacing'></div>
