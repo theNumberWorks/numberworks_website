@@ -31,7 +31,33 @@ The details of this interactive numerical cognition methodological website will 
 
 ## Program
 
-__Program__ Find the [program, the abstracts and the slides here](Methods%20in%20Numerical%20Cognition%20Workshop%20-%20Program.pdf).
+__Talks__ Find the [order of the talks and the abstracts](Methods%20in%20Numerical%20Cognition%20Workshop%20-%20Program.pdf).
+
+__Slides__ We will ask the presenters to upload their slides to the OSF Meetings page of the workshop.
+
+Because the talks have a limited time (10 minutes) but not the discussion, it is not possible to tell the exact starting time of the specific talks. The workshop starts at 10am, and we estimate to finish it by 7pm, but exact timing depends on the discussions of the talks. Time of the breaks are approximations, we will start the break at the nearest planned time when a discussion ends.
+
+10:00 Opening
+
+10:15 Presentations
+
+11:45 Coffee break
+
+12:00 Presentations
+
+13:30 Lunch break
+
+14:30 Presentations
+
+16:00 Coffee break
+
+16:15 Presentations
+
+17:45 General panel. In the general panel anyone can raise an issue, ask a question, share important experience, etc., then anyone can reflect on that topic. The point is that problems that are not related to a specific talk can also be discussed here.
+
+18:45 Closing
+
+19:30 Dinner
 
 ## Registration
 
