@@ -30,12 +30,11 @@ In the ANS model, the size effect in a comparison task is thought to be the cons
 
 In a follow-up work, we investigated whether the size effect can be changed in Indo-Arabic notation with the manipulation of the frequencies of those digits in a single session. We found that the size effect significantly changes with the frequency of the digits. Also, there is a twist in the results.
 
-<i class='fa fa-file'></i> See a [poster presentation](http://www.cecog.eu/pastConf_pic/2017/posters/Petia_The%20numerical%20size%20effect%20in%20symbolic%20numbers%20and%20everyday%20number%20frequency%2020170522.pdf) about this work.
-
 <i class='fa fa-file-text'></i> Kojouharova, P., & Krajcsi, A. (in press). Two components of the Indo-Arabic numerical size effect. Acta Psychologica. [https://doi.org/10.1016/j.actpsy.2018.11.009](https://doi.org/10.1016/j.actpsy.2018.11.009)
 
-
 <i class='fa fa-table'></i> Find the raw data of this study at [osf.io](https://osf.io/2hrms/).
+
+<i class='fa fa-file'></i> See a [poster presentation](http://www.cecog.eu/pastConf_pic/2017/posters/Petia_The%20numerical%20size%20effect%20in%20symbolic%20numbers%20and%20everyday%20number%20frequency%2020170522.pdf) about this work.
 
 ### 2. Symbolic numerical distance effect is an association effect
 
