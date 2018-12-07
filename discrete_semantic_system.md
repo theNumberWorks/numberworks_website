@@ -28,7 +28,7 @@ In the ANS model, the size effect in a comparison task is thought to be the cons
 
 ---
 
-In a follow-up work, we investigated whether the size effect can be changed in Indo-Arabic notation with the manipulation of the frequencies of those digits in a single session. We found that the size effect significantly changes with the frequency of the digits. Also, there is a twist in the results.
+In a follow-up work, we investigated whether the size effect can be changed in Indo-Arabic notation with the manipulation of the frequencies of those digits in a single session. We found that the size effect significantly changes with the frequency of the digits. Also, there is a stable part of the size effect that is not modified by the session frequencies. So size effect is modified only partly by the session statistics.
 
 <i class='fa fa-file-text'></i> Kojouharova, P., & Krajcsi, A. (2019). Two components of the Indo-Arabic numerical size effect. Acta Psychologica, 192, 163–171. [https://doi.org/10.1016/j.actpsy.2018.11.009](https://doi.org/10.1016/j.actpsy.2018.11.009)
 
