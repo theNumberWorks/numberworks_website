@@ -16,4 +16,6 @@ Find the detailed description of the method and an application of it to discover
 
 <i class='fa fa-file-text'></i> Attila Krajcsi, Gábor Lengyel, Ákos Laczkó (2018). Interference between number magnitude and parity: Discrete representation in number processing. Experimental Psychology. 65(2), 71–83. [https://doi.org/10.1027/1618-3169/a000394](https://doi.org/10.1027/1618-3169/a000394)
 
+<i class='fa fa-file'></i> See a [presentation](https://osf.io/fst9v/) about this work.
+
 See an explanation why parity-number interference is important [here](discrete_semantic_system.html#5-numbers-interfere-with-discrete-properties).
