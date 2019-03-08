@@ -16,3 +16,5 @@ Based on these results we suggest that the Give a number task should be modified
 <i class='fa fa-file-text'></i> Read the [preprint version](https://osf.io/2kh9s) of the manuscript.
 
 <i class='fa fa-table'></i> Find the raw data of this study at [osf.io](https://osf.io/z28hd/).
+
+<i class='fa fa-file'></i> Find a [presentation](https://docs.google.com/presentation/d/1hTaC9UZBgd-6tG6vQ9lPZxOnhCBYCwosbUfs-BSp4YA/edit?usp=sharing) about this work.

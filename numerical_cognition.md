@@ -44,9 +44,9 @@ Still, it is possible that an entirely different system is responsible for symbo
       <br><small><a href="https://commons.wikimedia.org/wiki/File:Table_of_Geometry,_Cyclopaedia,_Volume_1.jpg">More about the illustration</a></small>
     </div>
     <div class='medium-6 columns'>
-        <h3 id="database"><a href="">Numerical cogniton methods database</a></h3>
-        <p>Coming soon...<br><br>
-        <a href="">Read more</a></p>
+        <h3 id="directory"><a href="http://numericalcognitionmethods.org">Numerical Cogniton Methods Directory</a></h3>
+        <p>The Numerical Cognition Methods Directory is a collecion of methods in numerical cognition and the peer evaluation of those methods. It helps to find and compare various methods for paradigms, stimulus creation, analyses, and so on.<br><br>
+        <a href="http://numericalcognitionmethods.org">Read more</a></p>
     </div>
   </div>
   <div class='three spacing'></div>

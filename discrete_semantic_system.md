@@ -28,13 +28,13 @@ In the ANS model, the size effect in a comparison task is thought to be the cons
 
 ---
 
-In a follow-up work, we investigated whether the size effect can be changed in Indo-Arabic notation with the manipulation of the frequencies of those digits in a single session. We found that the size effect significantly changes with the frequency of the digits. Also, there is a twist in the results.
+In a follow-up work, we investigated whether the size effect can be changed in Indo-Arabic notation with the manipulation of the frequencies of those digits in a single session. We found that the size effect partly, but significantly changes with the frequency of the digits. Also, there is a stable part of the size effect that is not modified by the session frequencies.
 
-<i class='fa fa-file'></i> See a [poster presentation](http://www.cecog.eu/pastConf_pic/2017/posters/Petia_The%20numerical%20size%20effect%20in%20symbolic%20numbers%20and%20everyday%20number%20frequency%2020170522.pdf) about this work.
-
-<i class='fa fa-file-text'></i> [Contact us](mailto:krajcsi+ANS_site@gmail.com?subject=Indo-Arabic%20size%20effect%20manuscript%20request) for the preprint version of the manuscript.
+<i class='fa fa-file-text'></i> Kojouharova, P., & Krajcsi, A. (2019). Two components of the Indo-Arabic numerical size effect. Acta Psychologica, 192, 163–171. [https://doi.org/10.1016/j.actpsy.2018.11.009](https://doi.org/10.1016/j.actpsy.2018.11.009)
 
 <i class='fa fa-table'></i> Find the raw data of this study at [osf.io](https://osf.io/2hrms/).
+
+<i class='fa fa-file'></i> See a [poster presentation](http://www.cecog.eu/pastConf_pic/2017/posters/Petia_The%20numerical%20size%20effect%20in%20symbolic%20numbers%20and%20everyday%20number%20frequency%2020170522.pdf) about this work.
 
 ### 2. Symbolic numerical distance effect is an association effect
 
@@ -72,6 +72,8 @@ The ANS model can explain several numerical interferences (e.g., the interferenc
 <i class='fa fa-file'></i> In this work we also introduced a new method to be able to discover heterogenous interferences, i.e., where the direction of the interference effect is not uniform in the sample. Find more details about the dual index method [here](heterogeneous_interference.html).
 
 <i class='fa fa-table'></i> Find the raw data of this study at [osf.io](https://osf.io/g7t2q/).
+
+<i class='fa fa-file'></i> See a [presentation](https://osf.io/fst9v/) about this work.
 
 ### 6. Former findings supporting the DSS model
 In the last decades of numerical cognition literature, there were several seemingly smaller findings that were not in line with the otherwise widely accepted ANS model. Usually it is quite natural that there are occasional findings and details that are not consistent with a model, and because the ANS model seemed convincingly coherent, concise and efficient, these issues didn’t seem too important. Looking from the viewpoint of the DSS model, these anomalies show some critical features of number processing, and they shed light on what alternative number representation should be proposed.
