@@ -8,4 +8,6 @@ section_id: methods
 
 See more details and download the software from its [GitHub page](https://github.com/AlgoTaurus/algotaurus).
 
+<i class='fa fa-file-text'></i> Krajcsi, A., Csapodi, C., & Stettner, E. (2019). AlgoTaurus: an educational computer programming game for beginners. Interactive Learning Environments. [https://doi.org/10.1080/10494820.2019.1593862](https://doi.org/10.1080/10494820.2019.1593862)
+
 ![AlgoTaurus](https://github.com/AlgoTaurus/algotaurus/raw/master/screenshot.png)
