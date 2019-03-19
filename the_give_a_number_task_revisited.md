@@ -6,7 +6,7 @@ section_id: numerical_cognition
 
 The **Give a number task** is used to measure what numbers a preschooler understands. In the task, the child has to give a specific number of objects. Based on the task, it is known that initially children can only give the first few numbers (first only number 1, a few months later 2, then 3, then 4) even if their counting list (known number words) is longer. Later, after an unspecified qualitative change, suddenly preschoolers can give all numbers in their counting list, and they become so called cardinality-principle-knowers.
 
-## Large-number subset-knowers
+### Large-number subset-knowers and the titration method
 
 In the current version of the task, (a) the **numbers are asked up to 5** (because it is supposed that if a child knows 5, then she knows all other numbers in her counting list), and (b) with the so called **titration method** if a number is not known, then no larger numbers are asked (because it is supposed that up to the limit of the child's number knowledge, the numbers are known relatively firmly, and beyond that limit numbers are not known at all).
 
@@ -21,7 +21,7 @@ Based on these results we suggest that the Give a number task should be modified
 
 <i class='fa fa-file'></i> Find a [presentation](https://docs.google.com/presentation/d/1hTaC9UZBgd-6tG6vQ9lPZxOnhCBYCwosbUfs-BSp4YA/edit?usp=sharing) about this work.
 
-## The role of the follow-up questions
+### The role of the follow-up questions
 
 At the end of the trial, to avoid performance error, follow-up questions are used, e.g., recount the given set, check if the given set is the same as it was asked for. In the literature, there are various versions of those follow-up questions. To our knowledge, it has not been investigated before whether the different versions have different effect on the children's performance.
 
