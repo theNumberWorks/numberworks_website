@@ -21,7 +21,7 @@ Based on these results we suggest that the Give a number task should be modified
 
 <i class='fa fa-file'></i> Find a [presentation](https://docs.google.com/presentation/d/1hTaC9UZBgd-6tG6vQ9lPZxOnhCBYCwosbUfs-BSp4YA/edit?usp=sharing) about this work.
 
-### The role of the follow-up questions
+### The effect of the follow-up questions
 
 At the end of the trial, to avoid performance error, follow-up questions are used, e.g., recount the given set, check if the given set is the same as it was asked for. In the literature, there are various versions of those follow-up questions. To our knowledge, it has not been investigated before whether the different versions have different effect on the children's performance.
 
