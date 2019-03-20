@@ -33,4 +33,4 @@ In a simple study, **three versions of the follow-up questions** were compared: 
 
 ### 3. Revising the original validation of the Give a number task
 
-While the Give a number task is a widely accepted test to validly measure the number knowledge of preschoolers, in fact, the original validation of the task raises several issues. Find more details about these issues in the General discussion of the manuscript of the first work above. In this work, we replicate and reinvestigate the original validation results.
+While the validity of the Give a number task is a widely supposed in the literature, in fact, the original validation of the task raises several issues. Find more details about these issues in the General discussion of the manuscript of the first work above. In the present work, we replicate and reinvestigate the original validation results.
