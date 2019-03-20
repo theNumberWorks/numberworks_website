@@ -28,3 +28,5 @@ At the end of the trial, to avoid performance error, follow-up questions are use
 In a simple study, **three versions of the follow-up questions** were compared: (a) no question at all, (b) a question whether the given set includes the appropriate amount, and (c) an instruction to recount. It was found that children show **higher performance with the recount instruction**. Also, the three conditions induce different amount of corrections at the end of the trials.
 
 <i class='fa fa-file-text'></i> Read the [preprint version](https://psyarxiv.com/fky69) of the manuscript.
+
+<i class='fa fa-table'></i> Find the raw data of this study at [osf.io](https://osf.io/584y3/).
