@@ -1,3 +1,8 @@
+- avatar: images/members/BoglarkaBischof.jpeg
+  name: Boglárka Bischof
+  position: MA student
+  socials:
+  desc:
 - avatar: images/members/EdinaFintor.jpeg
   name: Edina Fintor
   position: 
@@ -55,11 +60,6 @@
   position:
   socials:
   desc:
-- avatar: images/members/SaraPosta.jpg
-  name: Sára Posta
-  position: MA student
-  socials:
-  desc:
 - avatar: images/members/EszterSzabo.jpg
   name: Eszter Szabó
   position: PhD student (CEU)
@@ -67,7 +67,7 @@
     - link: https://cognitivescience.ceu.edu/people/eszter-szabo
       icon: globe
   desc:
-- avatar: images/members/male.png
+- avatar: images/members/TamasSzucs.jpg
   name: Tamás Szűcs
   position: BA student
   socials:
