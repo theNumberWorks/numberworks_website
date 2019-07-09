@@ -42,6 +42,8 @@
       icon: globe
     - link: mailto:krajcsi@gmail.com
       icon: envelope
+    - link: https://twitter.com/krajcsi
+      icon: twitter
   desc:
 - avatar: images/members/AkosLaczko.jpg
   name: Ákos Laczkó
