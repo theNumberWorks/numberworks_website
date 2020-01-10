@@ -42,7 +42,7 @@
       path: members.html
     - name: Events
       path: events.html
-    - name: Open poistions
+    - name: Open positions
       path: open_positions.html
     - name: Contact us
       path: contact.html
