@@ -36,7 +36,7 @@ section_id: home
     </div>
     <div class='medium-6 columns'>
         <h3><a href="about.html">About our lab</a></h3>
-        <p>Well, some info about our lab.<br><br><a href="about.html">Meet our team, and find out where we are and how to contact us.</a></p>
+        <p>Well, some info about our lab.<br><br><a href="about.html">Meet our team, and find out where we are and how to contact or join us.</a></p>
     </div>
   </div>
   <div class='spacing'></div>
