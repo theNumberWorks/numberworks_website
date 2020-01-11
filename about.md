@@ -35,7 +35,7 @@ Find our Hungarian webpage [here](https://sites.google.com/site/matematikaimegis
   
   <div class='row'>
     <div class='medium-6 columns'>
-      <img class="fadeinleft" alt="" src="images/puzzle.jpg" />
+      <img class="fadeinleft" alt="" src="images/letters.jpg" />
       <div class='three spacing'></div>
     </div>
     <div class='medium-6 columns'>
