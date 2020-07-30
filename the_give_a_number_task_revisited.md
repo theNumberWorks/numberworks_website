@@ -6,6 +6,8 @@ section_id: numerical_cognition
 
 The **Give a number task** is used to measure what numbers a preschooler understands. In the task, the child has to give a specific number of objects. Based on the task, it is known that initially children can only give the first few numbers (first only number 1, a few months later 2, then 3, then 4) even if their counting list (known number words) is longer. Later, after an unspecified qualitative change, suddenly preschoolers can give all numbers in their counting list, and they become so called cardinality-principle-knowers.
 
+<i class='fa fa-file'></i> Find a [short presentation](https://docs.google.com/presentation/d/1owAbT48vQhKDpEwzqBacLeAqK1nn39NauQV_EwTwZsA/edit?usp=sharing) about these works.
+
 ### 1. Large-number subset-knowers and the titration method
 
 In the current version of the task, (a) the **numbers are asked up to 5** (because it is supposed that if a child knows 5, then she knows all other numbers in her counting list), and (b) with the so called **titration method** if a number is not known, then no larger numbers are asked (because it is supposed that up to the limit of the child's number knowledge, the numbers are known relatively firmly, and beyond that limit numbers are not known at all).
