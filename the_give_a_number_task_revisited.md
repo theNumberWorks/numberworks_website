@@ -8,7 +8,7 @@ The **Give a number task** is used to measure what numbers a preschooler underst
 
 <i class='fa fa-file'></i> Find a [short presentation](https://docs.google.com/presentation/d/1owAbT48vQhKDpEwzqBacLeAqK1nn39NauQV_EwTwZsA/edit?usp=sharing) about these works.
 
-<i class='fa fa-file-video'></i> Watch an [MCLS 2020 presentation](https://www.youtube.com/watch?v=finJsMHUUKM) about the summary of these works.
+<i class='fa fa-file-video-o'></i> Watch an [MCLS 2020 presentation](https://www.youtube.com/watch?v=finJsMHUUKM) about the summary of these works.
 
 ### 1. Large-number subset-knowers and the titration method
 
