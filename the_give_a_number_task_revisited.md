@@ -8,6 +8,8 @@ The **Give a number task** is used to measure what numbers a preschooler underst
 
 <i class='fa fa-file'></i> Find a [short presentation](https://docs.google.com/presentation/d/1owAbT48vQhKDpEwzqBacLeAqK1nn39NauQV_EwTwZsA/edit?usp=sharing) about these works.
 
+<i class='fa fa-file-video'></i> Watch an [MCLS 2020 presentation](https://www.youtube.com/watch?v=finJsMHUUKM) about the summary of these works.
+
 ### 1. Large-number subset-knowers and the titration method
 
 In the current version of the task, (a) the **numbers are asked up to 5** (because it is supposed that if a child knows 5, then she knows all other numbers in her counting list), and (b) with the so called **titration method** if a number is not known, then no larger numbers are asked (because it is supposed that up to the limit of the child's number knowledge, the numbers are known relatively firmly, and beyond that limit numbers are not known at all).
