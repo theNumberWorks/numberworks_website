@@ -21,6 +21,12 @@ In most cases the classic ANS model and our alternative DSS model explain the sa
 [Follow updates of this project on ResearchGate](https://www.researchgate.net/project/An-alternative-model-for-symbolic-number-processing)
 
 Here is a short summary what we found so far.
+
+### 0. Symbolic comparison effects are different than nonsymbolic comparison effects
+In a brief review, through the example of comparison distance and size effects we summarize the main reasons why the ANS has been a reasonable explanation in the last decades, why an alternative DSS account is justifiable, and what our works (as of 2020) contrasting the two accounts reveal about the nature of symbolic and nonsymbolic comparison tasks. We found that unlike prediction of the pure ANS account, (a) the critical properties of the symbolic comparison and the nonsymbolic comparison differ, and (b) while the properties of the distance and the size effects are similar within a nonsymbolic comparison task, the properties of the two effects are different within a symbolic comparison task.
+
+<i class='fa fa-file-text'></i> Krajcsi, A., Kojouharova, P., & Lengyel, G. (submitted). Processing symbolic numbers: The example of distance and size effects. Read the preprint version [here](https://psyarxiv.com/5wzcx).
+
 ### 1. Symbolic numerical size effect is a frequency effect
 In the ANS model, the size effect in a comparison task is thought to be the consequence of the ratios of the values (the Weber's law). In our alternative DSS model it might be a frequency effect, resulting from the uneven frequencies of numbers in everyday life. It is not trivial to test this assumption in Indo-Arabic numbers, because they have been seen so many times, that their perceived frequency is not easy to change. To get around this problem, in a new paradigm, new artificial numbers were learned, and the frequencies of the numbers were manipulated. We found that the size effect in a comparison task with these symbols follows the frequency of the numbers, as predicted by the DSS model.
 

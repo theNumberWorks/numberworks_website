@@ -11,7 +11,7 @@ In this specific work participants enumerated objects. The objects were arranged
 We gave further theoretical considerations in our paper:
 * **The pattern recognition model** is mostly rejected in the literature because usually **a modified version of it is cited** instead of the original version (see the introduction of our paper).
 * **Many former results are consistent with the pattern sensitivity feature**, and consequently support the pattern recognition model of subitizing, even if this aspect is not explicit in some of those works (see introduction and conclusion parts of our paper).
-* The limitation of four is nicely fits to the **limitation in similarity detection of the recognition system** (see the conclusion of our paper).
+* The limitation of four nicely fits to the **limitation in similarity detection of the recognition system** (see the conclusion of our paper).
 * Finally, a more **comprehensive model of subitizing** is proposed based on our result, the former results, and the theoretical considerations (see the conclusion of our paper).
 
 <i class='fa fa-file-text'></i>  Krajcsi, A., Szabó, E., & Mórocz, I. Á. (2013). Subitizing Is Sensitive to the Arrangement of Objects. Experimental Psychology, 60(4), 227–234. [https://doi.org/10.1027/1618-3169/a000191](https://doi.org/10.1027/1618-3169/a000191)

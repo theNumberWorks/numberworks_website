@@ -11,7 +11,7 @@ section_id: about
           <div class='icon-text-simple'>
             <i class='fa fa-map-marker'></i>
             <h3>Address</h3>
-            <p>Eötvös Loránd University,<br>Psychology Institute,<br>Cognitive Psychoogy Department<br><br>
+            <p>Eötvös Loránd University,<br>Psychology Institute,<br>Department of Cognitive Psychology<br><br>
             Budapest<br>Izabella utca 46.<br>1064, Hungary</p>
           </div>
           <div class='two spacing'></div>
