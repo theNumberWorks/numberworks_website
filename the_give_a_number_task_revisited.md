@@ -31,7 +31,7 @@ At the end of the trial, to avoid performance error, follow-up questions are use
 
 In a simple study, **three versions of the follow-up questions** were compared: (a) no question at all, (b) a question whether the given set includes the appropriate amount, and (c) an instruction to recount. It was found that children show **higher performance with the recount instruction**. Also, the three conditions induce different amount of corrections at the end of the trials.
 
-<i class='fa fa-file-text'></i> Krajcsi, A. (in press). Follow-up questions influence the measured number knowledge in the Give-a-number task. Cognitive Development. Or read the [preprint version](https://psyarxiv.com/fky69) of the manuscript.
+<i class='fa fa-file-text'></i> Krajcsi, A. (2021). Follow-up questions influence the measured number knowledge in the Give-a-number task. Cognitive Development, 57, 100968. [https://doi.org/10.1016/j.cogdev.2020.100968](https://doi.org/10.1016/j.cogdev.2020.100968) or read the [preprint version](https://psyarxiv.com/fky69) of the manuscript.
 
 <i class='fa fa-table'></i> Find the raw data of this study at [osf.io](https://osf.io/584y3/).
 
