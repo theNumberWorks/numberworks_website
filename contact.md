@@ -24,7 +24,6 @@ section_id: about
             <h3>Email</h3>
             <p><a href="mailto:krajcsi@gmail.com">Attila Krajcsi</a></p>
             <i class='fa fa-globe'></i>
-            <i class="fab fa-researchgate"></i>
             <h3>ResearchGate</h3>
             <p><a href="https://www.researchgate.net/lab/Attila-Krajcsi-Lab-The-Number-Works-Attila-Krajcsi">NumberWorks</a></p>
           </div>
