@@ -23,6 +23,11 @@ In most cases the classic ANS model and our alternative DSS model explain the sa
 Here is a short summary what we found so far.
 
 ### 0. Symbolic comparison effects are different than nonsymbolic comparison effects
+
+<i class='fa fa-file'></i> Krajcsi, A., Kojouharova, P., & Lengyel, G. The hybrid ANS-DSS account in a nutshell. See our summary presentation [here](https://docs.google.com/presentation/d/1pkvvC9Vd87OtdXvLnCdrsOMOH203IvhEvsuiYATrGFY/edit?usp=sharing).
+
+---
+
 In a brief review, through the example of comparison distance and size effects we summarize the main reasons why the ANS has been a reasonable explanation in the last decades, why an alternative DSS account is justifiable, and what our works (as of 2020) contrasting the two accounts reveal about the nature of symbolic and nonsymbolic comparison tasks. We found that unlike prediction of the pure ANS account, (a) the critical properties of the symbolic comparison and the nonsymbolic comparison differ, and (b) while the properties of the distance and the size effects are similar within a nonsymbolic comparison task, the properties of the two effects are different within a symbolic comparison task.
 
 <i class='fa fa-file-text'></i> Krajcsi, A., Kojouharova, P., & Lengyel, G. (submitted). Processing symbolic numbers: The example of distance and size effects. Read the preprint version [here](https://psyarxiv.com/5wzcx).
