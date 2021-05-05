@@ -16,7 +16,6 @@ Find a list of topics we have worked and we are working on. (Note that all illus
     <div class='medium-6 columns'>
         <h3><a href="discrete_semantic_system.html">An alternative model for the Analogue Number System</a></h3>
         <p>Symbolic and non-symbolic numbers are thought to be processed by an evolutionary ancient, simple representation, working according to Weber's law. This Analogue Number System (ANS) is thought to be the very base of number understanding, and hundreds of academic works support its existence and describe its properties.<br><br>
-
 Still, it is possible that an entirely different system is responsible for symbolic number processing. We propose an alternative account, and argue that all known phenomena formerly attributed to the ANS can be explained by this alternative model. Also, all of our tests contrasting the two models reveal phenomena that the ANS cannot explain.<br><br>
         <a href="discrete_semantic_system.html">Read more</a></p>
     </div>

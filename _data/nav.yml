@@ -11,6 +11,8 @@
       path: numerical_cognition.html#workshop
     - name: Numerical cogniton methods database
       path: numerical_cognition.html#database
+    - name: Measuring the Approximate Number System
+      path: ans_measurement.html
     - name: Can preschoolers understand zero?
       path: zero_in_preschoolers.html
     - name: The Give a number task revisited
