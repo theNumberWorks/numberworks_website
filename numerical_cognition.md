@@ -53,6 +53,20 @@ Still, it is possible that an entirely different system is responsible for symbo
 
   <div class='row'>
     <div class='medium-6 columns'>
+      <img class="fadeinleft" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Fotothek_df_tg_0001550_Geometrie_%5E_Vermessung_%5E_Vermessungsinstrument_%5E_Quadrant_%5E_Turm.jpg/669px-Fotothek_df_tg_0001550_Geometrie_%5E_Vermessung_%5E_Vermessungsinstrument_%5E_Quadrant_%5E_Turm.jpg" />
+      <br><small><a href="https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0001550_Geometrie_%5E_Vermessung_%5E_Vermessungsinstrument_%5E_Quadrant_%5E_Turm.jpg">More about the illustration</a></small>
+    </div>
+    <div class='medium-6 columns'>
+        <h3 id="directory"><a href="ans_measurement.html">Measuring the Approximate Number System</a></h3>
+        <p>Some correlational works measuring the Approximate Number System sensitivity with the distance/ratio effect slope may be biased. Find a tool with which you can estimate which works may be affected.<br><br>
+        <a href="ans_measurement.html">Read more</a></p>
+    </div>
+  </div>
+  <div class='three spacing'></div>
+
+
+  <div class='row'>
+    <div class='medium-6 columns'>
         <h3><a href="zero_in_preschoolers.html">Do preschoolers understand zero?</a></h3>
         <p>Zero is believed to be hard to understand, and it is a relatively late concept in the history of mathematics. Former studies have investigated whether preschoolers can handle zero and their results are inconclusive. We tried to find the cause of these contradictions, and found that preschoolers can handle zero, but they are not sure if it is a number. These results have both theoretical and education consequences.<br><br>
         <a href="zero_in_preschoolers.html">Read more</a></p>

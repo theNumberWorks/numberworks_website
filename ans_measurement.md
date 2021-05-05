@@ -13,6 +13,6 @@ In the present follow-up work, it was investigated under what circumstances (exp
 <i class='fa fa-file-text'></i> Krajcsi, A. (2020). Ratio effect slope can sometimes be an appropriate metric of the approximate number system sensitivity. Attention, Perception, & Psychophysics, 82(4), 2165–2176. [https://doi.org/10.3758/s13414-019-01939-6](https://doi.org/10.3758/s13414-019-01939-6)
 
 
-<i class='fa fa-file'></i>See a [presentation](https://docs.google.com/presentation/d/1py_2GnU3-NaamvxgRCGlsZjWGP4q5CtH5vyUNoJpgQQ/edit?usp=sharing) about this work.
+<i class='fa fa-file'></i> See a [presentation](https://docs.google.com/presentation/d/1py_2GnU3-NaamvxgRCGlsZjWGP4q5CtH5vyUNoJpgQQ/edit?usp=sharing) about this work.
 
-<i class='fa fa-file-code-o'></i>Find a [Python script](https://osf.io/69qnk/) with which you can estimate whether the ratio effect slope could be used with given expected Weber fractions and given number ratios.
+<i class='fa fa-code'></i> Find a [Python script](https://osf.io/69qnk/) with which you can estimate whether the ratio effect slope could be used with given expected Weber fractions and given number ratios.
