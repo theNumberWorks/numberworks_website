@@ -12,4 +12,4 @@ We propose that **children may initially understand numbers as a property of set
 
 Based on these results we propose a few simple recommendations how zero can be taught to preschoolers, and what components can be trained later when they start to learn about negative numbers or multi-power arithmetic.
 
-<i class='fa fa-file-text'></i> Download the [preprint version](https://www.preprints.org/manuscript/201708.0087/) of the manuscript (updated in 2020 July).
+<i class='fa fa-file-text'></i> Krajcsi, A., Kojouharova, P., & Lengyel, G. (2021). Development of Preschoolers’ Understanding of Zero. Frontiers in Psychology, 12, 3169. [https://doi.org/10.3389/fpsyg.2021.583734](https://doi.org/10.3389/fpsyg.2021.583734) Or read the [preprint version](https://www.preprints.org/manuscript/201708.0087/).
