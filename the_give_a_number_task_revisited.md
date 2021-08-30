@@ -10,7 +10,7 @@ The Give-a-number task is the gold standard to measure preschoolers number knowl
 
 ### 0. Summaries of our works
 
-<i class='fa fa-file-text'></i> See a short summary of the methodological issues in the appropriate section of our review on understanding the cardinality principle: Sella, F., Slusser, E., Odic, D., & Krajcsi, A. (2021). The emergence of children’s natural number concepts: Current theoretical challenges. Child Development Perspectives, n/a(n/a). [https://doi.org/10.1111/cdep.12428](https://doi.org/10.1111/cdep.12428). If you don't have the appropriate access, see the paper [here](https://onlinelibrary.wiley.com/share/author/KV8EMDY96Z5F6YVDA5GN?target=10.1111/cdep.12428).
+<i class='fa fa-file-text'></i> See a short summary of the methodological issues in the appropriate section of our review on understanding the cardinality principle: Sella, F., Slusser, E., Odic, D., & Krajcsi, A. (2021). The emergence of children’s natural number concepts: Current theoretical challenges. Child Development Perspectives, n/a(n/a). [https://doi.org/10.1111/cdep.12428](https://doi.org/10.1111/cdep.12428). If you don't have the appropriate access, see the paper in an alternative source provided by the same publisher [here](https://onlinelibrary.wiley.com/share/author/KV8EMDY96Z5F6YVDA5GN?target=10.1111/cdep.12428).
 
 <i class='fa fa-file'></i> Find a [short presentation](https://docs.google.com/presentation/d/1owAbT48vQhKDpEwzqBacLeAqK1nn39NauQV_EwTwZsA/edit?usp=sharing) about these works.
 
