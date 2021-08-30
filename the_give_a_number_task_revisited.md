@@ -4,7 +4,11 @@ title:  The Give a number task revisited
 section_id: numerical_cognition
 ---
 
-The **Give a number task** is used to measure what numbers a preschooler understands. In the task, the child has to give a specific number of objects. Based on the task, it is known that initially children can only give the first few numbers (first only number 1, a few months later 2, then 3, then 4) even if their counting list (known number words) is longer. Later, after an unspecified qualitative change, suddenly preschoolers can give all numbers in their counting list, and they become so called cardinality-principle-knowers.
+The **Give-a-number task** is used to measure what numbers a preschooler understands. In the task, the child has to give a specific number of objects. Based on the task, it is known that initially children can only give the first few numbers (first only number 1, a few months later 2, then 3, then 4) even if their counting list (known number words) is longer. Later, after an unspecified qualitative change, suddenly preschoolers can give all numbers in their counting list, and they become so called cardinality-principle-knowers. The Give-a-number task is the gold standard to measure preschoolers number knowledge, however, there are several methodological issues that may compromise its reliability and validity.
+
+### 0. Summaries of our work
+
+<i class='fa fa-file-text'></i> See a short summary of the methodological issues in the appropriate section of our review on understanding the cardinality principle. Sella, F., Slusser, E., Odic, D., & Krajcsi, A. (2021). The emergence of children’s natural number concepts: Current theoretical challenges. Child Development Perspectives, n/a(n/a). [https://doi.org/10.1111/cdep.12428](https://doi.org/10.1111/cdep.12428)
 
 <i class='fa fa-file'></i> Find a [short presentation](https://docs.google.com/presentation/d/1owAbT48vQhKDpEwzqBacLeAqK1nn39NauQV_EwTwZsA/edit?usp=sharing) about these works.
 
