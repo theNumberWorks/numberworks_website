@@ -90,7 +90,7 @@ The ANS model can explain several numerical interferences (e.g., the interferenc
 ### 6. The comparison distance effect and the priming distance effect rely on different mechanisms
 The ANS model assumes that both the comparison distance effect (CDE) and the priming distance effect (PDE) are rooted in the same mechanism: they depend on the overlap of the two numbers' representation. This assumption implies that the CDE slope and the PDE slope correlate. We measured this correlation while making sure that the reliability of those slopes is appropriate so that low reliability cannot attenuate the correlation. No strong correlation was found that questions the ANS account of the CDE and/or PDE.
 
-<i class='fa fa-file-text'></i>Attila Krajcsi, Tamás Szűcs. Symbolic number comparison and number priming do not rely on the same mechanism. <i>Manuscript is coming soon.</i>
+<i class='fa fa-file-text'></i> Attila Krajcsi, Tamás Szűcs. Symbolic number comparison and number priming do not rely on the same mechanism. <i>Manuscript is coming soon.</i>
 
 <i class='fa fa-table'></i> Find the raw data of this study at [osf.io](https://osf.io/bs94q/).
 
