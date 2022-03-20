@@ -94,6 +94,8 @@ The ANS model assumes that both the comparison distance effect (CDE) and the pri
 
 <i class='fa fa-table'></i> Find the raw data of this study at [osf.io](https://osf.io/bs94q/).
 
+<i class='fa fa-file'></i> See a [presentation](https://docs.google.com/presentation/d/1CbvNlfSTV6ATI5CKJMsOXghfKr3lqkoL61lrgTqQTD0/edit?usp=sharing) about this work.
+
 ### 7. Former findings supporting the DSS model
 In the last decades of numerical cognition literature, there were several seemingly smaller findings that were not in line with the otherwise widely accepted ANS model. Usually it is quite natural that there are occasional findings and details that are not consistent with a model, and because the ANS model seemed convincingly coherent, concise and efficient, these issues didn’t seem too important. Looking from the viewpoint of the DSS model, these anomalies show some critical features of number processing, and they shed light on what alternative number representation should be proposed.
 
