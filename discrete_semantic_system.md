@@ -87,7 +87,14 @@ The ANS model can explain several numerical interferences (e.g., the interferenc
 
 <i class='fa fa-file'></i> See a [presentation](https://osf.io/fst9v/) about this work.
 
-### 6. Former findings supporting the DSS model
+### 6. The comparison distance effect and the priming distance effect rely on different mechanisms
+The ANS model assumes that both the comparison distance effect (CDE) and the priming distance effect (PDE) are rooted in the same mechanism: they depend on the overlap of the two numbers' representation. This assumption implies that the CDE slope and the PDE slope correlate. We measured this correlation while making sure that the reliability of those slopes is appropriate so that low reliability cannot attenuate the correlation. No strong correlation was found that questions the ANS account of the CDE and/or PDE.
+
+<i class='fa fa-file-text'></i>Attila Krajcsi, Tamás Szűcs. Symbolic number comparison and number priming do not rely on the same mechanism. <i>Manuscript is coming soon.</i>
+
+<i class='fa fa-table'></i> Find the raw data of this study at [osf.io](https://osf.io/bs94q/).
+
+### 7. Former findings supporting the DSS model
 In the last decades of numerical cognition literature, there were several seemingly smaller findings that were not in line with the otherwise widely accepted ANS model. Usually it is quite natural that there are occasional findings and details that are not consistent with a model, and because the ANS model seemed convincingly coherent, concise and efficient, these issues didn’t seem too important. Looking from the viewpoint of the DSS model, these anomalies show some critical features of number processing, and they shed light on what alternative number representation should be proposed.
 
 <i class='fa fa-file-text'></i> Check back for the preprint later.
