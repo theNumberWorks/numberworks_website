@@ -52,3 +52,5 @@ In the literature, 1-, 2-, 3-, and 4-knowers are categorized as subset-knowers a
 <i class='fa fa-file-text'></i> Attila Krajcsi & Bert Reynvoet. Miscategorized subset-knowers: 5- and 6-knowers can compare only the numbers they know. <i>Manuscript is coming soon.</i>
 
 <i class='fa fa-table'></i> Find the raw data of this study at [osf.io](https://osf.io/qj428/).
+
+<i class='fa fa-desktop'></i> Find a [presentation](https://docs.google.com/presentation/d/1w-2WIiYGRQ75L3gq8E_19VJocaYV2bF2f9KxkgHjvlU/edit?usp=sharing) about this work.
