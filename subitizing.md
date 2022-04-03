@@ -16,8 +16,10 @@ We gave further theoretical considerations in our paper:
 
 <i class='fa fa-file-text'></i>  Krajcsi, A., Szabó, E., & Mórocz, I. Á. (2013). Subitizing Is Sensitive to the Arrangement of Objects. Experimental Psychology, 60(4), 227–234. [https://doi.org/10.1027/1618-3169/a000191](https://doi.org/10.1027/1618-3169/a000191)
 
-See a short slideshow about some of the ideas. Note that the graphs do not necessarily show the final published data.
+<i class='fa fa-file-code-o'></i> Find a [PsychoPy script](https://osf.io/e8kmq/) of the experiment.
+
+<i class='fa fa-desktop'></i> See a short slideshow about some of the ideas below. Note that the graphs do not necessarily show the final published data.
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTneer7fjcrxHpiEvZ7oUKkipFEEryQecoT8kIYBaUtr14SfFJYhzuTeAqKrKGGIVc_94VQNNoNfvbd/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br>
-Description of the project [in Hungarian](https://sites.google.com/site/matematikaimegismeres/Home/szubitizacio).
+<i class='fa fa-file'></i> Description of the project [in Hungarian](https://sites.google.com/site/matematikaimegismeres/Home/szubitizacio).
