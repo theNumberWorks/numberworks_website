@@ -12,7 +12,7 @@ The Give-a-number task is the gold standard to measure preschoolers number knowl
 
 <i class='fa fa-file-text'></i> See a short summary of the methodological issues in the appropriate section of our review on understanding the cardinality principle: Sella, F., Slusser, E., Odic, D., & Krajcsi, A. (2021). The emergence of children’s natural number concepts: Current theoretical challenges. Child Development Perspectives, 15(4), 265–273. [https://doi.org/10.1111/cdep.12428](https://doi.org/10.1111/cdep.12428).
 
-<i class='fa fa-file'></i> Find a [short presentation](https://docs.google.com/presentation/d/1owAbT48vQhKDpEwzqBacLeAqK1nn39NauQV_EwTwZsA/edit?usp=sharing) about these works.
+<i class='fa fa-desktop'></i> Find a [short presentation](https://docs.google.com/presentation/d/1owAbT48vQhKDpEwzqBacLeAqK1nn39NauQV_EwTwZsA/edit?usp=sharing) about these works.
 
 <i class='fa fa-file-video-o'></i> Watch an [MCLS 2020 presentation](https://www.youtube.com/watch?v=finJsMHUUKM) about the summary of these works.
 
@@ -29,7 +29,7 @@ Based on these results we suggest that the Give-a-number task should be modified
 
 <i class='fa fa-table'></i> Find the raw data of this study at [osf.io](https://osf.io/z28hd/).
 
-<i class='fa fa-file'></i> Find a [presentation](https://docs.google.com/presentation/d/1hTaC9UZBgd-6tG6vQ9lPZxOnhCBYCwosbUfs-BSp4YA/edit?usp=sharing) about this work.
+<i class='fa fa-desktop'></i> Find a [presentation](https://docs.google.com/presentation/d/1hTaC9UZBgd-6tG6vQ9lPZxOnhCBYCwosbUfs-BSp4YA/edit?usp=sharing) about this work.
 
 ### 2. The effect of the follow-up questions
 
