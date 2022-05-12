@@ -16,6 +16,8 @@ The Give-a-number task is the gold standard to measure preschoolers number knowl
 
 <i class='fa fa-file-video-o'></i> Watch an [MCLS 2020 presentation](https://www.youtube.com/watch?v=finJsMHUUKM) about the summary of these works.
 
+<i class='fa fa-table'></i> Find some of our raw data in [Numberbank](https://numberbank.shinyapps.io/shiny_app/) too, where you can compare some results of various datasets that come from different labs/countries/cultures.
+
 ### 1. Large-number-subset-knowers and the titration method
 
 In the current version of the task, (a) the **numbers are asked up to 5** (because it is supposed that if a child knows 5, then she knows all other numbers in her counting list), and (b) with the so called **titration method** if a number is not known, then no larger numbers are asked (because it is supposed that up to the limit of the child's number knowledge, the numbers are known relatively firmly, and beyond that limit numbers are not known at all).
