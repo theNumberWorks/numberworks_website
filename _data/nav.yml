@@ -7,16 +7,12 @@
   children:
     - name: Discrete Semantic System
       path: discrete_semantic_system.html
-    - name: Methods in Numerical Cognition Workshop
-      path: numerical_cognition.html#workshop
-    - name: Numerical cogniton methods database
-      path: numerical_cognition.html#database
+    - name: The Give a number task revisited
+      path: the_give_a_number_task_revisited.html
     - name: Measuring the Approximate Number System
       path: ans_measurement.html
     - name: Can preschoolers understand zero?
       path: zero_in_preschoolers.html
-    - name: The Give a number task revisited
-      path: the_give_a_number_task_revisited.html
     - name: Number notation effect
       path: number_notation_effect.html
     - name: Subitizing
@@ -25,6 +21,10 @@
       path: negative_numbers.html
     - name: Williams syndrome
       path: williams_syndrome.html
+    - name: Methods in Numerical Cognition Workshop
+      path: numerical_cognition.html#workshop
+    - name: Numerical cogniton methods database
+      path: numerical_cognition.html#database
 - name: Methodological works
   path: methods.html
   section_id: methods
