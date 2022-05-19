@@ -48,4 +48,6 @@
       path: open_positions.html
     - name: Contact us
       path: contact.html
+    - name: More information
+      path: more_information.html
   section_id: about
