@@ -6,8 +6,6 @@ section_id: about
 
 Our lab is at [Eötvös Loránd University](http://www.elte.hu/en), [Faculty of Education and Psychology](https://www.ppk.elte.hu/en). 
 
-Find our Hungarian webpage [here](https://sites.google.com/site/matematikaimegismeres/).
-
 <div class='full'>
   <div class='row'>
     <div class='medium-6 columns'>
