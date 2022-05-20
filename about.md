@@ -4,8 +4,6 @@ title: About the NumberWorks lab
 section_id: about
 ---
 
-Our lab is at [Eötvös Loránd University](http://www.elte.hu/en), [Faculty of Education and Psychology](https://www.ppk.elte.hu/en). 
-
 <div class='full'>
   <div class='row'>
     <div class='medium-6 columns'>
