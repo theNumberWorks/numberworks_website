@@ -6,7 +6,7 @@ section_id: about
 
 <div class='fadein mod modIconText' data-delay='{{ 300 | times:forloop.index0 }}'>
   <div class='icon-text-simple'>
-    <i class='fa fa-meanpath'></i>
+    <i class='fa fa-flask'></i>
     <h3>ResearchGate</h3>
     <p><a href="https://www.researchgate.net/lab/Attila-Krajcsi-Lab-The-Number-Works-Attila-Krajcsi">NumberWorks' ResearchGate lab page</a></p>
     <i class='fa fa-twitter-square'></i>
