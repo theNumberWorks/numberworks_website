@@ -56,4 +56,17 @@ Find our Hungarian webpage [here](https://sites.google.com/site/matematikaimegis
     </div>
   </div>
   <div class='spacing'></div>
+
+  <div class='row'>
+    <div class='medium-6 columns'>
+      <img class="fadeinleft" alt="" src="images/notebook.jpg" />
+      <div class='three spacing'></div>
+    </div>
+    <div class='medium-6 columns'>
+      <h3><a href="more_information.html">More information</a></h3>
+      <p><a href="more_information.html">Find us</a> on other services</p>.
+    </div>
+  </div>
+  <div class='spacing'></div>
+
 </div>
