@@ -24,7 +24,7 @@ Find our Hungarian webpage [here](https://sites.google.com/site/matematikaimegis
   <div class='row'>
     <div class='medium-6 columns'>
       <h3><a href="events.html">Events</a></h3>
-      <p>Find some of the events where you can <a href="events.html">meet us.</a></p>
+      <p>Find some of the events where you can <a href="events.html">meet us</a></p>
     </div>
     <div class='medium-6 columns'>
       <img class="fadeinright" alt="" src="images/calendar.jpg" />
@@ -40,7 +40,7 @@ Find our Hungarian webpage [here](https://sites.google.com/site/matematikaimegis
     </div>
     <div class='medium-6 columns'>
       <h3><a href="open_positions.html">Open positions</a></h3>
-      <p><a href="open_positions.html">Join</a> our team</p>.
+      <p><a href="open_positions.html">Join</a> our team</p>
     </div>
   </div>
   <div class='spacing'></div>
@@ -48,7 +48,7 @@ Find our Hungarian webpage [here](https://sites.google.com/site/matematikaimegis
   <div class='row'>
     <div class='medium-6 columns'>
       <h3><a href="contact.html">Contact us</a></h3>
-      <p>Find out where we are and how to <a href="contact.html">contact us</a></p>.
+      <p>Find out where we are and how to <a href="contact.html">contact us</a></p>
     </div>
     <div class='medium-6 columns'>
       <img class="fadeinleft" alt="" src="images/mail.jpg" />
@@ -64,7 +64,7 @@ Find our Hungarian webpage [here](https://sites.google.com/site/matematikaimegis
     </div>
     <div class='medium-6 columns'>
       <h3><a href="more_information.html">More information</a></h3>
-      <p><a href="more_information.html">Find us</a> on other services</p>.
+      <p><a href="more_information.html">Find us</a> on other services</p>
     </div>
   </div>
   <div class='spacing'></div>
