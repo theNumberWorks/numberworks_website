@@ -2,9 +2,7 @@
 layout: page
 title: Contact us
 section_id: about
----
-
-Our lab is at [Eötvös Loránd University](http://www.elte.hu/en), [Faculty of Education and Psychology](https://www.ppk.elte.hu/en). 
+--- 
 
 <div class='full'>
   <div class='row'>
@@ -13,7 +11,7 @@ Our lab is at [Eötvös Loránd University](http://www.elte.hu/en), [Faculty of 
           <div class='icon-text-simple'>
             <i class='fa fa-map-marker'></i>
             <h3>Address</h3>
-            <p>Eötvös Loránd University,<br>Psychology Institute,<br>Department of Cognitive Psychology<br><br>
+            <p><a href="http://www.elte.hu/en">Eötvös Loránd University</a>,<br><a href="https://www.ppk.elte.hu/en">Faculty of Education and Psychology</a>, <br>Psychology Institute,<br>Department of Cognitive Psychology<br><br>
             Budapest<br>Izabella utca 46.<br>1064, Hungary</p>
           </div>
           <div class='two spacing'></div>
