@@ -1,6 +1,6 @@
 - avatar: images/members/BoglarkaBischof.png
   name: Boglárka Bischof
-  position: MA student
+  position:
   socials:
   desc:
 - avatar: images/members/EdinaFintor.jpeg
@@ -15,16 +15,9 @@
   position: BA student
   socials:
   desc:
-- avatar: images/members/LillaHodossy.jpg
-  name: Lilla Hodossy
-  position: 
-  socials:
-    - link: http://www.pc.rhul.ac.uk/sites/lab/index.php/lab-members/lilla-hodossy/
-      icon: globe
-  desc:
 - avatar: images/members/OrsolyaKis.jpg
   name: Orsolya Kis
-  position: PhD student (BME)
+  position:
   socials:
   desc:
 - avatar: images/members/OrsolyaKisSz.jpg
@@ -34,7 +27,7 @@
   desc:
 - avatar: images/members/PetiaKojouharova.jpg
   name: Petia Kojouharova
-  position: PhD student (ELTE)
+  position:
   socials:
     - link: https://sites.google.com/site/petiakojouharova/
       icon: globe
@@ -52,12 +45,12 @@
   desc:
 - avatar: images/members/AkosLaczko.jpg
   name: Ákos Laczkó
-  position: PhD student (ELTE)
+  position:
   socials:
   desc:
 - avatar: images/members/GaborLengyel.jpg
   name: Gábor Lengyel
-  position: PhD student (CEU)
+  position:
   socials:
     - link: http://www.visionlab-ceu.org/gaborlengyel
       icon: globe
@@ -69,14 +62,14 @@
   desc:
 - avatar: images/members/EszterSzabo.jpg
   name: Eszter Szabó
-  position: PhD student (CEU)
+  position:
   socials:
     - link: https://cognitivescience.ceu.edu/people/eszter-szabo
       icon: globe
   desc:
 - avatar: images/members/TamasSzucs.jpg
   name: Tamás Szűcs
-  position: BA student
+  position: MA student
   socials:
   desc:
 
