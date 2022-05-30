@@ -47,7 +47,7 @@ section_id: about
       <p>Find out where we are and how to <a href="contact.html">contact us</a></p>
     </div>
     <div class='medium-6 columns'>
-      <img class="fadeinleft" alt="" src="images/mail.jpg" />
+      <img class="fadeinright" alt="" src="images/mail.jpg" />
       <div class='three spacing'></div>
     </div>
   </div>
