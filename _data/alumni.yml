@@ -1,3 +1,10 @@
+- avatar: images/members/LillaHodossy.jpg
+  name: Lilla Hodossy
+  position: 
+  socials:
+    - link: http://www.pc.rhul.ac.uk/sites/lab/index.php/lab-members/lilla-hodossy/
+      icon: globe
+  desc:
 - avatar: images/members/JanosIgacs.jpg
   name: János Igács
   position:
