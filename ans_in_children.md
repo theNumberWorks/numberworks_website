@@ -8,9 +8,9 @@ The Approximate Number System (ANS) is assumed to account for several phenomena 
 
 ## The role of the ANS in subset-knowers
 
-It has been proposed that the ANS may partially or entirely lead the number knowledge of subset-knowers: As the sensitivity of the ANS improves, children may be able to differentiate larger and larger values, and they can learn the meaning of the first few number words. Although this idea has been introduced and tested in the literature, some key features of this account are underspecified.
+It has been proposed that the ANS may partially or entirely lead the number knowledge acquisition in subset-knowers: As the sensitivity of the ANS improves, children may be able to differentiate larger and larger values, and they can learn the meaning of the first few number words. Although this idea has been introduced and tested in the literature, some key features of this account were underspecified.
 
-In the present work, we extend the previously underspecified account and assemble the related details and parameters to create a more comprehensive description of this account. Based on this description, we find that the ANS cannot be the leading factor in acquiring the first symbolic numbers.
+In this work, we extended the previously underspecified account and assembled the related details and parameters to create a more comprehensive description of this account. Based on this description, we found that the ANS cannot be the leading factor in acquiring the first symbolic numbers.
 
 <i class='fa fa-file'></i> Krajcsi, A., Fedele, M., & Reynvoet, B. (in press). The approximate number system cannot be the leading factor in the acquisition of the first symbolic numbers. Cognitive Development. (The text will be available soon.)
 
