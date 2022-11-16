@@ -9,6 +9,8 @@
       path: discrete_semantic_system.html
     - name: The Give a number task revisited
       path: the_give_a_number_task_revisited.html
+    - name: The role of the ANS in children
+      path: ans_in_children.html
     - name: Can preschoolers understand zero?
       path: zero_in_preschoolers.html
     - name: Measuring the Approximate Number System
