@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ANS in children
+title: The role of the ANS in children
 section_id: numerical_cognition
 ---
 
