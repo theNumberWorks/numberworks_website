@@ -4,7 +4,7 @@ title: The role of the ANS in children
 section_id: numerical_cognition
 ---
 
-The Approximate Number System (ANS) is assumed to account for several phenomena not only in adults but in children. Here, we investigate a few key properties of this assumed role
+The Approximate Number System (ANS) is assumed to account for several phenomena not only in adults but in children. Here, we investigate a few key properties of this assumed role.
 
 ## The role of the ANS in subset-knowers
 
