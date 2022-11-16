@@ -14,6 +14,8 @@ In the present work, we extend the previously underspecified account and assembl
 
 <i class='fa fa-file'></i> Krajcsi, A., Fedele, M., & Reynvoet, B. (in press). The approximate number system cannot be the leading factor in the acquisition of the first symbolic numbers. Cognitive Development. (The text will be available soon.)
 
+<i class='fa fa-file-code-o'></i> Find the [Python script](https://osf.io/e8kmq/) for the calculations and animation.
+
 ## Measuring the ANS in children
 
 The measurement of the ANS is long debated in the literature. For example, see the comprehensive summary of [Dietrch et al. (2015)](https://doi.org/10.3389/fpsyg.2015.00295).
