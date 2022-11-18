@@ -37,6 +37,20 @@ Still, it is possible that an entirely different system is responsible for symbo
   <div class='three spacing'></div>
 
 
+  <div class='full'>
+  <div class='row'>
+    <div class='medium-6 columns'>
+      <img class="fadeinleft" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Twenty-sided_die_%28icosahedron%29_with_faces_inscribed_with_Greek_letters_MET_10.130.1158_001.jpg/447px-Twenty-sided_die_%28icosahedron%29_with_faces_inscribed_with_Greek_letters_MET_10.130.1158_001.jpg" />
+      <br><small><a href="https://commons.wikimedia.org/wiki/File:Twenty-sided_die_(icosahedron)_with_faces_inscribed_with_Greek_letters_MET_10.130.1158_001.jpg">More about the illustration</a></small>
+    </div>
+    <div class='medium-6 columns'>
+        <h3><a href="ans_in_children.html">The Approximate Number System (ANS) is assumed to account for several phenomena not only in adults but in children. Here, we investigate a few key properties of this assumed role.<br><br>
+        <a href="ans_in_children.html">Read more</a></p>
+    </div>
+  </div>
+  <div class='three spacing'></div>
+    
+    
   <div class='row'>
     <div class='medium-6 columns'>
       <img class="fadeinleft" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/La_Mojarra_Inscription_and_Long_Count_date.jpg/333px-La_Mojarra_Inscription_and_Long_Count_date.jpg" />
