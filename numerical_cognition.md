@@ -44,7 +44,8 @@ Still, it is possible that an entirely different system is responsible for symbo
       <br><small><a href="https://commons.wikimedia.org/wiki/File:Twenty-sided_die_(icosahedron)_with_faces_inscribed_with_Greek_letters_MET_10.130.1158_001.jpg">More about the illustration</a></small>
     </div>
     <div class='medium-6 columns'>
-        <h3><a href="ans_in_children.html">The Approximate Number System (ANS) is assumed to account for several phenomena not only in adults but in children. Here, we investigate a few key properties of this assumed role.<br><br>
+        <h3><a href="ans_in_children.html">The role of the ANS in children</a></h3>
+        <p>The Approximate Number System (ANS) is assumed to account for several phenomena not only in adults but in children. Here, we investigate a few key properties of this assumed role.<br><br>
         <a href="ans_in_children.html">Read more</a></p>
     </div>
   </div>
