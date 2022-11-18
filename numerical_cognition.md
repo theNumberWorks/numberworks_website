@@ -100,7 +100,7 @@ Still, it is possible that an entirely different system is responsible for symbo
       <br><small><a href="https://commons.wikimedia.org/wiki/File:Pompeii_-_Osteria_della_Via_di_Mercurio_-_Dice_Players.jpg">More about the illustration</a></small>
     </div>
     <div class='medium-6 columns'>
-        <h3><a href="subitizing.html">Quantifying objects, a.k.a. subitizing</a></h3>
+        <h3><a href="subitizing.html">Quantifying objects with subitizing</a></h3>
         <p>Enumerating a small set of objects is very fast. Still it is debated what mental system is responsible for this fast enumeration. We argue here that fast enumeration is sensitive to the arrangement of the set, consequently, fast enumeration of objects is actually is the detection of the pattern the objects of the set form.<br><br>
         <a href="subitizing.html">Read more</a></p>
     </div>
