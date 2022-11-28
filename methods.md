@@ -24,13 +24,13 @@ Find a list of topics we have worked and we are working on. (Note that all illus
 
   <div class='row'>
     <div class='medium-6 columns'>
-        <h3><a href="algotaurus.html">AlgoTaurus</a></h3>
-        <p>AlgoTaurus is a computer programming teaching game for absolute beginners. It is very easy to start working on a script, and the student can learn several features of computer programming by experimenting. According to our pilots, the task is quite addictive. It is a useful choice either if you want to start learning computer programming, or if you teach programming for beginners.<br><br>
-        <a href="algotaurus.html">Read more</a></p>
+        <h3><a href="reliability.html">Reliability</a></h3>
+        <p>While reliability is essential in many aspects of the research, there are many details that are hardly know or applied. We try to advance the relevant use of reliability with several related research projects.<br><br>
+        <a href="reliability.html">Read more</a></p>
     </div>
     <div class='medium-6 columns'>
-      <img class="fadeinright" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Paphos_Haus_des_Dionysos_-_Mosaik_Theseus_7_Labyrinth.jpg/640px-Paphos_Haus_des_Dionysos_-_Mosaik_Theseus_7_Labyrinth.jpg" />
-      <br><small><a href="https://commons.wikimedia.org/wiki/File:Paphos_Haus_des_Dionysos_-_Mosaik_Theseus_7_Labyrinth.jpg">Source</a></small>
+      <img class="fadeinright" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Nineveh_Two_archers.jpg/517px-Nineveh_Two_archers.jpg" />
+      <br><small><a href="https://commons.wikimedia.org/wiki/File:Nineveh_Two_archers.jpg">Source</a></small>
     </div>
   </div>
   <div class='three spacing'></div>
@@ -52,26 +52,40 @@ Find a list of topics we have worked and we are working on. (Note that all illus
 
   <div class='row'>
     <div class='medium-6 columns'>
+        <h3><a href="algotaurus.html">AlgoTaurus</a></h3>
+        <p>AlgoTaurus is a computer programming teaching game for absolute beginners. It is very easy to start working on a script, and the student can learn several features of computer programming by experimenting. According to our pilots, the task is quite addictive. It is a useful choice either if you want to start learning computer programming, or if you teach programming for beginners.<br><br>
+        <a href="algotaurus.html">Read more</a></p>
+    </div>
+    <div class='medium-6 columns'>
+      <img class="fadeinright" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Paphos_Haus_des_Dionysos_-_Mosaik_Theseus_7_Labyrinth.jpg/640px-Paphos_Haus_des_Dionysos_-_Mosaik_Theseus_7_Labyrinth.jpg" />
+      <br><small><a href="https://commons.wikimedia.org/wiki/File:Paphos_Haus_des_Dionysos_-_Mosaik_Theseus_7_Labyrinth.jpg">Source</a></small>
+    </div>
+  </div>
+  <div class='three spacing'></div>
+
+
+  <div class='row'>
+    <div class='medium-6 columns'>
+      <img class="fadeinleft" alt="" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Etruscan_Painting_1.jpg" />
+      <br><small><a href="https://commons.wikimedia.org/wiki/File:Etruscan_Painting_1.jpg">Source</a></small>
+    </div>
+    <div class='medium-6 columns'>
         <h3 id="symposium"><a href="http://www.cogstat.org/best_practices_symposium/">Data Analysis Symposium</a></h3>
         <p>We started to organize the Best Practices in Data Analyses and Statistics Symposium to popularize either new or old solutions, to familiarize researchers with these methods, and to make these methods more accessible. In addition, the symposium is a great opportunity to discuss and evaluate various methods to improve research practice.<br><br>
         <a href="http://www.cogstat.org/best_practices_symposium/">Read more</a></p>
-    </div>
-    <div class='medium-6 columns'>
-      <img class="fadeinright" alt="" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Etruscan_Painting_1.jpg" />
-      <br><small><a href="https://commons.wikimedia.org/wiki/File:Etruscan_Painting_1.jpg">Source</a></small>
     </div>
   </div>
   <div class='three spacing'></div>
 
   <div class='row'>
     <div class='medium-6 columns'>
-      <img class="fadeinleft" alt="" src="https://upload.wikimedia.org/wikipedia/en/4/4b/Dr_John_Clarke_trepanning_a_skull_operation.jpg" />
-      <br><small><a href="https://en.wikipedia.org/wiki/File:Dr_John_Clarke_trepanning_a_skull_operation.jpg">Source</a></small>
-    </div>
-    <div class='medium-6 columns'>
         <h3><a href="neuropsychology.html">Neuropsychology</a></h3>
         <p>Coming soon...<br><br>
         <a href="neuropsychology.html">Read more</a></p>
+    </div>
+    <div class='medium-6 columns'>
+      <img class="fadeinright" alt="" src="https://upload.wikimedia.org/wikipedia/en/4/4b/Dr_John_Clarke_trepanning_a_skull_operation.jpg" />
+      <br><small><a href="https://en.wikipedia.org/wiki/File:Dr_John_Clarke_trepanning_a_skull_operation.jpg">Source</a></small>
     </div>
   </div>
   <div class='three spacing'></div>
