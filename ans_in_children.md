@@ -14,6 +14,8 @@ In this work, we extended the previously underspecified account and assembled th
 
 <i class='fa fa-file'></i> Krajcsi, A., Fedele, M., & Reynvoet, B. (2023). The approximate number system cannot be the leading factor in the acquisition of the first symbolic numbers. Cognitive Development, 65, 101285. [https://doi.org/10.1016/j.cogdev.2022.101285](https://doi.org/10.1016/j.cogdev.2022.101285)
 
+<i class='fa fa-desktop'></i> Find a [presentation](https://docs.google.com/presentation/d/1BJ_WJ8OdllLu2uDB4VpTXrZi5mGOC1NWorDxwCwU6Xg/edit?usp=sharing) about this work.
+
 <i class='fa fa-file-code-o'></i> Find the [Python script](https://osf.io/rmubz/) for the calculations and animation.
 
 ## Measuring the ANS in children
