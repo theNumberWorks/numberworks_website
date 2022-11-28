@@ -12,7 +12,7 @@ It has been proposed that the ANS may partially or entirely lead the number know
 
 In this work, we extended the previously underspecified account and assembled the related details and parameters to create a more comprehensive description of this account. Based on this description, we found that the ANS cannot be the leading factor in acquiring the first symbolic numbers.
 
-<i class='fa fa-file'></i> Krajcsi, A., Fedele, M., & Reynvoet, B. (in press). The approximate number system cannot be the leading factor in the acquisition of the first symbolic numbers. Cognitive Development. (The text will be available soon.)
+<i class='fa fa-file'></i> Krajcsi, A., Fedele, M., & Reynvoet, B. (2023). The approximate number system cannot be the leading factor in the acquisition of the first symbolic numbers. Cognitive Development, 65, 101285. https://doi.org/10.1016/j.cogdev.2022.101285
 
 <i class='fa fa-file-code-o'></i> Find the [Python script](https://osf.io/rmubz/) for the calculations and animation.
 
