@@ -25,7 +25,7 @@ Find a list of topics we have worked and we are working on. (Note that all illus
   <div class='row'>
     <div class='medium-6 columns'>
         <h3><a href="reliability.html">Reliability</a></h3>
-        <p>While reliability is essential in many aspects of the research, there are many details that are hardly know or applied. We try to advance the relevant use of reliability with several related research projects.<br><br>
+        <p>While reliability is essential in many aspects of the research, many details are hardly known or applied. We try to advance the relevant use of reliability with several related research projects.<br><br>
         <a href="reliability.html">Read more</a></p>
     </div>
     <div class='medium-6 columns'>
