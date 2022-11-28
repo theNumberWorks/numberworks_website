@@ -8,7 +8,7 @@ Many details about reliability, its role, the indexes that measure it, etc., are
 
 <i class='fa fa-desktop'></i> See a [presentation](https://docs.google.com/presentation/d/1A3WPhX4lzv_L99vdn1-I_uPWgOOtYNJ0MQ-jjjScqgY/edit?usp=sharing) about some less known properties of reliability from the viewpoint of cognitive science.
 
-## The relation between reliability and power of the hypothesis tests
+## The relation between reliability and the power of the hypothesis tests
 
 The relation between reliability and power is complex. On the one hand, it is well known that reliability attenuates the measured correlation and, consequently, the power of the related hypothesis test. On the other hand, some robust cognitive (and other) phenomena are not reliable, termed the reliability paradox (e.g., [Hedge, Powell, Sumner, 2018](https://doi.org/10.3758/s13428-017-0935-1)). This issue has been discussed and investigated in the literature. Here, I attempt to provide a more extensive, still accessible summary and explanation for the key relations between reliability and statistical power.
 
