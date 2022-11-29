@@ -84,7 +84,7 @@ Find a list of topics we have worked and we are working on. (Note that all illus
         <a href="neuropsychology.html">Read more</a></p>
     </div>
     <div class='medium-6 columns'>
-      <img class="fadeinright" alt="" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Dr_John_Clarke_trepanning_a_skull_operation.jpg" />
+      <img class="fadeinright" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bronze_Age_skull_from_Jericho%2C_Palestine%2C_2200-2000_Wellcome_L0058402.jpg/319px-Bronze_Age_skull_from_Jericho%2C_Palestine%2C_2200-2000_Wellcome_L0058402.jpg" />
       <br><small><a href="https://en.wikipedia.org/wiki/File:Dr_John_Clarke_trepanning_a_skull_operation.jpg">Source</a></small>
     </div>
   </div>
