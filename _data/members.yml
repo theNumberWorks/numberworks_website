@@ -3,13 +3,6 @@
   position:
   socials:
   desc:
-- avatar: images/members/EdinaFintor.jpeg
-  name: Edina Fintor
-  position: 
-  socials:
-    - link: http://www.psych.rwth-aachen.de/cms/PSY/Das-Institut/Kognitions-und-Experimentalpsychologie/Team/~jrpf/Edina-Fintor/lidx/1/
-      icon: globe
-  desc:
 - avatar: images/members/RobertFodor.png
   name: Róbert Fodor
   position: BA student
@@ -71,5 +64,7 @@
   name: Tamás Szűcs
   position: MA student
   socials:
+    - link: https://tomiszucs.github.io/
+      icon: globe
   desc:
 
