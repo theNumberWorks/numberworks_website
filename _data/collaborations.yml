@@ -1,53 +1,53 @@
-- avatar: images/members/DanielAnsari.jpeg
+- avatar: images/members/male.png
   name: Daniel Ansari
   position: 
   socials:
     - link: https://numericalcognition.uwo.ca/
       icon: globe
   desc:
-- avatar: images/members/MartaFedele.jpeg
+- avatar: images/members/female.png
   name: Marta Fedele
   position: 
   socials:
     - link: 
       icon: globe
   desc:
-- avatar: images/members/DezsoNemeth.jpeg
+- avatar: images/members/male.png
   name: Dezső Németh
   position: 
   socials:
     - link: https://nemethlab.com/
       icon: globe
   desc:
-- avatar: images/members/DarkoOdic.jpeg
+- avatar: images/members/male.png
   name: Darko Odic
   position: 
   socials:
     - link: 
       icon: globe
   desc:
-- avatar: images/members/JeromePrado.jpeg
+- avatar: images/members/male.png
   name: Jerome Prado
   position: 
   socials:
     - link: 
       icon: globe
   desc:
-- avatar: images/members/AttilaKrajcsi.jpg
+- avatar: images/members/male.png
   name: Bert Reynvoet
   position: 
   socials:
     - link: https://numcoglableuven.be/
       icon: globe
   desc:
-- avatar: images/members/FrancescoSella.jpeg
+- avatar: images/members/male.png
   name: Francesco Sella
   position: 
   socials:
     - link: 
       icon: globe
   desc:
-- avatar: images/members/EmilySlusser.jpeg
+- avatar: images/members/female.png
   name: Emily Slusser
   position: 
   socials:
