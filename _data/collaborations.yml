@@ -30,10 +30,10 @@
   name: Jerome Prado
   position: 
   socials:
-    - link: TODO
+    - link: 
       icon: globe
   desc:
-- avatar: 
+- avatar: images/members/AttilaKrajcsi.jpg
   name: Bert Reynvoet
   position: 
   socials:
@@ -44,7 +44,7 @@
   name: Francesco Sella
   position: 
   socials:
-    - link: TODO
+    - link: 
       icon: globe
   desc:
 - avatar: images/members/EmilySlusser.jpeg
