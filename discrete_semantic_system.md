@@ -54,6 +54,8 @@ In a next study, we investigated whether (a) the frequency alone can account for
 
 <i class='fa fa-file-text'></i> Krajcsi, A., & Kojouharova, P. (in press). Stimulus frequency alone can account for the size effect in number comparison. Acta Psychologica.
 
+<i class='fa fa-table'></i> Find the raw data and some of the claculations of this study at [osf.io](https://osf.io/auhwg/).
+
 <i class='fa fa-file'></i> See a [presentation](https://docs.google.com/presentation/d/1szrjgqDrMSsrdZrAeDRLK_3D7YQvguEUa9aZ5_KPdq0/edit?usp=sharing) about this work.
 
 ### 2. Symbolic numerical distance effect is an association effect
