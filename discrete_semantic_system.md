@@ -50,9 +50,9 @@ In a follow-up work, we investigated whether the size effect can be changed in I
 
 ---
 
-In a next study, we investigated whether (a) the frequency alone can account for the partial change of size effect seen in Arabic numbers (because the previous and current experience of stimulus statistics is integrated) or (b) the ANS may have a partial role that develops with time, therefore, it cannot be observed in new symbols, but it may exist in Arabic numbers. Participants learned new symbols, and in a comparison task, the stimuli frequencies were manipulated. Importantly, the stimulus frequencies were changed in the middle of the session, so that the integration of previous and current perceived stimulus statistics could be investigated. We found that integration of stimulus frequency information alone can account for previously described phenomena, and no sign of ANS activation was observed.
+In a next study, we investigated whether (a) the frequency alone can account for the partial change of size effect seen in Arabic numbers (because the previous and current experience of stimulus statistics is integrated) or (b) the ANS may have a partial role that develops with time, therefore, it cannot be observed in new symbols, but it may exist in Arabic numbers. Participants learned new symbols, and, in a comparison task, the stimuli frequencies were manipulated. Importantly, the stimulus frequencies were changed in the middle of the session, so that the integration of previous and current perceived stimulus statistics could be investigated. We found that integration of stimulus frequency information alone can account for previously described phenomena, and no sign of ANS activation was observed. This is again in line with the pure DSS account of symbolic number processing.
 
-<i class='fa fa-file-text'></i> The manuscript will be available soon.
+<i class='fa fa-file-text'></i> Krajcsi, A., & Kojouharova, P. (in press). Stimulus frequency alone can account for the size effect in number comparison. Acta Psychologica.
 
 <i class='fa fa-file'></i> See a [presentation](https://docs.google.com/presentation/d/1szrjgqDrMSsrdZrAeDRLK_3D7YQvguEUa9aZ5_KPdq0/edit?usp=sharing) about this work.
 
