@@ -33,11 +33,11 @@
     - link: TODO
       icon: globe
   desc:
-- avatar: images/members/BertReynvoet.jpeg
+- avatar: 
   name: Bert Reynvoet
   position: 
   socials:
-    - link: 
+    - link: https://numcoglableuven.be/
       icon: globe
   desc:
 - avatar: images/members/FrancescoSella.jpeg
