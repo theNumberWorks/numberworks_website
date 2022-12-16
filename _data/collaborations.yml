@@ -1,0 +1,56 @@
+- avatar: images/members/DanielAnsari.jpeg
+  name: Daniel Ansari
+  position: 
+  socials:
+    - link: 
+      icon: globe
+  desc:
+- avatar: images/members/MartaFedele.jpeg
+  name: Marta Fedele
+  position: 
+  socials:
+    - link: 
+      icon: globe
+  desc:
+- avatar: images/members/DezsoNemeth.jpeg
+  name: Dezső Németh
+  position: 
+  socials:
+    - link: 
+      icon: globe
+  desc:
+- avatar: images/members/DarkoOdic.jpeg
+  name: Darko Odic
+  position: 
+  socials:
+    - link: 
+      icon: globe
+  desc:
+- avatar: images/members/JeromePrado.jpeg
+  name: Jerome Prado
+  position: 
+  socials:
+    - link: TODO
+      icon: globe
+  desc:
+- avatar: images/members/BertReynvoet.jpeg
+  name: Bert Reynvoet
+  position: 
+  socials:
+    - link: 
+      icon: globe
+  desc:
+- avatar: images/members/FrancescoSella.jpeg
+  name: Francesco Sella
+  position: 
+  socials:
+    - link: TODO
+      icon: globe
+  desc:
+- avatar: images/members/EmilySlusser.jpeg
+  name: Emily Slusser
+  position: 
+  socials:
+    - link: 
+      icon: globe
+  desc:
