@@ -1,56 +1,56 @@
-- avatar: images/members/male.png
+- avatar: images/members/DanielAnsari.jpg
   name: Daniel Ansari
   position: 
   socials:
     - link: https://numericalcognition.uwo.ca/
       icon: globe
   desc:
-- avatar: images/members/female.png
+- avatar: images/members/MartaFedele.jpg
   name: Marta Fedele
   position: 
   socials:
-    - link: 
+    - link: https://www.researchgate.net/profile/Marta-Fedele
       icon: globe
   desc:
-- avatar: images/members/male.png
+- avatar: images/members/DezsoNemeth.png
   name: Dezső Németh
   position: 
   socials:
     - link: https://nemethlab.com/
       icon: globe
   desc:
-- avatar: images/members/male.png
+- avatar: images/members/DarkoOdic.jpeg
   name: Darko Odic
   position: 
   socials:
-    - link: 
+    - link: https://odic.psych.ubc.ca/
       icon: globe
   desc:
-- avatar: images/members/male.png
-  name: Jerome Prado
+- avatar: images/members/JeromePrado.png
+  name: Jérôme Prado
   position: 
   socials:
-    - link: 
+    - link: https://bbl-lab.fr/
       icon: globe
   desc:
-- avatar: images/members/male.png
+- avatar: images/members/BertReynvoet.jpg
   name: Bert Reynvoet
   position: 
   socials:
     - link: https://numcoglableuven.be/
       icon: globe
   desc:
-- avatar: images/members/male.png
+- avatar: images/members/FrancescoSella.jpeg
   name: Francesco Sella
   position: 
   socials:
-    - link: 
+    - link: https://www.fsella.com/
       icon: globe
   desc:
-- avatar: images/members/female.png
+- avatar: images/members/EmilySlusser.jpg
   name: Emily Slusser
   position: 
   socials:
-    - link: 
+    - link: https://www.sjsu.edu/education/faculty/emily-slusser.php
       icon: globe
   desc:
