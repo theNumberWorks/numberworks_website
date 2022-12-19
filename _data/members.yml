@@ -31,10 +31,6 @@
   socials:
     - link: http://www.attilakrajcsi.hu/
       icon: globe
-    - link: mailto:krajcsi.attila@ppk.elte.hu
-      icon: envelope
-    - link: https://twitter.com/krajcsi
-      icon: twitter
   desc:
 - avatar: images/members/AkosLaczko.jpg
   name: Ákos Laczkó
@@ -59,6 +55,11 @@
   socials:
     - link: https://cognitivescience.ceu.edu/people/eszter-szabo
       icon: globe
+  desc:
+- avatar: images/members/AdamSzimilko.jpg
+  name: Ádám Szimilkó
+  position:
+  socials:
   desc:
 - avatar: images/members/TamasSzucs.jpg
   name: Tamás Szűcs
