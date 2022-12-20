@@ -15,7 +15,7 @@
   desc:
 - avatar: images/members/OrsolyaKisSz.jpg
   name: Orsolya Kis
-  position: PhD student (SZTE)
+  position:
   socials:
   desc:
 - avatar: images/members/PetiaKojouharova.jpg
@@ -53,7 +53,7 @@
   name: Eszter Szabó
   position:
   socials:
-    - link: https://cognitivescience.ceu.edu/people/eszter-szabo
+    - link: https://cdc.ceu.edu/people/eszter-szabo-0
       icon: globe
   desc:
 - avatar: images/members/AdamSzimilko.jpeg
