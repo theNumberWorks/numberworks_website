@@ -31,4 +31,4 @@ We often think about reliability as the result of some noise in the environment 
 
 We investigated some fundamental properties of the ASRT task's reliability.
 
-<i class='fa fa-file-text'></i> Farkas, B. C., Krajcsi, A., Janacsek, K., & Nemeth, D. (in press). The complexity of measuring reliability in learning tasks: An illustration using the Alternating Serial Reaction Time task. Behavior Research Methods. Preprint: [https://doi.org/10.31234/osf.io/5nw4y](https://doi.org/10.31234/osf.io/5nw4y)
+<i class='fa fa-file-text'></i> Farkas, B. C., Krajcsi, A., Janacsek, K., & Nemeth, D. (2023). The complexity of measuring reliability in learning tasks: An illustration using the Alternating Serial Reaction Time Task. Behavior Research Methods, 1–17. [https://doi.org/10.3758/s13428-022-02038-5](https://doi.org/10.3758/s13428-022-02038-5). Or read the [preprint](https://doi.org/10.31234/osf.io/5nw4y).
