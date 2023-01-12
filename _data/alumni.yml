@@ -1,3 +1,10 @@
+- avatar: images/members/NoemiEltetp.jpeg
+  name: Noémi Éltető
+  position: 
+  socials:
+    - link: https://scholar.google.com/citations?user=L9n83LoAAAAJ&hl=en
+      icon: globe
+  desc:
 - avatar: images/members/EdinaFintor.jpeg
   name: Edina Fintor
   position: 
