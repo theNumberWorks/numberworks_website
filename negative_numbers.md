@@ -12,4 +12,6 @@ Numerals are processed by a phylogenetically old analogue magnitude system. Can 
 
 <i class='fa fa-file'></i> Igács, J., Janacsek, K., & Krajcsi, A. (2007). [Processing negative numbers by transforming negatives to positive range and by sign shortcut](https://sites.google.com/site/mathematicalcognition/home/negative-numbers/negnumbers_poster.pdf). In 10th European Congress of Psychology in Prague.<br>(An earlier version of our experiment on a poster.)
 
+See also the extensive test that investigates and supports our model: Huber, S., Nuerk, H.-C., Willmes, K., & Moeller, K. (2016). A general model framework for multisymbol number comparison. Psychological Review, 123(6), 667–695. [https://doi.org/10.1037/rev0000040](https://doi.org/10.1037/rev0000040)
+
 Description of the project [in Hungarian](https://sites.google.com/site/matematikaimegismeres/Home/negativ-szamok).
