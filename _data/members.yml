@@ -3,6 +3,11 @@
   position:
   socials:
   desc:
+- avatar: images/members/KimberlyBrosche.jpg
+  name: Kimberly Brosche
+  position:
+  socials:
+  desc:
 - avatar: images/members/RobertFodor.png
   name: Róbert Fodor
   position: BA student
@@ -43,6 +48,11 @@
   socials:
     - link: http://www.visionlab-ceu.org/gaborlengyel
       icon: globe
+  desc:
+- avatar: images/members/BojanaMisulic.jpg
+  name: Bojana Mišulić
+  position:
+  socials:
   desc:
 - avatar: images/members/AlinkaMolnarToth.jpg
   name: Alinka Molnár-Tóth
