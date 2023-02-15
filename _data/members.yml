@@ -1,86 +1,48 @@
 - avatar: images/members/HannaAsboth.png
   name: Hanna Asbóth
-  position:
-  socials:
-  desc:
 - avatar: images/members/BoglarkaBischof.png
   name: Boglárka Bischof
-  position:
-  socials:
-  desc:
 - avatar: images/members/KimberlyBrosche.jpg
   name: Kimberly Brosche
-  position:
-  socials:
-  desc:
 - avatar: images/members/RobertFodor.png
   name: Róbert Fodor
   position: BA student
-  socials:
-  desc:
 - avatar: images/members/OrsolyaKis.jpg
   name: Orsolya Kis
-  position:
-  socials:
-  desc:
 - avatar: images/members/OrsolyaKisSz.jpg
   name: Orsolya Kis
-  position:
-  socials:
-  desc:
 - avatar: images/members/PetiaKojouharova.jpg
   name: Petia Kojouharova
-  position:
   socials:
     - link: https://sites.google.com/site/petiakojouharova/
       icon: globe
-  desc:
 - avatar: images/members/AttilaKrajcsi.jpg
   name: Attila Krajcsi
   position: Lab head
   socials:
     - link: http://www.attilakrajcsi.hu/
       icon: globe
-  desc:
 - avatar: images/members/AkosLaczko.jpg
   name: Ákos Laczkó
-  position:
-  socials:
-  desc:
 - avatar: images/members/GaborLengyel.jpg
   name: Gábor Lengyel
-  position:
   socials:
     - link: http://www.visionlab-ceu.org/gaborlengyel
       icon: globe
-  desc:
 - avatar: images/members/BojanaMisulic.jpg
   name: Bojana Mišulić
-  position:
-  socials:
-  desc:
 - avatar: images/members/AlinkaMolnarToth.jpg
   name: Alinka Molnár-Tóth
-  position:
-  socials:
-  desc:
 - avatar: images/members/EszterSzabo.jpg
   name: Eszter Szabó
-  position:
   socials:
     - link: https://cdc.ceu.edu/people/eszter-szabo-0
       icon: globe
-  desc:
 - avatar: images/members/AdamSzimilko.jpeg
   name: Ádám Szimilkó
-  position:
-  socials:
-  desc:
 - avatar: images/members/TamasSzucs.jpg
   name: Tamás Szűcs
   position: MA student
   socials:
     - link: https://tomiszucs.github.io/
       icon: globe
-  desc:
-
