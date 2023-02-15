@@ -1,3 +1,5 @@
+- avatar: images/members/HannaAsboth.png
+  name: Hanna Asbóth
 - avatar: images/members/BoglarkaBischof.png
   name: Boglárka Bischof
 - avatar: images/members/KimberlyBrosche.jpg
@@ -44,5 +46,3 @@
   socials:
     - link: https://tomiszucs.github.io/
       icon: globe
-- avatar: images/members/HannaAsboth.png
-  name: Hanna Asbóth
