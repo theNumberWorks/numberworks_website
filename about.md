@@ -31,7 +31,7 @@ section_id: about
   
   <div class='row'>
     <div class='medium-6 columns'>
-      <img class="fadeinleft" alt="" src="images/school-times.jpg" />
+      <img class="fadeinleft" alt="" src="images/tools.avif" />
       <div class='three spacing'></div>
     </div>
     <div class='medium-6 columns'>
