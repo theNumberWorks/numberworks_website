@@ -19,6 +19,18 @@ section_id: about
 
   <div class='row'>
     <div class='medium-6 columns'>
+      <img class="fadeinleft" alt="" src="images/school-times.jpg" />
+      <div class='three spacing'></div>
+    </div>
+    <div class='medium-6 columns'>
+      <h3><a href="members.html">Collaborations</a></h3>
+      <p>Meet the members of our lab <a href="collaborations.html">here</a></p>
+    </div>
+  </div>
+  <div class='spacing'></div>
+
+  <div class='row'>
+    <div class='medium-6 columns'>
       <h3><a href="events.html">Events</a></h3>
       <p>Find some of the events where you can <a href="events.html">meet us</a></p>
     </div>
