@@ -5,6 +5,27 @@
     - link: https://numericalcognition.uwo.ca/
       icon: globe
   desc:
+- avatar: images/members/female.png
+  name: Dana Chesney
+  position: 
+  socials:
+    - link: 
+      icon: globe
+  desc:
+- avatar: images/members/male.png
+  name: Krzysztof Cipora
+  position: 
+  socials:
+    - link: 
+      icon: globe
+  desc:
+- avatar: images/members/female.png
+  name: Ilse Coolen
+  position: 
+  socials:
+    - link: 
+      icon: globe
+  desc:
 - avatar: images/members/MartaFedele.jpg
   name: Marta Fedele
   position: 
@@ -12,11 +33,39 @@
     - link: https://www.researchgate.net/profile/Marta-Fedele
       icon: globe
   desc:
+- avatar: images/members/female.png
+  name: Camilla Gilmore
+  position: 
+  socials:
+    - link: 
+      icon: globe
+  desc:
+- avatar: images/members/male.png
+  name: Matthew Inglis
+  position: 
+  socials:
+    - link: 
+      icon: globe
+  desc:
+- avatar: images/members/female.png
+  name: Melissa Libertus
+  position: 
+  socials:
+    - link: 
+      icon: globe
+  desc:
 - avatar: images/members/DezsoNemeth.png
   name: Dezső Németh
   position: 
   socials:
     - link: https://nemethlab.com/
+      icon: globe
+  desc:
+- avatar: images/members/male.png
+  name: Hans-Christoph Nuerk
+  position: 
+  socials:
+    - link: 
       icon: globe
   desc:
 - avatar: images/members/DarkoOdic.jpeg
@@ -52,6 +101,13 @@
   position: 
   socials:
     - link: https://www.fsella.com/
+      icon: globe
+  desc:
+- avatar: images/members/female.png
+  name: Victoria Simms
+  position: 
+  socials:
+    - link: 
       icon: globe
   desc:
 - avatar: images/members/EmilySlusser.jpg
