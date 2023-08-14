@@ -36,7 +36,7 @@ section_id: about
     </div>
     <div class='medium-6 columns'>
       <h3><a href="members.html">Collaborations</a></h3>
-      <p>Meet the members of our lab <a href="collaborations.html">here</a></p>
+      <p>Meet the members of other labs we are working with <a href="collaborations.html">here</a></p>
     </div>
   </div>
   <div class='spacing'></div>
@@ -68,7 +68,7 @@ section_id: about
   <div class='row'>
     <div class='medium-6 columns'>
       <h3><a href="more_information.html">More information</a></h3>
-      <p><a href="more_information.html">Find us</a> on other services</p>
+      <p><a href="more_information.html">Find us</a> on other websites</p>
     </div>
     <div class='medium-6 columns'>
       <img class="fadeinright" alt="" src="images/notebook.jpg" />
