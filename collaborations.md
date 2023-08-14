@@ -4,7 +4,6 @@ title: Lab collaborations
 section_id: about
 ---
 
-<h3>Collaborations</h3>
 <div class='full'>
   <div class='row'>
     {% for member in site.data.collaborations %}
