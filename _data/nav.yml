@@ -48,6 +48,8 @@
       path: members.html
     - name: Events
       path: events.html
+    - name: Collaborations
+      path: collaborations.html
     - name: Open positions
       path: open_positions.html
     - name: Contact us
