@@ -9,21 +9,21 @@
   name: Dana Chesney
   position: 
   socials:
-    - link: 
+    - link: https://www.researchgate.net/profile/Dana-Chesney
       icon: globe
   desc:
 - avatar: images/members/male.png
   name: Krzysztof Cipora
   position: 
   socials:
-    - link: 
+    - link: https://www.researchgate.net/profile/Krzysztof-Cipora
       icon: globe
   desc:
 - avatar: images/members/female.png
   name: Ilse Coolen
   position: 
   socials:
-    - link: 
+    - link: https://www.researchgate.net/profile/Ilse-Coolen
       icon: globe
   desc:
 - avatar: images/members/male.png
@@ -44,21 +44,21 @@
   name: Camilla Gilmore
   position: 
   socials:
-    - link: 
+    - link: https://camillagilmore.wordpress.com/
       icon: globe
   desc:
 - avatar: images/members/male.png
   name: Matthew Inglis
   position: 
   socials:
-    - link: 
+    - link: https://mjinglis.github.io/
       icon: globe
   desc:
 - avatar: images/members/female.png
   name: Melissa Libertus
   position: 
   socials:
-    - link: 
+    - link: https://www.lrdc.pitt.edu/kitlab/
       icon: globe
   desc:
 - avatar: images/members/DezsoNemeth.png
@@ -72,7 +72,7 @@
   name: Hans-Christoph Nuerk
   position: 
   socials:
-    - link: 
+    - link: https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/psychology/research-groups/diagnostics-and-cognitive-neuropsychology/research-group.html
       icon: globe
   desc:
 - avatar: images/members/DarkoOdic.jpeg
@@ -114,7 +114,7 @@
   name: Victoria Simms
   position: 
   socials:
-    - link: 
+    - link: https://www.ulster.ac.uk/staff/v-simms
       icon: globe
   desc:
 - avatar: images/members/EmilySlusser.jpg
