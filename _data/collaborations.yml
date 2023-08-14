@@ -5,28 +5,28 @@
     - link: https://numericalcognition.uwo.ca/
       icon: globe
   desc:
-- avatar: images/members/female.png
+- avatar: images/collaborators/DanaChesney.jpg
   name: Dana Chesney
   position: 
   socials:
     - link: https://www.researchgate.net/profile/Dana-Chesney
       icon: globe
   desc:
-- avatar: images/members/male.png
+- avatar: images/collaborators/KrzysztofCipora.jpg
   name: Krzysztof Cipora
   position: 
   socials:
     - link: https://www.researchgate.net/profile/Krzysztof-Cipora
       icon: globe
   desc:
-- avatar: images/members/female.png
+- avatar: images/collaborators/IlseCoolen.jpg
   name: Ilse Coolen
   position: 
   socials:
     - link: https://www.researchgate.net/profile/Ilse-Coolen
       icon: globe
   desc:
-- avatar: images/members/male.png
+- avatar: images/collaborators/BenceCsabaFarkas.jpg
   name: Bence Csaba Farkas
   position: 
   socials:
@@ -40,21 +40,21 @@
     - link: https://www.researchgate.net/profile/Marta-Fedele
       icon: globe
   desc:
-- avatar: images/members/female.png
+- avatar: images/collaborators/CamillaGilmore.jpg
   name: Camilla Gilmore
   position: 
   socials:
     - link: https://camillagilmore.wordpress.com/
       icon: globe
   desc:
-- avatar: images/members/male.png
+- avatar: images/collaborators/MatthewInglis.jpg
   name: Matthew Inglis
   position: 
   socials:
     - link: https://mjinglis.github.io/
       icon: globe
   desc:
-- avatar: images/members/female.png
+- avatar: images/collaborators/MelissaLibertus.jpg
   name: Melissa Libertus
   position: 
   socials:
@@ -68,7 +68,7 @@
     - link: https://nemethlab.com/
       icon: globe
   desc:
-- avatar: images/members/male.png
+- avatar: images/collaborators/HansChristophNuerk.jpg
   name: Hans-Christoph Nuerk
   position: 
   socials:
@@ -110,7 +110,7 @@
     - link: https://www.fsella.com/
       icon: globe
   desc:
-- avatar: images/members/female.png
+- avatar: images/collaborators/VictoriaSimms.jpg
   name: Victoria Simms
   position: 
   socials:
