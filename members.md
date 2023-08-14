@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lab members and collaborations
+title: Lab members
 section_id: about
 ---
 
