@@ -1,4 +1,4 @@
-- avatar: images/members/DanielAnsari.jpg
+- avatar: images/collaborators/DanielAnsari.jpg
   name: Daniel Ansari
   position: 
   socials:
@@ -33,7 +33,7 @@
     - link: https://www.researchgate.net/profile/Bence-Farkas
       icon: globe
   desc:
-- avatar: images/members/MartaFedele.jpg
+- avatar: images/collaborators/MartaFedele.jpg
   name: Marta Fedele
   position: 
   socials:
@@ -61,7 +61,7 @@
     - link: https://www.lrdc.pitt.edu/kitlab/
       icon: globe
   desc:
-- avatar: images/members/DezsoNemeth.png
+- avatar: images/collaborators/DezsoNemeth.png
   name: Dezső Németh
   position: 
   socials:
@@ -75,35 +75,35 @@
     - link: https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/psychology/research-groups/diagnostics-and-cognitive-neuropsychology/research-group.html
       icon: globe
   desc:
-- avatar: images/members/DarkoOdic.jpeg
+- avatar: images/collaborators/DarkoOdic.jpeg
   name: Darko Odic
   position: 
   socials:
     - link: https://odic.psych.ubc.ca/
       icon: globe
   desc:
-- avatar: images/members/JeromePrado.png
+- avatar: images/collaborators/JeromePrado.png
   name: Jérôme Prado
   position: 
   socials:
     - link: https://bbl-lab.fr/
       icon: globe
   desc:
-- avatar: images/members/BertReynvoet.jpg
+- avatar: images/collaborators/BertReynvoet.jpg
   name: Bert Reynvoet
   position: 
   socials:
     - link: https://numcoglableuven.be/
       icon: globe
   desc:
-- avatar: images/members/DelphineSasanguie.jpg
+- avatar: images/collaborators/DelphineSasanguie.jpg
   name: Delphine Sasanguie
   position: 
   socials:
     - link: https://numcoglableuven.be/
       icon: globe
   desc:
-- avatar: images/members/FrancescoSella.jpeg
+- avatar: images/collaborators/FrancescoSella.jpeg
   name: Francesco Sella
   position: 
   socials:
@@ -117,7 +117,7 @@
     - link: https://www.ulster.ac.uk/staff/v-simms
       icon: globe
   desc:
-- avatar: images/members/EmilySlusser.jpg
+- avatar: images/collaborators/EmilySlusser.jpg
   name: Emily Slusser
   position: 
   socials:
