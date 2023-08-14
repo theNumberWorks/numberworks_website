@@ -35,7 +35,7 @@ section_id: about
       <div class='three spacing'></div>
     </div>
     <div class='medium-6 columns'>
-      <h3><a href="members.html">Collaborations</a></h3>
+      <h3><a href="collaborations.html">Collaborations</a></h3>
       <p>Meet the members of other labs we are working with <a href="collaborations.html">here</a></p>
     </div>
   </div>
