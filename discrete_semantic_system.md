@@ -101,7 +101,7 @@ The ANS model can explain several numerical interferences (e.g., the interferenc
 ### 6. SNARC effect is present only with symbolic stimuli but not with nonsymbolic stimuli
 The ANS model assumes that both symbolic and nonsymbolic number processing may interfere with spatial information when forming the SNARC effect. According to our hybrid ANS-DSS framework, the interference effect may be different for symbolic and nonsymbolic stimuli. We demonstrated that the SNARC effect is a symbolic-only effect; therefore, it cannot be accounted for by the ANS but can be explained by the DSS.
 
-<i class='fa fa-file-text'></i> Lengyel, G., & Krajcsi, A. (submitted). SNARC effect emerges only with symbolic numbers.
+<i class='fa fa-file-text'></i> Lengyel, G., & Krajcsi, A. (submitted). SNARC effect emerges only with symbolic numbers. (Check back for the manuscript later.)
 
 ### 7. The comparison distance effect and the priming distance effect rely on different mechanisms
 The ANS model assumes that both the comparison distance effect (CDE) and the priming distance effect (PDE) are rooted in the same mechanism: they depend on the overlap of the two numbers' representation. This assumption implies that the CDE slope and the PDE slope correlate. We measured this correlation while making sure that the reliability of those slopes is appropriate so that low reliability cannot attenuate the correlation. No strong correlation was found that questions the ANS account of the CDE and/or PDE.
