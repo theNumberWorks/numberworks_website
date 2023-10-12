@@ -98,7 +98,12 @@ The ANS model can explain several numerical interferences (e.g., the interferenc
 
 <i class='fa fa-file'></i> See a [presentation](https://osf.io/fst9v/) about this work.
 
-### 6. The comparison distance effect and the priming distance effect rely on different mechanisms
+### 6. SNARC effect is present only with symbolic stimuli but not with nonsymbolic stimuli
+The ANS model assumes that both symbolic and nonsymbolic number processing may interfere with spatial information when forming the SNARC effect. According to our hybrid ANS-DSS framework, the interference effect may be different for symbolic and nonsymbolic stimuli. We demonstrated that the SNARC effect is a symbolic-only effect; therefore, it cannot be accounted for by the ANS but can be explained by the DSS.
+
+<i class='fa fa-file-text'></i> Lengyel, G., & Krajcsi, A. (submitted). SNARC effect emerges only with symbolic numbers.
+
+### 7. The comparison distance effect and the priming distance effect rely on different mechanisms
 The ANS model assumes that both the comparison distance effect (CDE) and the priming distance effect (PDE) are rooted in the same mechanism: they depend on the overlap of the two numbers' representation. This assumption implies that the CDE slope and the PDE slope correlate. We measured this correlation while making sure that the reliability of those slopes is appropriate so that low reliability cannot attenuate the correlation. No strong correlation was found that questions the ANS account of the CDE and/or PDE.
 
 <i class='fa fa-file-text'></i> Krajcsi, A., & Szűcs, T. (2022). Symbolic number comparison and number priming do not rely on the same mechanism. Psychonomic Bulletin & Review. [https://doi.org/10.3758/s13423-022-02108-x](https://doi.org/10.3758/s13423-022-02108-x)
@@ -107,7 +112,7 @@ The ANS model assumes that both the comparison distance effect (CDE) and the pri
 
 <i class='fa fa-file'></i> See a [presentation](https://docs.google.com/presentation/d/1CbvNlfSTV6ATI5CKJMsOXghfKr3lqkoL61lrgTqQTD0/edit?usp=sharing) or a [poster](https://drive.google.com/uc?export=download&id=1lSj6IaWz3bpLxYCD2gyBSXwNIVohBMON) about this work.
 
-### 7. Former findings supporting the DSS model
+### 8. Former findings supporting the DSS model
 In the last decades of numerical cognition literature, there were several seemingly smaller findings that were not in line with the otherwise widely accepted ANS model. Usually, it is quite natural that there are occasional findings and details that are not consistent with a model, and because the ANS model seemed convincingly coherent, concise, and efficient, these issues didn’t seem too important. Looking from the viewpoint of the DSS model, these anomalies show some critical features of number processing, and they shed light on what alternative number representation should be proposed.
 
 <i class='fa fa-file-text'></i> Check back for the preprint later.
