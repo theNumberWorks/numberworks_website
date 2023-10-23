@@ -20,8 +20,4 @@ In this work, we extended the previously underspecified account and assembled th
 
 ## Measuring the ANS in children
 
-The measurement of the ANS is long debated in the literature. For example, see the comprehensive summary of [Dietrch et al. (2015)](https://doi.org/10.3389/fpsyg.2015.00295).
-
-In the present work, we review the issues that are specific to measurements with young children.
-
-The manuscript will be available later.
+The measurement of the ANS has long been debated in the literature. For example, see the comprehensive summary of [Dietrch et al. (2015)](https://doi.org/10.3389/fpsyg.2015.00295). In a recent work, we reviewed the issues specific to measurements with young children. Find more about this work on our [ANS measurement](ans_measurement) project page.
