@@ -6,7 +6,10 @@ section_id: numerical_cognition
 
 The sensitivity of the Approximate Number System (ANS) is believed to influence math grades, mathematical competence, or mathematical learning problems. It is fundamental that ANS sensitivity should be measured validly and reliably for the empirical works, otherwise, the results and their interpretations will be invalid and biased.
 
-(We note again here that according to our other line of research, ANS is not a fundamental system in symbolic number processing, and many phenomena that have been attributed to the ANS are backed up by a discrete representation. However, nonsymbolic numbers are processed primarily by the ANS, and it is possible that this nonsymbolic ANS affects symbolic number processing, even if its effect can not be overwhelming, as assumed in the original ANS model. See more details about our alternative [DSS account here](discrete_semantic_system.html).)
+We note again here that according to our other line of research, ANS is not a fundamental system in symbolic number processing, and many phenomena that have been attributed to the ANS are backed up by a discrete representation. However, nonsymbolic numbers are processed primarily by the ANS, and it is possible that this nonsymbolic ANS affects symbolic number processing, even if its effect can not be overwhelming, as assumed in the original ANS model. See more details about our alternative [DSS account here](discrete_semantic_system.html).
+
+See also our related projects about the role of the ANS in children on [our project page](ans_in_children).
+
 
 ## Measuring the ANS sensitivity in children
 
