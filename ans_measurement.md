@@ -8,13 +8,13 @@ The sensitivity of the Approximate Number System (ANS) is believed to influence 
 
 (We note again here that according to our other line of research, ANS is not a fundamental system in symbolic number processing, and many phenomena that have been attributed to the ANS are backed up by a discrete representation. However, nonsymbolic numbers are processed primarily by the ANS, and it is possible that this nonsymbolic ANS affects symbolic number processing, even if its effect can not be overwhelming, as assumed in the original ANS model. See more details about our alternative [DSS account here](discrete_semantic_system.html).)
 
-### Measuring the ANS sensitivity in children
+## Measuring the ANS sensitivity in children
 
 Many works discuss specific issues of ANS sensitivity and reviews discuss ANS measurement in general. Here, in a new review, we focus on the issues that arise when measuring ANS sensitivity in children. We raise several issues often ignored in the literature; we provide solutions for many of those issues or identify key open questions; and we identify critical problems about the incorrect interpretations of the data that rely on suboptimal ANS precision measurement. We provide recommendations for measuring ANS sensitivity in children.
 
 <i class='fa fa-file-text'></i> Krajcsi, A., Chesney, D., Cipora, K., Coolen, I., Gilmore, C., Inglis, M., Libertus, M., Nuerk, H.-C., Simms, V., & Reynvoet, B. (2023). Measuring the acuity of the approximate number system in young children (Submitted). Find the preprint [here](https://osf.io/preprints/psyarxiv/nyw94).
 
-### Using the ratio/distance effect slope
+## Using the ratio/distance effect slope
 
 ANS sensitivity is sometimes measured as the Weber fraction (calculated with psychophysical methods), but sometimes it is measured with the ratio/distance effect (calculated as the slope of the linear fit on the performance as a function of the ratio/distance of the numbers). [In an illuminating work, Dana Chesney argued](https://doi.org/10.3758/s13414-018-1515-x) that this linear slope is not only an imprecise approximation of the Weber fraction, but the relation of the slope and the Weber fraction may be nonmonotonic. Depending on the parameters, the Weber fraction and the ratio effect may correlate either positively or negatively. This nonmonotonic relation may question the validity of many former correlational studies where ANS sensitivity was measured with ratio or distance effect indexes.
 
