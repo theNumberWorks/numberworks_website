@@ -24,7 +24,7 @@ We often think about reliability as the result of some noise in the environment 
 
 ## Calculating reliability in CogStat
 
-[CogStat](cogstat.html) is a data and statistical analysis software that runs the analyses automatically and compiles an output that is easier to understand and interpret. In version 2.4, we add some initial support for [reliability analyses](https://github.com/cogstat/cogstat/wiki/Reliability) and plan to improve them in later releases.
+[CogStat](cogstat.html) is a data and statistical analysis software that runs the analyses automatically and compiles an output that is easier to understand and interpret. In version 2.4, we add some initial support for [reliability analyses](https://doc.cogstat.org/Reliability) and plan to improve them in later releases.
 
 
 ## The example of Alternating Serial Reaction Time task
