@@ -4,7 +4,9 @@ title: The role of the ANS in children
 section_id: numerical_cognition
 ---
 
-The Approximate Number System (ANS) is assumed to account for several phenomena not only in adults but in children. Here, we investigate a few key properties of this assumed role.
+The Approximate Number System (ANS) is assumed to account for several phenomena not only in adults but also in children. Here, we investigate a few key properties of this assumed role.
+
+We note again here that according to our other line of research, ANS is not a fundamental system in symbolic number processing, and many phenomena that have been attributed to the ANS are backed up by a discrete representation. However, nonsymbolic numbers are processed primarily by the ANS, and it is possible that this nonsymbolic ANS affects symbolic number processing, even if its effect can not be overwhelming, as assumed in the original ANS model. See more details about our alternative [DSS account here](discrete_semantic_system.html).
 
 ## The role of the ANS in subset-knowers
 
