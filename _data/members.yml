@@ -7,6 +7,8 @@
 - avatar: images/members/RobertFodor.png
   name: Róbert Fodor
   position: BA student
+- avatar: images/members/EvelinHaasz.jpg
+  name: Evelin Haász
 - avatar: images/members/OrsolyaKis.jpg
   name: Orsolya Kis
 - avatar: images/members/OrsolyaKisSz.jpg
@@ -24,6 +26,8 @@
       icon: globe
 - avatar: images/members/AkosLaczko.jpg
   name: Ákos Laczkó
+- avatar: images/members/MajaLebenicnik.jpg
+  name: Maja Lebeničnik
 - avatar: images/members/GaborLengyel.jpg
   name: Gábor Lengyel
   socials:
