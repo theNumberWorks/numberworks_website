@@ -28,7 +28,7 @@ section_id: about
               </div>
             </div>
           </div>
-          <p class='centered-text'>{{member.desc}}</p>
+          <p class='centered-text'>{{member.name}}</p>
           <div class='two spacing'></div>
         </div>
       </div>
