@@ -15,7 +15,8 @@ See also our related projects about the role of the ANS in children on [our proj
 
 Many works discuss specific issues of ANS sensitivity and reviews discuss ANS measurement in general. Here, in a new review, we focus on the issues that arise when measuring ANS sensitivity in children. We raise several issues often ignored in the literature; we provide solutions for many of those issues or identify key open questions; and we identify critical problems about the incorrect interpretations of the data that rely on suboptimal ANS precision measurement. We provide recommendations for measuring ANS sensitivity in children.
 
-<i class='fa fa-file-text'></i> Krajcsi, A., Chesney, D., Cipora, K., Coolen, I., Gilmore, C., Inglis, M., Libertus, M., Nuerk, H.-C., Simms, V., & Reynvoet, B. (2023). Measuring the acuity of the approximate number system in young children (Submitted). Find the preprint [here](https://osf.io/preprints/psyarxiv/nyw94).
+<i class='fa fa-file-text'></i> Krajcsi, A., Chesney, D., Cipora, K., Coolen, I., Gilmore, C., Inglis, M., Libertus, M., Nuerk, H.-C., Simms, V., & Reynvoet, B. (2024). Measuring the acuity of the approximate number system in young children. Developmental Review. Find the preprint [here](https://osf.io/preprints/psyarxiv/nyw94).
+
 
 ## Using the ratio/distance effect slope
 
