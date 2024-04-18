@@ -649,10 +649,10 @@
   </g>
   <g class="com.sun.star.drawing.CustomShape">
    <g id="id58">
-    <rect class="BoundingBox" stroke="none" fill="none" x="8511" y="17420" width="3351" height="1211"/>
-    <path fill="rgb(173,216,230)" stroke="none" d="M 10186,18629 L 8512,18629 8512,17421 11860,17421 11860,18629 10186,18629 Z"/>
-    <path fill="none" stroke="rgb(52,101,164)" d="M 10186,18629 L 8512,18629 8512,17421 11860,17421 11860,18629 10186,18629 Z"/>
-    <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="8780" y="17949"><tspan font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">Section 4: Krajcsi, </tspan></tspan><tspan class="TextPosition" x="9796" y="18343"><tspan font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">2017</tspan></tspan></tspan></text>
+    <rect class="BoundingBox" stroke="none" fill="none" x="8511" y="17420" width="3031" height="1211"/>
+    <path fill="rgb(173,216,230)" stroke="none" d="M 10026,18629 L 8512,18629 8512,17421 11540,17421 11540,18629 10026,18629 Z"/>
+    <path fill="none" stroke="rgb(52,101,164)" d="M 10026,18629 L 8512,18629 8512,17421 11540,17421 11540,18629 10026,18629 Z"/>
+    <text class="SVGTextShape"><tspan class="TextParagraph"><tspan class="TextPosition" x="9244" y="17949"><tspan font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">Section 4: </tspan></tspan><tspan class="TextPosition" x="9011" y="18343"><tspan font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400" fill="rgb(0,0,0)" stroke="none" style="white-space: pre">Krajcsi, 2017</tspan></tspan></tspan></text>
    </g>
   </g>
   <g class="com.sun.star.drawing.LineShape">
