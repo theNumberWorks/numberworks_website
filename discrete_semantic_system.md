@@ -18,9 +18,9 @@ Because of these problems we started to think about alternative representations 
 
 In most cases, the classic ANS model and our alternative DSS model explain the same phenomena seemingly equally well, and it is not easy to find phenomena that could decide which explanation works better. So in several works, we started to contrast the two models, introducing new paradigms and analysis methods or critically reanalyzing already known phenomena.
 
-[Follow updates of this project on ResearchGate](https://www.researchgate.net/project/An-alternative-model-for-symbolic-number-processing)
-
 Here is a short summary of what we found so far.
+
+![A graphical review of our topics and papers investigating the DSS.](images/DSS topics and papers.svg)
 
 ### 0. Symbolic comparison effects are different than nonsymbolic comparison effects
 
