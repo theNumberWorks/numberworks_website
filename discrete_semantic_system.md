@@ -103,6 +103,8 @@ The ANS model assumes that both symbolic and nonsymbolic number processing may i
 
 <i class='fa fa-file-text'></i> Lengyel, G., & Krajcsi, A. (submitted). SNARC effect emerges only with symbolic numbers. Read the [preprint of the manuscript](https://osf.io/preprints/psyarxiv/2c9kr).
 
+<i class='fa fa-table'></i> Find the experiment control script, the raw data, and the analysis script of this study at [GitHub](https://github.com/GaborLengyel/dot-SNARC).
+
 ### 7. The comparison distance effect and the priming distance effect rely on different mechanisms
 The ANS model assumes that both the comparison distance effect (CDE) and the priming distance effect (PDE) are rooted in the same mechanism: they depend on the overlap of the two numbers' representation. This assumption implies that the CDE slope and the PDE slope correlate. We measured this correlation while making sure that the reliability of those slopes is appropriate so that low reliability cannot attenuate the correlation. No strong correlation was found that questions the ANS account of the CDE and/or PDE.
 
