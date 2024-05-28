@@ -23,8 +23,8 @@
       path: negative_numbers.html
     - name: Williams syndrome
       path: williams_syndrome.html
-    - name: Numerical cognition methods database
-      path: numerical_cognition.html#database
+    - name: Numerical cognition methods directory
+      path: numerical_cognition.html#directory
     - name: Methods in Numerical Cognition Workshop
       path: numerical_cognition.html#workshop
 - name: Methodological works
