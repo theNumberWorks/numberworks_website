@@ -72,7 +72,7 @@ Still, it is possible that an entirely different system is responsible for symbo
       <br><small><a href="https://commons.wikimedia.org/wiki/File:Fotothek_df_tg_0001550_Geometrie_%5E_Vermessung_%5E_Vermessungsinstrument_%5E_Quadrant_%5E_Turm.jpg">More about the illustration</a></small>
     </div>
     <div class='medium-6 columns'>
-        <h3 id="directory"><a href="ans_measurement.html">Measuring the Approximate Number System</a></h3>
+        <h3><a href="ans_measurement.html">Measuring the Approximate Number System</a></h3>
         <p>Some correlational works measuring the Approximate Number System sensitivity with the distance/ratio effect slope may be biased. Find a tool with which you can estimate which works may be affected.<br><br>
         <a href="ans_measurement.html">Read more</a></p>
     </div>
