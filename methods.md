@@ -79,13 +79,28 @@ Find a list of topics we have worked and we are working on. (Note that all illus
 
   <div class='row'>
     <div class='medium-6 columns'>
+        <h3><a href="finding_consensus.html">Finding consensus</a></h3>
+        <p>A domain/field of research can often benefit from a consensus. Agreement regarding
+terminology, models, and tasks used to measure specific constructs may be particularly beneficial.<br><br>
+        <a href="finding_consensus.html">Read more</a></p>
+    </div>
+    <div class='medium-6 columns'>
+      <img class="fadeinright" alt="" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Print%2C_book-illustration_%28BM_1982%2CU.2519%29.jpg" />
+      <br><small><a href="https://commons.wikimedia.org/wiki/File:Print,_book-illustration_(BM_1982,U.2519).jpg">Source</a></small>
+    </div>
+  </div>
+  <div class='three spacing'></div>
+
+
+  <div class='row'>
+    <div class='medium-6 columns'>
+      <img class="fadeinleft" alt="" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Dr_John_Clarke_trepanning_a_skull_operation.jpg" />
+      <br><small><a href="https://en.wikipedia.org/wiki/File:Dr_John_Clarke_trepanning_a_skull_operation.jpg">Source</a></small>
+    </div>
+    <div class='medium-6 columns'>
         <h3><a href="neuropsychology.html">Neuropsychology</a></h3>
         <p>Coming soon...<br><br>
         <a href="neuropsychology.html">Read more</a></p>
-    </div>
-    <div class='medium-6 columns'>
-      <img class="fadeinright" alt="" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Dr_John_Clarke_trepanning_a_skull_operation.jpg" />
-      <br><small><a href="https://en.wikipedia.org/wiki/File:Dr_John_Clarke_trepanning_a_skull_operation.jpg">Source</a></small>
     </div>
   </div>
   <div class='three spacing'></div>
