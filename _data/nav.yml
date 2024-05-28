@@ -41,6 +41,8 @@
       path: algotaurus.html
     - name: Data analysis symposium
       path: methods.html#symposium
+    - name: Finding consensus
+      path: finding_consensus.html
 - name: About us
   path: about.html
   children:
