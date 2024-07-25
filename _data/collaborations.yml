@@ -117,10 +117,31 @@
     - link: https://www.ulster.ac.uk/staff/v-simms
       icon: globe
   desc:
+- avatar: images/collaborators/MikaelSkagenholt.jpg
+  name: Mikael Skagenholt
+  position: 
+  socials:
+    - link: https://liu.se/en/employee/miksk94
+      icon: globe
+  desc:
+- avatar: images/collaborators/KennySkagerlund.jpg
+  name: Kenny Skagerlund
+  position: 
+  socials:
+    - link: https://liu.se/en/employee/kensk30
+      icon: globe
+  desc:
 - avatar: images/collaborators/EmilySlusser.jpg
   name: Emily Slusser
   position: 
   socials:
     - link: https://www.sjsu.edu/education/faculty/emily-slusser.php
+      icon: globe
+  desc:
+- avatar: images/collaborators/UlfTraff.jpg
+  name: Ulf Träff
+  position: 
+  socials:
+    - link: https://liu.se/en/employee/ulfan65
       icon: globe
   desc:
