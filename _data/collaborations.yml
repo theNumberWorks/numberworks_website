@@ -61,6 +61,13 @@
     - link: https://www.lrdc.pitt.edu/kitlab/
       icon: globe
   desc:
+- avatar: images/collaborators/ShaneLindsay.jpg
+  name: Shane Lindsay
+  position: 
+  socials:
+    - link: https://www.hull.ac.uk/staff-directory/shane-lindsay
+      icon: globe
+  desc:
 - avatar: images/collaborators/DezsoNemeth.png
   name: Dezső Németh
   position: 
