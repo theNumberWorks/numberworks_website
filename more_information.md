@@ -10,11 +10,14 @@ section_id: about
     <h3>ResearchGate</h3>
     <p><a href="https://www.researchgate.net/lab/Attila-Krajcsi-Lab-The-Number-Works-Attila-Krajcsi">NumberWorks' ResearchGate lab page</a></p>
     <i class='fa fa-comments-o'></i>
+    <h3>Bluesky</h3>
+    <p><a href="https://bsky.app/profile/krajcsi.bsky.social">Follow NumberWorks-related news on Attila Krajcsi's Bluesky account</a></p>
+    <i class='fa fa-comments-o'></i>
     <h3>Mastodon</h3>
     <p><a href="https://scholar.social/@krajcsi">Follow NumberWorks-related news on Attila Krajcsi's Mastodon account</a></p>
     <i class='fa fa-twitter-square'></i>
-    <h3>Twitter</h3>
-    <p><a href="https://twitter.com/krajcsi">Follow NumberWorks-related news on Attila Krajcsi's Twitter account</a></p>
+    <h3>X</h3>
+    <p><a href="https://twitter.com/krajcsi">Follow NumberWorks-related news on Attila Krajcsi's X account</a></p>
     <i class='fa fa-youtube'></i>
     <h3>YouTube channel</h3>
     <p><a href="https://www.youtube.com/channel/UC6Rh_DL_mrUhHoBZlWetN5A">NumberWorks' YouTube channel</a></p>
