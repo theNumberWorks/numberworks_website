@@ -1,4 +1,4 @@
----
+https://docs.google.com/presentation/d/1TdmEqX1Se8ue9ySVLx-sp3QYpbOUr4itHKeycYLjfoo/edit?usp=sharing---
 layout: page
 title: Reliability
 section_id: methods
@@ -13,6 +13,8 @@ Many details about reliability, its role, the indices that measure it, etc., are
 The relation between reliability and statistical power is complex. On the one hand, it is well known that reliability attenuates the measured correlation and, consequently, the power of the related hypothesis test. On the other hand, some robust cognitive (and other) phenomena are not reliable, termed the reliability paradox (e.g., [Hedge, Powell, Sumner, 2018](https://doi.org/10.3758/s13428-017-0935-1)). This issue has been discussed and investigated in the literature. Here, I attempt to provide a more extensive, still accessible summary and explanation for the key relations between reliability and statistical power. Understanding the relation helps researchers to plan and evaluate research designs better.
 
 <i class='fa fa-file-text'></i> Krajcsi, A. (2025, May 5). Reliability and statistical power: Conceptual background and practical implications. [https://doi.org/10.31234/osf.io/mu896_v1](https://doi.org/10.31234/osf.io/mu896_v1)
+
+<i class='fa fa-file'></i> See a [presentation](https://docs.google.com/presentation/d/1TdmEqX1Se8ue9ySVLx-sp3QYpbOUr4itHKeycYLjfoo/edit?usp=sharing) about this work.
 
 ## Theoretical maximum of reliability
 
