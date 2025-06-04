@@ -124,6 +124,13 @@
     - link: https://odic.psych.ubc.ca/
       icon: globe
   desc:
+- avatar: images/collaborators/AndreaPatalano.jpg
+  name: Andrea Patalano
+  position: 
+  socials:
+    - link: https://patalanolab.research.wesleyan.edu/
+      icon: globe
+  desc:
 - avatar: images/collaborators/JeromePrado.png
   name: Jérôme Prado
   position: 
