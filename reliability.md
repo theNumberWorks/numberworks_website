@@ -19,7 +19,7 @@ The relation between reliability and statistical power is complex. On the one ha
 
 A bootstrapping method recommended in the methodological literature relies on sampling with replacement. However, this method may overestimate the reliability. We evaluate critical properties using a Monte Carlo simulation and provide recommendations for more accurate reliability calculations.
 
-<i class='fa fa-file-text'> The manuscript and the simulation code are in preparation. Check back later for more details.
+<i class='fa fa-file-text'></i> The manuscript and the simulation code are in preparation. Check back later for more details.
 
 ## Theoretical maximum of reliability
 
