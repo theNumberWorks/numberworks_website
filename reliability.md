@@ -1,4 +1,3 @@
-https://docs.google.com/presentation/d/1TdmEqX1Se8ue9ySVLx-sp3QYpbOUr4itHKeycYLjfoo/edit?usp=sharing---
 layout: page
 title: Reliability
 section_id: methods
@@ -15,6 +14,12 @@ The relation between reliability and statistical power is complex. On the one ha
 <i class='fa fa-file-text'></i> Krajcsi, A. (2025, May 5). Reliability and statistical power: Conceptual background and practical implications. [https://doi.org/10.31234/osf.io/mu896_v1](https://doi.org/10.31234/osf.io/mu896_v1)
 
 <i class='fa fa-file'></i> See a [presentation](https://docs.google.com/presentation/d/1TdmEqX1Se8ue9ySVLx-sp3QYpbOUr4itHKeycYLjfoo/edit?usp=sharing) about this work.
+
+## Appropriate bootstrapping method for calculating reliability
+
+A bootstrapping method recommended in the methodological literature relies on sampling with replacement. However, this method may overestimate the reliability. We evaluate critical properties using a Monte Carlo simulation and provide recommendations for more accurate reliability calculations.
+
+<i class='fa fa-file-text'> The manuscript and the simulation code are in preparation. Check back later for more details.
 
 ## Theoretical maximum of reliability
 
@@ -39,7 +44,9 @@ We investigated some fundamental properties of the ASRT task's reliability.
 
 We investigated some fundamental properties of the MST's reliability.
 
-<i class='fa fa-file-text'></i> The manuscript is in preparation. Check back later for it.
+<i class='fa fa-file-text'></i> Nemecz, Z., Szűcs, T., Keresztes, A., & Krajcsi, A. (2025). Studying brain-behavior correlations and individual differences using the Mnemonic Similarity Task – a note of caution on reliability. Check back later for the manuscript.
+
+<i class='fa fa-file-code-o'></i> Find the analysis code and other related materials at [osf.io](https://osf.io/kbxut/?view_only=a1e6b0147e9940dc944d7a5831eaaa87).
 
 ## The example of the Approximate Number System acuity
 
