@@ -12,7 +12,7 @@ But there are some fundamental problems with this explanation. For example, how 
 
 ## An alternative solution
 
-Because of these problems, we started to think about alternative representations that could explain known symbolic numerical phenomena and representations that are precise in nature. Quite intuitively, one can imagine that numbers are abstract units of thought, and they might be stored similarly to words or concepts. A representation, we term the **Discrete Semantic System (DSS)**, similar to a conceptual network or to the mental lexicon, can account for symbolic numerical effects. (Note that the DSS is an alternative only for the symbolic number processing but not for the non-symbolic processing. We still propose that non-symbolic numbers are processed by the ANS.) For example, the distance effect might rely on the gradual semantic relations of the number units in the network. Or the size effect (smaller numbers are easier to process in a comparison task) can be the result of the frequency of numbers: because lower numbers are more frequent, they can be processed more easily. Interference of some properties (e.g., space and numbers) can be the result of interference of concepts (e.g., between large-small and left-right nodes), as seen in many other conceptual interferences. This alternative explanation seemed to be surprisingly efficient at explaining all of the known symbolic numerical effects that are attributed to the classic ANS model.
+Because of these problems, we started to think about alternative representations that could explain known symbolic numerical phenomena and representations that are precise in nature. Quite intuitively, one can imagine that numbers are abstract units of thought, and they might be stored similarly to words or concepts. A representation, we term the **Discrete Semantic System (DSS)**, similar to a conceptual network or to the mental lexicon, can account for symbolic numerical effects. (Note that the DSS is an alternative only for the symbolic number processing, but not for the non-symbolic processing. We still propose that non-symbolic numbers are processed by the ANS.) For example, the distance effect might rely on the gradual semantic relations of the number units in the network. Or the size effect (smaller numbers are easier to process in a comparison task) can be the result of the frequency of numbers: because lower numbers are more frequent, they can be processed more easily. Interference of some properties (e.g., space and numbers) can be the result of interference of concepts (e.g., between large-small and left-right nodes), as seen in many other conceptual interferences. This alternative explanation seemed to be surprisingly efficient at explaining all of the known symbolic numerical effects that are attributed to the classic ANS model.
 
 ## Contrasting the two models
 
@@ -61,7 +61,7 @@ In a next study, we investigated whether (a) the frequency alone can account for
 
 ### 2. The symbolic numerical distance effect is an association effect
 
-In the classic ANS model, the distance effect of a comparison task is the consequence of the ratios of the numbers (Weber's law). In the DSS model, the distance effect might come from alternative sources; for example, it might be the consequence of some associations: larger numbers are relatively strongly associated with the concept 'large', while small numbers are relatively strongly associated with the concept 'small'. In this explanation, close numbers are hard to compare because they have similar associations to the 'large' or 'small' nodes. In an approach to contrast the two explanations, new symbols were taught, but some numbers were left out (i.e., only numbers between 1 and 3, and 7 and 9 were learned and practiced). It was found that around the 'gap' the distance effect showed a distance of 1 as predicted by the association explanation, and not by a distance of 4, as predicted by the values of those numbers, as supposed by the ANS model.
+In the classic ANS model, the distance effect of a comparison task is the consequence of the ratios of the numbers (Weber's law). In the DSS model, the distance effect might come from alternative sources; for example, it might be the consequence of some associations: larger numbers are relatively strongly associated with the concept 'large', while small numbers are relatively strongly associated with the concept 'small'. In this explanation, close numbers are hard to compare because they have similar associations to the 'large' or 'small' nodes. In an approach to contrast the two explanations, new symbols were taught, but some numbers were left out (i.e., only numbers between 1 and 3, and 7 and 9 were learned and practiced). It was found that around the 'gap', the distance effect showed a distance of 1 as predicted by the association explanation, and not by a distance of 4, as predicted by the values of those numbers, as supposed by the ANS model.
 
 <i class='fa fa-file-text'></i> Krajcsi, A., & Kojouharova, P. (2017). Symbolic Numerical Distance Effect Does Not Reflect the Difference between Numbers. Frontiers in Psychology, 8. [https://doi.org/10.3389/fpsyg.2017.02013](https://doi.org/10.3389/fpsyg.2017.02013) or read the [preprint version](https://psyarxiv.com/bpy9c/).
 
@@ -73,22 +73,30 @@ The same question was also investigated with Indo-Arabic numbers, and we found t
 
 <i class='fa fa-table'></i> Find some of the analyses at [osf.io](https://osf.io/qjymb/).
 
-### 3. ANS model describes non-symbolic comparison correctly, but it has systematic troubles with symbolic comparison
+### 3. Nonsymbolic comparison does not show the statistical effects of symbolic comparison.
+
+We tested whether nonsymbolic number comparison is sensitive to the statistical features of the stimuli as seen in symbolic comparison. We found that, unlike in the symbolic comparison task, in the nonsymbolic comparison task, the distance effect was mainly influenced by the values rather than the statistics of the stimuli. Additionally, while the size effect was modified by the frequency of the stimuli, the change of the size effect may not have originated in the difficulty of the task (as predicted by the psychophysical models) but in other parameters of the decision process, such as the adjustment of the decision threshold. The results reflect that nonsymbolic number comparison is mainly driven by a psychophysical process; however, stimulus frequency has an additional role. Again, symbolic and nonsymbolic numerical stimuli are compared qualitatively differently.
+
+<i class='fa fa-file-text'></i> Krajcsi, A., & Kojouharova, P. (2025). Different sources of the numerical comparison size effect. Memory & Cognition.
+
+<i class='fa fa-table'></i> Find the raw data of this study at [osf.io](https://osf.io/5rzte/).
+
+### 4. The ANS model describes non-symbolic comparison correctly, but it has systematic troubles with symbolic comparison
 Previously, it has been demonstrated that the ANS model describes both symbolic and nonsymbolic comparisons correctly. In former studies, usually, goodness of fit was investigated. However, among others, our DSS model can predict a very similar performance pattern, which model would result in a similarly good goodness of fit. To overcome this limitation, we extensively analyzed non-symbolic dot comparison and symbolic Indo-Arabic comparison task performance, and beyond the goodness of fit, several other properties were investigated. We consistently found that while the ANS model can describe non-symbolic comparison relatively well, the ANS model gives a systematically biased and incorrect description of symbolic comparison.
 
 <i class='fa fa-file-text'></i> Krajcsi, A., Lengyel, G., & Kojouharova, P. (2018). Symbolic number comparison is not processed by the analog number system: different symbolic and nonsymbolic numerical distance and size effects. Frontiers in Psychology, 9. [https://doi.org/10.3389/fpsyg.2018.00124](https://doi.org/10.3389/fpsyg.2018.00124) Or read the [preprint](https://psyarxiv.com/dmau5/).
 
 <i class='fa fa-table'></i> Find the raw data of this study at [osf.io](https://osf.io/jw5ha/).
 
-### 4. Numerical distance and size effects are independent in the symbolic comparison task
+### 5. Numerical distance and size effects are independent in the symbolic comparison task
 The classic ANS model proposes that distance and size effects are simply two ways to measure the single ratio effect (Weber's law). In the DSS model, distance and size effects rely on different mechanisms (the association between the numbers and small-large concepts, and the frequency of the numbers). Therefore, according to the ANS model, distance and size effects should correlate, while according to the DSS model, the two effects might be independent. It was found that while in non-symbolic comparison, the two effects perfectly correlate, in symbolic comparison, the two effects are largely independent.
 
 <i class='fa fa-file-text'></i> Krajcsi, A. (2017). Numerical distance and size effects dissociate in Indo-Arabic number comparison. Psychonomic Bulletin & Review. 24(8), 927–934. [https://doi.org/10.3758/s13423-016-1175-6](https://doi.org/10.3758/s13423-016-1175-6). Or [read the final version online](http://rdcu.be/lqju) or [download the postprint](https://sites.google.com/site/mathematicalcognition/home/discrete-semantic-system/Distance%20and%20size%20effects%20correlation%20-%20postprint.pdf?attredirects=0&d=1).
 
 <i class='fa fa-newspaper-o'></i> See a [blog post](http://www.psychonomic.org/news/news.asp?id=332300) about the work at Psychonomic Society.
 
-### 5. Numbers interfere with discrete properties
-The ANS model can explain several numerical interferences (e.g., the interference of the numbers with the location of the response button in a numerical task, termed the SNARC effect), suggesting that the analog (continuous) number representation interferes with other analog representations, e.g., the space in the case of the SNARC effect. We were looking for interference between number, and a discrete property, the parity, where the parity is most probably not stored on an analog representation. We found that numbers interfere with parity, questioning the current analog explanations.
+### 6. Numbers interfere with discrete properties
+The ANS model can explain several numerical interferences (e.g., the interference of the numbers with the location of the response button in a numerical task, termed the SNARC effect), suggesting that the analog (continuous) number representation interferes with other analog representations, e.g., the space in the case of the SNARC effect. We were looking for interference between a number and a discrete property, the parity, where the parity is most probably not stored on an analog representation. We found that numbers interfere with parity, questioning the current analog explanations.
 
 <i class='fa fa-file-text'></i> Attila Krajcsi, Gábor Lengyel, Ákos Laczkó (2018). Interference between number magnitude and parity: Discrete representation in number processing. Experimental Psychology. 65(2), 71–83. [https://doi.org/10.1027/1618-3169/a000394](https://doi.org/10.1027/1618-3169/a000394)
 
@@ -98,15 +106,15 @@ The ANS model can explain several numerical interferences (e.g., the interferenc
 
 <i class='fa fa-file'></i> See a [presentation](https://osf.io/fst9v/) about this work.
 
-### 6. SNARC effect is present only with symbolic stimuli but not with nonsymbolic stimuli
+### 7. The SNARC effect is present only with symbolic stimuli but not with nonsymbolic stimuli
 The ANS model assumes that both symbolic and nonsymbolic number processing may interfere with spatial information when forming the SNARC effect. According to our hybrid ANS-DSS framework, the interference effect may be different for symbolic and nonsymbolic stimuli. We demonstrated that the SNARC effect is a symbolic-only effect; therefore, it cannot be accounted for by the ANS but can be explained by the DSS.
 
 <i class='fa fa-file-text'></i> Lengyel, G., & Krajcsi, A. (submitted). SNARC effect emerges only with symbolic numbers. Read the [preprint of the manuscript](https://osf.io/preprints/psyarxiv/2c9kr).
 
 <i class='fa fa-table'></i> Find the experiment control script, the raw data, and the analysis script of this study at [GitHub](https://github.com/GaborLengyel/dot-SNARC).
 
-### 7. The comparison distance effect and the priming distance effect rely on different mechanisms
-The ANS model assumes that both the comparison distance effect (CDE) and the priming distance effect (PDE) are rooted in the same mechanism: they depend on the overlap of the two numbers' representation. This assumption implies that the CDE slope and the PDE slope correlate. We measured this correlation while making sure that the reliability of those slopes is appropriate so that low reliability cannot attenuate the correlation. No strong correlation was found that questions the ANS account of the CDE and/or PDE.
+### 8. The comparison distance effect and the priming distance effect rely on different mechanisms
+The ANS model assumes that both the comparison distance effect (CDE) and the priming distance effect (PDE) are rooted in the same mechanism: they depend on the overlap of the two numbers' representation. This assumption implies that the CDE slope and the PDE slope correlate. We measured this correlation while making sure that the reliability of those slopes is appropriate so that low reliability cannot attenuate the correlation. No strong correlation was found, which questions the ANS account of the CDE and/or PDE.
 
 <i class='fa fa-file-text'></i> Krajcsi, A., & Szűcs, T. (2022). Symbolic number comparison and number priming do not rely on the same mechanism. Psychonomic Bulletin & Review. [https://doi.org/10.3758/s13423-022-02108-x](https://doi.org/10.3758/s13423-022-02108-x)
 
@@ -114,7 +122,7 @@ The ANS model assumes that both the comparison distance effect (CDE) and the pri
 
 <i class='fa fa-file'></i> See a [presentation](https://docs.google.com/presentation/d/1CbvNlfSTV6ATI5CKJMsOXghfKr3lqkoL61lrgTqQTD0/edit?usp=sharing) or a [poster](https://drive.google.com/uc?export=download&id=1lSj6IaWz3bpLxYCD2gyBSXwNIVohBMON) about this work.
 
-### 8. Former findings supporting the DSS model
+### 9. Former findings supporting the DSS model
 In the last decades of numerical cognition literature, there were several seemingly smaller findings that were not in line with the otherwise widely accepted ANS model. Usually, it is quite natural that there are occasional findings and details that are not consistent with a model, and because the ANS model seemed convincingly coherent, concise, and efficient, these issues didn’t seem too important. Looking from the viewpoint of the DSS model, these anomalies show some critical features of number processing, and they shed light on what alternative number representation should be proposed.
 
 <i class='fa fa-file-text'></i> Check back for the preprint later.
