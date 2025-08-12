@@ -109,7 +109,7 @@ The ANS model can explain several numerical interferences (e.g., the interferenc
 ### 7. The SNARC effect is present only with symbolic stimuli but not with nonsymbolic stimuli
 The ANS model assumes that both symbolic and nonsymbolic number processing may interfere with spatial information when forming the SNARC effect. According to our hybrid ANS-DSS framework, the interference effect may be different for symbolic and nonsymbolic stimuli. We demonstrated that the SNARC effect is a symbolic-only effect; therefore, it cannot be accounted for by the ANS but can be explained by the DSS.
 
-<i class='fa fa-file-text'></i> Lengyel, G., & Krajcsi, A. (submitted). SNARC effect emerges only with symbolic numbers. Read the [preprint of the manuscript](https://osf.io/preprints/psyarxiv/2c9kr).
+<i class='fa fa-file-text'></i> Lengyel, G., & Krajcsi, A. (2025). No observable SNARC effect with numbers in nonsymbolic format. Journal of Experimental Psychology: Human Perception and Performance. Read the [preprint of the manuscript](https://osf.io/preprints/psyarxiv/2c9kr).
 
 <i class='fa fa-table'></i> Find the experiment control script, the raw data, and the analysis script of this study at [GitHub](https://github.com/GaborLengyel/dot-SNARC).
 
