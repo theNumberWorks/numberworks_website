@@ -96,6 +96,13 @@
     - link: https://www.hull.ac.uk/staff-directory/shane-lindsay
       icon: globe
   desc:
+- avatar: images/collaborators/SergioMorra.webp
+  name: Sergio Morra
+  position: 
+  socials:
+    - link: https://www.researchgate.net/profile/Sergio-Morra-2
+      icon: globe
+  desc:
 - avatar: images/collaborators/ZsuzsannaNemecz.jpeg
   name: Zsuzsanna Nemecz
   position: 
@@ -122,6 +129,13 @@
   position: 
   socials:
     - link: https://odic.psych.ubc.ca/
+      icon: globe
+  desc:
+- avatar: images/collaborators/SabrinaPanesi.jpg
+  name: Sabrina Panesi
+  position: 
+  socials:
+    - link: https://www.researchgate.net/profile/Sabrina-Panesi
       icon: globe
   desc:
 - avatar: images/collaborators/AndreaPatalano.jpg
