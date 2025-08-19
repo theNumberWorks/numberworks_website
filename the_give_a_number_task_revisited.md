@@ -51,7 +51,7 @@ In the literature, different evaluation methods are used for the Give a Number t
 
 <i class='fa fa-file-text'></i> Attila, K. (2025). Give-a-number task evaluation methods influence the measured number knowledge. [Read the preprint.](https://osf.io/preprints/psyarxiv/cen3b_v1?view_only=)
 
-<i class='fa fa-table'></i> Find the raw data of this study at [osf.io](https://osf.io/5pwg8/).
+<i class='fa fa-table'></i> Find the raw data and key analyses of this study at [osf.io](https://osf.io/5pwg8/).
 
 ### 4. Revising the original validation of the Give-a-number task
 
