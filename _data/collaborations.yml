@@ -33,18 +33,18 @@
     - link: https://www.researchgate.net/profile/Ilse-Coolen
       icon: globe
   desc:
-- avatar: images/collaborators/NataliaDubinkina.jpg
-  name: Natalia Dubinkina
-  position: 
-  socials:
-    - link: https://www.researchgate.net/profile/Natalia-Dubinkina
-      icon: globe
-  desc:
 - avatar: images/collaborators/DeclanDevlin.png
   name: Declan Devlin
   position: 
   socials:
     - link: https://www.researchgate.net/profile/Declan-Devlin-2
+      icon: globe
+  desc:
+- avatar: images/collaborators/NataliaDubinkina.jpg
+  name: Natalia Dubinkina
+  position: 
+  socials:
+    - link: https://www.researchgate.net/profile/Natalia-Dubinkina
       icon: globe
   desc:
 - avatar: images/collaborators/BenceCsabaFarkas.jpg
@@ -180,13 +180,6 @@
     - link: https://www.ulster.ac.uk/staff/v-simms
       icon: globe
   desc:
-- avatar: images/collaborators/MonikaSzczygiel.jpg
-  name: Monika Szczygieł
-  position: 
-  socials:
-    - link: https://psychologia.uj.edu.pl/monika-szczygiel
-      icon: globe
-  desc:
 - avatar: images/collaborators/MikaelSkagenholt.jpg
   name: Mikael Skagenholt
   position: 
@@ -206,6 +199,13 @@
   position: 
   socials:
     - link: https://www.sjsu.edu/people/emily.slusser/
+      icon: globe
+  desc:
+- avatar: images/collaborators/MonikaSzczygiel.jpg
+  name: Monika Szczygieł
+  position: 
+  socials:
+    - link: https://psychologia.uj.edu.pl/monika-szczygiel
       icon: globe
   desc:
 - avatar: images/collaborators/UlfTraff.jpg
