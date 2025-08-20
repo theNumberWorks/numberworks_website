@@ -27,7 +27,7 @@ section_id: about
               </div>
             </div>
           </div>
-          <div class='two spacing' style='text-transform:uppercase'>{{member.name}}</div>
+          <div class='two spacing' style='text-transform:uppercase; text-align:center'>{{member.name}}</div>
           <div class='two spacing'></div>
         </div>
       </div>
