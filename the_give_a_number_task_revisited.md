@@ -49,7 +49,7 @@ In a simple study, **three versions of the follow-up questions** were compared: 
 
 In the literature, different evaluation methods are used for the Give a Number task, which may reveal different levels of number knowledge in a child. In this study, several evaluation methods (such as the range of accepted values, proportion of minimum correct responses for a value, and the number of tolerable misgiven numbers) were compared on the same dataset. **The evaluation methods considerably influenced the found number knowledge level.** Different evaluation methods may make different studies incomparable, they may decrease the reliability of the measurement, and they compromise validity.
 
-<i class='fa fa-file-text'></i> Attila, K. (2025). Give-a-number task evaluation methods influence the measured number knowledge. [Read the preprint.](https://osf.io/preprints/psyarxiv/cen3b)
+<i class='fa fa-file-text'></i> Attila, K. (2025). Give-a-number task evaluation methods influence the measured number knowledge. [Read the preprint.](https://psycharchives.org/en/item/2986df8e-e5e0-4678-b0a1-226d561dd70c)
 
 <i class='fa fa-table'></i> Find the raw data and key analyses of this study at [osf.io](https://osf.io/5pwg8/).
 
