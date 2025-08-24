@@ -61,7 +61,7 @@ While the validity of the Give-a-number task is widely supposed in the literatur
 
 In the literature, 1-, 2-, 3-, and 4-knowers are categorized as subset-knowers, and it is assumed that these children have only a limited conceptual understanding of numbers. On the other hand, 5-, 6-, etc. knowers (large-number-subset-knowers or LNS-knowers) are categorized as cardinality-principle-knowers, and it is assumed that they understand the fundamental properties of numbers. To verify and validate this categorization, symbolic comparison task performance was measured in those groups separately. It was found that, similar to 1-4-knowers, LNS-knowers can compare only the numbers that they know in the GaN task. This shows that **LNS-knowers are conceptually subset-knowers because their understanding of numbers is fundamentally limited**.
 
-<i class='fa fa-file-text'></i> Krajcsi, A., & Reynvoet, B. (2023). Miscategorized subset-knowers: Five- and six-knowers can compare only the numbers they know. Developmental Science, n/a(n/a), e13430. [https://doi.org/10.1111/desc.13430](https://doi.org/10.1111/desc.13430)
+<i class='fa fa-file-text'></i> Krajcsi, A., & Reynvoet, B. (2024). Miscategorized subset-knowers: Five- and six-knowers can compare only the numbers they know. Developmental Science, 27(1), e13430. [https://doi.org/10.1111/desc.13430](https://doi.org/10.1111/desc.13430)
 
 <i class='fa fa-table'></i> Find the raw data of this study at [osf.io](https://osf.io/qj428/).
 
