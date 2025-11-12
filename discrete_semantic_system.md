@@ -130,5 +130,3 @@ In the last decades of numerical cognition literature, there were several seemin
 ---
 
 More tests are on their way. Come back later to see some more works contrasting the ANS and DSS models.
-
-[Follow updates of this project on ResearchGate](https://www.researchgate.net/project/An-alternative-model-for-symbolic-number-processing)
