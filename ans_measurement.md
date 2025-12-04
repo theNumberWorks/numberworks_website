@@ -18,6 +18,11 @@ Many works discuss specific issues of ANS sensitivity, and reviews discuss ANS m
 <i class='fa fa-file-text'></i> Krajcsi, A., Chesney, D., Cipora, K., Coolen, I., Gilmore, C., Inglis, M., Libertus, M., Nuerk, H.-C., Simms, V., & Reynvoet, B. (2024). Measuring the acuity of the approximate number system in young children. Developmental Review, 72, 101131. [https://doi.org/10.1016/j.dr.2024.101131](https://doi.org/10.1016/j.dr.2024.101131) Or find the preprint [here](https://osf.io/preprints/psyarxiv/nyw94).
 
 
+## Measuring ANS acuity training with drift-diffusion models
+
+Empirical findings about the training of the ANS acuity are conflicting and debated. One possible issue is that in the drift-diffusion model (DDM) framework, while several DDM parameters may change during the training, leading to changes in behavior, only the drift rate-related changes mean ANS acuity improvement. Another issue is that opposing DDM parameter changes may make some behavioral output unchanged. In this work, we analyzed training data with the DDM model and found that while there is no ANS improvement when measured in the error rate, there is an ANS acuity improvement when measured with the drift rate. The reason why the training effect is not visible in the error rate is that an opposing DDM threshold change (participants may be bored by the task) counteracts and covers the ANS acuity improvement.
+
+<i class='fa fa-file-text'></i> Attila Krajcsi, Delphine Sasanguie, Roi Cohen Kadosh, Bert Reynvoet (2025): Beyond Error Rates: Revealing the True Effectiveness of Approximate Number System Training. Check back later for the manuscript. 
 
 
 ## Using the ratio/distance effect slope
