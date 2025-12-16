@@ -46,7 +46,7 @@ We investigated some fundamental properties of the ASRT task's reliability.
 
 We investigated some fundamental properties of the MST's reliability.
 
-<i class='fa fa-file-text'></i> Nemecz, Z., Szűcs, T., Keresztes, A., & Krajcsi, A. (2025). Studying brain-behavior correlations and individual differences using the Mnemonic Similarity Task – a note of caution on reliability. Check back later for the manuscript.
+<i class='fa fa-file-text'></i> Nemecz, Z., Szűcs, T., Keresztes, A., & Krajcsi, A. (2025). Estimating the reliability of the lure discrimination index for studying brain-behavior correlations and individual differences in memory. [Find the preprint here](https://osf.io/preprints/psyarxiv/7tsnh).
 
 <i class='fa fa-file-code-o'></i> Find the analysis code and other related materials at [osf.io](https://osf.io/kbxut/?view_only=a1e6b0147e9940dc944d7a5831eaaa87).
 
