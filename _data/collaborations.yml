@@ -180,6 +180,13 @@
     - link: https://www.fsella.com/
       icon: globe
   desc:
+- avatar: images/collaborators/SamuelShaki.jpg
+  name: Samuel Shaki
+  position: 
+  socials:
+    - link: https://campuscore.ariel.ac.il/Projects/trp/GeneralInformation.asp?numRec=53&id_lang=1
+      icon: globe
+  desc:
 - avatar: images/collaborators/VictoriaSimms.jpg
   name: Victoria Simms
   position: 
