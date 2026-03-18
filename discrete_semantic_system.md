@@ -77,7 +77,7 @@ The same question was also investigated with Indo-Arabic numbers, and we found t
 
 We tested whether nonsymbolic number comparison is sensitive to the statistical features of the stimuli as seen in symbolic comparison. We found that, unlike in the symbolic comparison task, in the nonsymbolic comparison task, the distance effect was mainly influenced by the values rather than the statistics of the stimuli. Additionally, while the size effect was modified by the frequency of the stimuli, the change of the size effect may not have originated in the difficulty of the task (as predicted by the psychophysical models) but in other parameters of the decision process, such as the adjustment of the decision threshold. The results reflect that nonsymbolic number comparison is mainly driven by a psychophysical process; however, stimulus frequency has an additional role. Again, symbolic and nonsymbolic numerical stimuli are compared qualitatively differently.
 
-<i class='fa fa-file-text'></i> Krajcsi, A., & Kojouharova, P. (2025). Different sources of the numerical comparison size effect. Memory & Cognition.
+<i class='fa fa-file-text'></i> Krajcsi, A., & Kojouharova, P. (2026). Different sources of the numerical comparison size effect. Memory & Cognition. https://doi.org/10.3758/s13421-025-01781-2
 
 <i class='fa fa-table'></i> Find the raw data of this study at [osf.io](https://osf.io/5rzte/).
 
