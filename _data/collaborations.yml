@@ -68,6 +68,13 @@
     - link: https://www.researchgate.net/profile/Marta-Fedele
       icon: globe
   desc:
+- avatar: images/collaborators/MartinFischer.jpg
+  name: Martin Fischer
+  position: 
+  socials:
+    - link: https://www.uni-potsdam.de/en/pecog/members/prof-martin-fischer-phd
+      icon: globe
+  desc:
 - avatar: images/collaborators/CamillaGilmore.jpg
   name: Camilla Gilmore
   position: 
