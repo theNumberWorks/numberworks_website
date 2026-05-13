@@ -1,3 +1,4 @@
+---
 layout: page
 title: Reliability
 section_id: methods
