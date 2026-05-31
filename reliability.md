@@ -54,3 +54,5 @@ We investigated some fundamental properties of the MST's reliability.
 ## The example of the Approximate Number System acuity
 
 Work in progress. Come back later for more details.
+
+<i class='fa fa-file'></i> See a [presentation](https://docs.google.com/presentation/d/1egIeG0oECFJpKlH6h58CmUozp7oVdcSS8Twq5Vg-I5M/edit?usp=sharing) about this work.
