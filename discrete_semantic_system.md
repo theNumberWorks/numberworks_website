@@ -113,6 +113,8 @@ The ANS model assumes that both symbolic and nonsymbolic number processing may i
 
 <i class='fa fa-table'></i> Find the experiment control script, the raw data, and the analysis script of this study at [GitHub](https://github.com/GaborLengyel/dot-SNARC).
 
+<i class='fa fa-file'></i> See a [presentation](https://docs.google.com/presentation/d/1OYWzteV4qPS2GSbIykfn_S9mQ8mc-1T9Mty_ug-Wbw8/edit?usp=sharing) about this work.
+
 ### 8. The comparison distance effect and the priming distance effect rely on different mechanisms
 The ANS model assumes that both the comparison distance effect (CDE) and the priming distance effect (PDE) are rooted in the same mechanism: they depend on the overlap of the two numbers' representation. This assumption implies that the CDE slope and the PDE slope correlate. We measured this correlation while making sure that the reliability of those slopes is appropriate so that low reliability cannot attenuate the correlation. No strong correlation was found, which questions the ANS account of the CDE and/or PDE.
 
