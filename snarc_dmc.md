@@ -4,7 +4,7 @@ title: Modeling decision-making based on numerical information
 section_id: numerical_cognition
 ---
 
-## Modeling decision-making based on numerical information
+by Dávid Csúri
 
 **According to a well-documented phenomenon in cognitive psychology, called the SNARC effect, it is easier to decide the parity of smaller numbers with our left hand.**
 Since the dawn of cognitive science, researchers have wanted to understand how mental representations work. One branch of cognitive psychology, called numerical cognition, is interested in understanding how we process numbers and their attributes, and how we manipulate our numerical mental representations. One way to investigate the underlying cognitive mechanisms of numerical processing is to study so-called numerical interferences.
