@@ -20,9 +20,9 @@ The relation between reliability and statistical power is complex. On the one ha
 
 A bootstrapping method recommended in the methodological literature relies on sampling with replacement. However, this method may overestimate the reliability. We evaluate critical properties using a Monte Carlo simulation and provide recommendations for more accurate reliability calculations.
 
-<i class='fa fa-file-text'></i> The manuscript is in preparation. Check back later for more details.
+<i class='fa fa-file-text'></i> Krajcsi, A., Szűcs, T., & Daria, K. (2026). Split-half reliability calculation applying resampling with replacement overestimates reliability. [https://doi.org/10.5281/zenodo.21915658](https://doi.org/10.5281/zenodo.21915658) (Preprint)
 
-<i class='fa fa-file-code-o'></i> The simulation code is in preparation. Check back later for it.
+<i class='fa fa-file-code-o'></i> The simulation code is [available here](https://colab.research.google.com/drive/1xP9nHlIbFRDiLn9OGbFSg-J6cnhtZcXB?usp=sharing).
 
 ## Theoretical maximum of reliability
 
