@@ -1,3 +1,10 @@
+- avatar: images/collaborators/RobertoAbreuMendoza.jpg
+  name: Roberto A. Abreu-Mendoza
+  position: 
+  socials:
+    - link: https://www.roberto-abreumendoza.com
+      icon: globe
+  desc:
 - avatar: images/collaborators/DanielAnsari.jpg
   name: Daniel Ansari
   position: 
@@ -87,6 +94,13 @@
   position: 
   socials:
     - link: https://camillagilmore.wordpress.com/
+      icon: globe
+  desc:
+- avatar: images/collaborators/ElizabethGunderson.jpg
+  name: Elizabeth A. Gunderson
+  position: 
+  socials:
+    - link: https://www.researchgate.net/profile/Elizabeth-Gunderson-2
       icon: globe
   desc:
 - avatar: images/collaborators/MatthewInglis.jpg
