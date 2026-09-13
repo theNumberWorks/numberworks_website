@@ -4,11 +4,6 @@
   name: Boglárka Bischof
 - avatar: images/members/KimberlyBrosche.jpg
   name: Kimberly Brosche
-- avatar: images/members/DavidCsuri.jpeg
-  name: Dávid Csúri
-- avatar: images/members/RobertFodor.png
-  name: Róbert Fodor
-  position: BA student
 - avatar: images/members/EvelinHaasz.jpg
   name: Evelin Haász
 - avatar: images/members/OrsolyaKis.jpg
@@ -52,7 +47,6 @@
   name: Ádám Szimilkó
 - avatar: images/members/TamasSzucs.jpg
   name: Tamás Szűcs
-  position: MA student
   socials:
     - link: https://tomiszucs.github.io/
       icon: globe
