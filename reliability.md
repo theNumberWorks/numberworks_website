@@ -22,7 +22,7 @@ A bootstrapping method recommended in the methodological literature relies on sa
 
 <i class='fa fa-file-text'></i> Krajcsi, A., Szűcs, T., & Daria, K. (2026). Split-half reliability calculation applying resampling with replacement overestimates reliability. [https://doi.org/10.5281/zenodo.21915658](https://doi.org/10.5281/zenodo.21915658) (Preprint)
 
-<i class='fa fa-file-code-o'></i> The simulation code is [available here](https://colab.research.google.com/drive/1xP9nHlIbFRDiLn9OGbFSg-J6cnhtZcXB?usp=sharing).
+<i class='fa fa-file-code-o'></i> The simulation code is [available here](https://colab.research.google.com/drive/1xP9nHlIbFRDiLn9OGbFSg-J6cnhtZcXB?usp=sharing) and [here](https://doi.org/10.5281/zenodo.22747495).
 
 ## Theoretical maximum of reliability
 
