@@ -49,7 +49,7 @@ We investigated some fundamental properties of the ASRT task's reliability.
 
 We investigated some fundamental properties of the MST's reliability.
 
-<i class='fa fa-file-text'></i> Nemecz, Z., Szűcs, T., Keresztes, A., & Krajcsi, A. (2026). Estimating the Reliability of the Lure Discrimination Index for Studying Brain-Behavior Correlations and Individual Differences in Memory. Collabra: Psychology, 12(1), 171777. [https://doi.org/10.1525/collabra.171777](https://doi.org/10.1525/collabra.171777) [Or find the preprint here](https://osf.io/preprints/psyarxiv/7tsnh).
+<i class='fa fa-file-text'></i> Nemecz, Z., Szűcs, T., Keresztes, A., & Krajcsi, A. (2026). Estimating the Reliability of the Lure Discrimination Index for Studying Brain-Behavior Correlations and Individual Differences in Memory. Collabra: Psychology, 12(1), 171777. [https://doi.org/10.1525/collabra.171777](https://doi.org/10.1525/collabra.171777). Or find the preprint [here](https://osf.io/preprints/psyarxiv/7tsnh).
 
 <i class='fa fa-file-code-o'></i> Find the analysis code and other related materials at [osf.io](https://osf.io/kbxut/?view_only=a1e6b0147e9940dc944d7a5831eaaa87).
 
