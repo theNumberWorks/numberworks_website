@@ -36,8 +36,8 @@ Krajcsi, A., Kojouharova, P., & Lengyel, G. (2022). Processing Symbolic Numbers:
 ---
 
 In this theoretical paper, we provide simple arguments and examples to show why an imprecise, approximate representation is unlikely to account for exact, symbolic number comparison.
-<i class='fa fa-file-text'></i> Krajcsi, A. (2026). The Approximate Number System is an unlikely account for symbolic number comparison. [Preprint version](https://doi.org/10.31234/osf.io/6m4zw).
 
+<i class='fa fa-file-text'></i> Krajcsi, A. (2026). The Approximate Number System is an unlikely account for symbolic number comparison. [Preprint version](https://doi.org/10.31234/osf.io/6m4zw).
 
 ### 1. The symbolic numerical size effect is a frequency effect
 In the ANS model, the size effect in a comparison task is thought to be the consequence of the ratios of the values (Weber's law). In our alternative DSS model, it might be a frequency effect resulting from the uneven frequencies of numbers in everyday life. It is not trivial to test this assumption in Indo-Arabic numbers because they have been seen so many times that their perceived frequency is not easy to change. To get around this problem, in a new paradigm, new artificial numbers were learned, and the frequencies of the numbers were manipulated. We found that the size effect in a comparison task with these symbols follows the frequency of the numbers, as predicted by the DSS model.
@@ -66,7 +66,6 @@ In a next study, we investigated whether (a) the frequency alone can account for
 <i class='fa fa-file'></i> See a [presentation](https://docs.google.com/presentation/d/1szrjgqDrMSsrdZrAeDRLK_3D7YQvguEUa9aZ5_KPdq0/edit?usp=sharing) about this work.
 
 ### 2. The symbolic numerical distance effect is an association effect
-
 In the classic ANS model, the distance effect of a comparison task is the consequence of the ratios of the numbers (Weber's law). In the DSS model, the distance effect might come from alternative sources; for example, it might be the consequence of some associations: larger numbers are relatively strongly associated with the concept 'large', while small numbers are relatively strongly associated with the concept 'small'. In this explanation, close numbers are hard to compare because they have similar associations with the 'large' or 'small' nodes. In an approach to contrast the two explanations, new symbols were taught, but some numbers were left out (i.e., only numbers between 1 and 3, and 7 and 9 were learned and practiced). It was found that around the 'gap', the distance effect showed a distance of 1, as predicted by the association explanation, and not by a distance of 4, as predicted by the values of those numbers, as supposed by the ANS model.
 
 <i class='fa fa-file-text'></i> Krajcsi, A., & Kojouharova, P. (2017). Symbolic Numerical Distance Effect Does Not Reflect the Difference between Numbers. Frontiers in Psychology, 8. [https://doi.org/10.3389/fpsyg.2017.02013](https://doi.org/10.3389/fpsyg.2017.02013) or read the [preprint version](https://psyarxiv.com/bpy9c/).
@@ -80,7 +79,6 @@ The same question was also investigated with Indo-Arabic numbers, and we found t
 <i class='fa fa-table'></i> Find some of the analyses at [osf.io](https://osf.io/qjymb/).
 
 ### 3. Nonsymbolic comparison does not show the statistical effects of symbolic comparison.
-
 We tested whether nonsymbolic number comparison is sensitive to the statistical features of the stimuli as seen in symbolic comparison. We found that, unlike in the symbolic comparison task, in the nonsymbolic comparison task, the distance effect was mainly influenced by the values rather than the statistics of the stimuli. Additionally, while the size effect was modified by the frequency of the stimuli, the change in the size effect may not have originated in the difficulty of the task (as predicted by the psychophysical models) but in other parameters of the decision process, such as the adjustment of the decision threshold. The results reflect that nonsymbolic number comparison is mainly driven by a psychophysical process; however, stimulus frequency has an additional role. Again, symbolic and nonsymbolic numerical stimuli are compared qualitatively differently.
 
 <i class='fa fa-file-text'></i> Krajcsi, A., & Kojouharova, P. (2026). Different sources of the numerical comparison size effect. Memory & Cognition. [https://doi.org/10.3758/s13421-025-01781-2](https://doi.org/10.3758/s13421-025-01781-2)
