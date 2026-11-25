@@ -49,7 +49,7 @@ In a simple study, **three versions of the follow-up questions** were compared: 
 
 In the literature, different scoring methods are used for the Give a Number task, which may reveal different levels of number knowledge in a child. In this study, several scoring methods (such as the range of accepted values, proportion of minimum correct responses for a value, and the number of tolerable misgiven numbers) were compared on the same dataset. **The scoring methods considerably influenced the found number knowledge level.** Different scoring methods may make studies incomparable; they may reduce reliability of the measurement and compromise validity.
 
-<i class='fa fa-file-text'></i> Attila, K. (2026). Give-a-number task scoring methods influence the observed number knowledge. [Read the preprint.](https://osf.io/preprints/psyarxiv/cz9ug) ([The first preprint version is available here.](https://psycharchives.org/en/item/2986df8e-e5e0-4678-b0a1-226d561dd70c))
+<i class='fa fa-file-text'></i> Krajcsi, A. (2026). Give-a-number task scoring methods influence the observed number knowledge. [Read the preprint.](https://osf.io/preprints/psyarxiv/cz9ug) ([The first preprint version is available here.](https://psycharchives.org/en/item/2986df8e-e5e0-4678-b0a1-226d561dd70c))
 
 <i class='fa fa-table'></i> Find the raw data and key analyses of this study at [osf.io](https://osf.io/5pwg8/).
 
