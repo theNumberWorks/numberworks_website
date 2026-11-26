@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  The Give a number task revisited
+title:  The Give-a-number task revisited
 section_id: numerical_cognition
 ---
 
@@ -16,18 +16,18 @@ The Give-a-number task is the gold standard to measure preschoolers' number know
 
 <i class='fa fa-file-video-o'></i> Watch an [MCLS 2020 presentation](https://www.youtube.com/watch?v=finJsMHUUKM) about the summary of these works.
 
-<i class='fa fa-table'></i> Find some of our raw data in [Numberbank](https://numberbank.shinyapps.io/shiny_app/) too, where you can compare some results of various datasets that come from different labs/countries/cultures.
+<i class='fa fa-table'></i> Find some of our raw data in [Numberbank](https://numberbank.shinyapps.io/shiny_app/) too, where you can compare results from various datasets that come from different labs/countries/cultures.
 
 <i class='fa fa-link'></i> Our lab is a member of the [ManyNumbers network](https://www.manynumbers.org/home).
 
 ### 1. Large-number-subset-knowers and the titration method
 
-In the current version of the task, (a) the **numbers are asked up to 5** (because it is supposed that if a child knows 5, then she knows all other numbers in her counting list), and (b) with the so called **titration method** if a number is not known, then no larger numbers are asked (because it is supposed that up to the limit of the child's number knowledge, the numbers are known relatively firmly, and beyond that limit numbers are not known at all).
+In the current version of the task, (a) the **numbers are asked up to 5** (because it is supposed that if a child knows 5, then she knows all other numbers in her counting list), and (b) with the so-called **titration method**, if a number is not known, then no larger numbers are asked (because it is supposed that up to the limit of the child's number knowledge, the numbers are known relatively firmly, and beyond that limit numbers are not known at all).
 
 **We used a modified version of the task** in which (a) 6 items were also asked (i.e., even if children knowing 5 should know 6), and (b) all numbers in this 1-6 range were asked three times, independent of the performance for smaller numbers. With this modified version of the task, we found that:
 1. **There are five-knowers**, i.e., children who can give 5, but not 6, which is against the current view suggesting that after learning 4, children become cardinality-principle-knowers, and they can give any numbers that are in their counting list.
 2. Within a child, **number knowledge decreases gradually as the numbers increase, instead of a sudden performance drop at a single value**, therefore, the titration method, together with the usual noise of the measurement, may fail to measure the number knowledge reliably.
-Based on these results, we suggest that the Give-a-number task should be modified. First, numbers should be asked for values larger than 5. Second, instead of the titration method, all numbers should be asked. However, it is still open that after conducting the task, how an index should be created to reflect number knowledge validly.
+Based on these results, we suggest that the Give-a-number task should be modified. First, numbers should be asked for values larger than 5. Second, instead of the titration method, all numbers should be asked for. However, it is still open how an index should be created after conducting the task to reflect number knowledge validly.
 
 <i class='fa fa-file-text'></i> Krajcsi, A., & Fintor, E. (2023). A refined description of initial symbolic number acquisition. Cognitive Development, 65, 101288. [https://doi.org/10.1016/j.cogdev.2022.101288](https://doi.org/10.1016/j.cogdev.2022.101288) Or read the [preprint version](https://osf.io/2kh9s) of the manuscript.
 
@@ -51,11 +51,11 @@ In the literature, different scoring methods are used for the Give a Number task
 
 <i class='fa fa-file-text'></i> Krajcsi, A. (2026). Give-a-number task scoring methods influence the observed number knowledge. [Read the preprint.](https://osf.io/preprints/psyarxiv/cz9ug) ([The first preprint version is available here.](https://psycharchives.org/en/item/2986df8e-e5e0-4678-b0a1-226d561dd70c))
 
-<i class='fa fa-table'></i> Find the raw data and key analyses of this study at [osf.io](https://osf.io/5pwg8/).
+<i class='fa fa-table'></i> Find the raw data and key analyses of this study at [osf.io](https://osf.io/5pwg8/) (or the [view-only version](https://osf.io/5pwg8/overview?view_only=0a8e2a9e0d1f4da0b96f73bb34d39645) until the dataset is entirely open).
 
 ### 4. Revising the original validation of the Give-a-number task
 
-While the validity of the Give-a-number task is widely supposed in the literature, in fact, the original validation of the task raises several issues. Find more details about these issues in the General discussion of the manuscript of the first work above. In the present work, we replicate and reinvestigate the original validation results.
+While the validity of the Give-a-number task is widely assumed in the literature, in fact, the original validation of the task raises several issues. Find more details about these issues in the General discussion of the manuscript of the first work above. In the present work, we replicate and reinvestigate the original validation results.
 
 ### 5. A new validation: Large-number-subset-knowers can compare only the numbers they know 
 
