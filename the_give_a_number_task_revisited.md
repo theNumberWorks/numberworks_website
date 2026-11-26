@@ -26,7 +26,7 @@ In the current version of the task, (a) the **numbers are asked up to 5** (becau
 
 **We used a modified version of the task** in which (a) 6 items were also asked (i.e., even if children knowing 5 should know 6), and (b) all numbers in this 1-6 range were asked three times, independent of the performance for smaller numbers. With this modified version of the task, we found that:
 1. **There are five-knowers**, i.e., children who can give 5, but not 6, which is against the current view suggesting that after learning 4, children become cardinality-principle-knowers, and they can give any numbers that are in their counting list.
-2. Within a child, **number knowledge decreases gradually as the numbers increase, instead of a sudden performance drop at a single value**, therefore, the titration method, together with the usual noise of the measurement, may fail to measure the number knowledge reliably.
+2. Within a child, **number knowledge decreases gradually as the numbers increase, instead of a sudden performance drop at a single value**; therefore, the titration method, together with the usual noise of the measurement, may fail to measure number knowledge reliably.
 Based on these results, we suggest that the Give-a-number task should be modified. First, numbers should be asked for values larger than 5. Second, instead of the titration method, all numbers should be asked for. However, it is still open how an index should be created after conducting the task to reflect number knowledge validly.
 
 <i class='fa fa-file-text'></i> Krajcsi, A., & Fintor, E. (2023). A refined description of initial symbolic number acquisition. Cognitive Development, 65, 101288. [https://doi.org/10.1016/j.cogdev.2022.101288](https://doi.org/10.1016/j.cogdev.2022.101288) Or read the [preprint version](https://osf.io/2kh9s) of the manuscript.
@@ -39,7 +39,7 @@ Based on these results, we suggest that the Give-a-number task should be modifie
 
 At the end of the trial, to avoid performance error, follow-up questions are used, e.g., recount the given set, and check if the given set is the same as it was asked for. In the literature, there are various versions of those follow-up questions. To our knowledge, it has not been investigated before whether the different versions have different effects on the children's performance.
 
-In a simple study, **three versions of the follow-up questions** were compared: (a) no question at all, (b) a question whether the given set includes the appropriate amount, and (c) an instruction to recount. It was found that children show **higher performance with the recount instruction**. Also, the three conditions induce different amounts of corrections at the end of the trials.
+In a simple study, **three versions of the follow-up questions** were compared: (a) no question at all, (b) a question about whether the given set includes the appropriate amount, and (c) an instruction to recount. It was found that children show **higher performance with the recount instruction**. Also, the three conditions induce different amounts of corrections at the end of the trials.
 
 <i class='fa fa-file-text'></i> Krajcsi, A. (2021). Follow-up questions influence the measured number knowledge in the Give-a-number task. Cognitive Development, 57, 100968. [https://doi.org/10.1016/j.cogdev.2020.100968](https://doi.org/10.1016/j.cogdev.2020.100968) or read the [preprint version](https://psyarxiv.com/fky69) of the manuscript.
 
@@ -66,3 +66,10 @@ In the literature, 1-, 2-, 3-, and 4-knowers are categorized as subset-knowers, 
 <i class='fa fa-table'></i> Find the raw data of this study at [osf.io](https://osf.io/qj428/).
 
 <i class='fa fa-desktop'></i> Find a [presentation](https://docs.google.com/presentation/d/1w-2WIiYGRQ75L3gq8E_19VJocaYV2bF2f9KxkgHjvlU/edit?usp=sharing) about this work.
+
+### 6. Theories behind the development of subset-knowers
+
+The point of these methodological studies is that refined methods provide a clearer description of the relevant developmental pattern, and that pattern can open the way for more appropriate models and theories.
+
+* One of our critical results is that if a leap in understanding the cardinality principle may happen not only when children understand 4, but later, then the Object Tracking System (a limited spatial representation that could follow up to 4 objects) is not a feasible account of subset-knowers. See the ** 1. Large-number-subset-knowers and the titration method** section above for more details.
+* Also, another main account of how subset-knowers develop proposes that the development pace of understanding the first integers depends on the maturation of the Approximate Number System. However, our analysis shows that if the mathematically incomplete ANS account is completed, currently available datasets do not support it: ANS sensitivity does not improve fast enough to account for preschoolers' learning pace of the first integers. Find more details on our page dedicated to [the role of the ANS in children](ans_in_children).
